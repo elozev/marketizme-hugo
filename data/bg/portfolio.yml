@@ -1,0 +1,36 @@
+enable  : true
+topTitle: Последни проекти
+title   : Портфолио.
+subtitle: Разгледайте последните ни завършени проекти.
+
+filtermenu :
+  - name      : Уебсайтове
+    category  : website
+
+  - name      : Социални мрежи
+    category  : social
+
+item   :
+  - title : EМStyle
+    image : images/portfolio/portfolio-1.jpg
+    category  : website
+
+  - title : Академия Славия
+    image : images/portfolio/portfolio-2.jpg
+    category  : social
+
+  - title : Soccer King Store
+    image : images/portfolio/portfolio-3.jpg
+    category  : website
+
+  - title : 54 Lounge Bar
+    image : images/portfolio/portfolio-4.jpg
+    category  : social
+
+  - title : MMTuning
+    image : images/portfolio/portfolio-5.jpg
+    category  : website
+
+  - title : Club 35
+    image : images/portfolio/portfolio-6.jpg
+    category  : social

@@ -1,0 +1,25 @@
+[about]
+other = "За Нас"
+[service]
+other = "Услуги"
+# [portfolio]
+# other = "Портфолио"
+# [blog]
+# other = "FR Blog"
+[contact]
+other = "Контакти"
+
+[webdesign]
+other = "Разработка на уебсайт"
+[social]
+other = "Поддръжка на социални мрежи"
+[design]
+other = "Креативен дизайн"
+[ads]
+other = "Рекламни кампании"
+
+
+[partners]
+other = "За Нас"
+[faqs]
+other = "Контакти"

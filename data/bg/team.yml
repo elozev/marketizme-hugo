@@ -1,0 +1,50 @@
+enable  : true
+topTitle: Екип
+title   : Нашият Екип
+subtitle: Запознайте се с хората стоящи зад нашата компания.
+
+member  :
+  - image         : images/team/member-1.jpg
+    name          : Христо Мартински
+    designation   : Marketing Manager
+    description   : >
+      "Маркетингът е твърде важен, за да бъде оставен на маркетинг отдела, ето къде идваме и ние."
+    facebookURL   : https://www.facebook.com/
+    instagramURL    : https://twitter.com/
+    mailURL    : https://twitter.com/
+
+  - image         : images/team/member-2.jpg
+    name          : Емил Лозев
+    designation   : Front & Backend Developer
+    description   : >
+      "Доволният клиент е нашата цел номер 1!"
+    facebookURL   : https://www.facebook.com/
+    instagramURL    : https://twitter.com/
+    mailURL    : https://twitter.com/
+  
+  - image         : images/team/member-3.jpg
+    name          : Даниел Тонев
+    designation   : Project Manager
+    description   : >
+      "Намери си работа, която ти харесва и никога няма да ти се налага да работиш."
+    facebookURL   : https://www.facebook.com/
+    instagramURL    : https://twitter.com/
+    mailURL    : https://twitter.com/
+
+  - image         : images/team/member-4.jpg
+    name          : Ива Граматикова
+    designation   : Copywriter & content marketing
+    description   : >
+      "Направи го просто. Направи го запомнящо се. Направи го забавно за четене и всеки ще обърне внимание."
+    facebookURL   : https://www.facebook.com/
+    instagramURL    : https://twitter.com/
+    mailURL    : https://twitter.com/
+
+  - image         : images/team/member-5.jpg
+    name          : Борислав Гласков
+    designation   : Web Developer
+    description   : >
+      „Ние не създаваме просто уебсайтове, а изграждаме уебсайтове, които ПРОДАВАТ.“
+    facebookURL   : https://www.facebook.com/
+    instagramURL    : https://twitter.com/
+    mailURL    : https://twitter.com/

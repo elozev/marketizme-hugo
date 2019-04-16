@@ -1,0 +1,39 @@
+enable    : true
+topTitle  : Предлагани услуги
+title     : Услуги.
+subtitle  : Запознайте се с предлаганите от нас услуги!
+item      :
+  - icon  : tf-ion-social-facebook
+    title : Поддръжка на социални мрежи
+    link : social
+    list  :
+      - name : Поддръжка на страница.
+      - name : Публикуване на рубрики и игри.
+      - name : Реализиране и проследяване на рекламни кампании.
+      - name : Създаване и добавяне на продукти във Facebook Shop.
+
+  - icon  : tf-ion-social-html5
+    title : Разработка на уебсайт
+    link : webdesign
+    list  :
+      - name : Изграждане на уебсайт и онлайн магазин.
+      - name : SEM стратегии.
+      - name : Google Adwords кампании.
+      - name : Поддръжка на уебсайт.
+
+  - icon  : tf-ion-social-designernews
+    title : Креативен дизайн
+    link: design
+    list  :
+      - name : Създаване на лого и банери.
+      - name : Създаване на дизайн за уебсайт.
+      - name : Създаване на анимации.
+      - name : Създаване на реклами клипове.
+  
+  - icon  : tf-ion-social-google
+    title : Рекламнии кампании
+    link: ad-campaign
+    list  :
+      - name : Планиране и реализиране на рекламна кампания.
+      - name : Определяне и създаване на целеви групи.
+      - name : Email маркетинг.

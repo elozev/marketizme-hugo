@@ -1,0 +1,218 @@
+baseURL = "https://marketizme.herokuapp.com/"
+languageCode = "en-us"
+title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
+theme = "navigator-hugo"
+
+# Build robots.txt file
+enableRobotsTXT = true
+# google analytics tracking id
+googleAnalytics = ""
+
+enableGitInfo = false
+pygmentsCodeFences = true
+
+# Multilangues setup
+# Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
+defaultContentLanguageInSubdir = true
+DefaultContentLanguage = "bg"
+
+# Site Params
+[params]
+    logo = "images/logo.png"
+    # Gestion des langues : FR / EN / NL / DE
+    [[Params.listeLangues]]
+    code = "bg"
+    [[Params.listeLangues]]
+    code = "en"
+
+# Gestion des langues : FR / EN / NL / DE
+[Languages]
+    ############ 1 - Site en FRANCAIS
+    [Languages.bg]
+    weight = 1
+    languageCode = "bg"
+    title = "Marketiz Me – Дигитален маркетинг и реклама"
+    dateFormat = "2 January 2006"
+
+    home = "Начало"
+    logo = "images/logo.png"
+    menufixed = true
+
+    footerDescription = "Marketiz Me е екип от млади и мотиварина хора, стремящи се към перфекционизъм."
+    footerServiceTitle = "Услуги"
+    footerQuicklinkTitle = "Последвайте ни"
+    footerAboutTitle = "За Нас"
+    facebookLink = "https://www.facebook.com/marketizme"
+    instagramLink = "https://www.instagram.com/marketizme/"
+    mailLink = "mailto:office@marketizme.com"
+    # footerSubscribeTitle = "FRANCAIS Subscribe"
+
+    # Hero Area Section
+    [Languages.bg.params.hero]
+        enable  = true
+        heading = "FRANCAIS We love to make brands grow"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+        button  = true
+        btnText = "Know More"
+        btnURL  = "https://themefisher.com/"
+        videoThumb = "images/slider/video-player-thumb.jpg"
+        videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+
+    # About 2 Section
+    [Languages.bg.params.aboutSm]
+        enable  = true
+        title   = "Нашият стремеж е към ..."
+        description = "Описателен текст, Описателен текст, Описателен текст, Описателен текст, Описателен текст, Описателен текст, Описателен текст, Описателен текст, Описателен текст, Описателен текст, "
+
+    # Blog Section On Homepage
+    [Languages.bg.params.blog]
+        enable  = false
+        topTitle= "OUR UNTOLD STORY"
+        title   = "FRANCAIS Blog."
+        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+
+    # Contact Section
+    [Languages.bg.params.contact]
+        enable  = true
+        topTitle= "За връзка с нас"
+        title   = "Контакти."
+        subtitle= "За въпроси и консултации можете да се обърнете към нас по всяко едно време!"
+        address = "ул. Димитър Хаджикоцев 12 <br> София, България"
+        phone   = "+359 888 252 679"
+        # fax     = "+61 3827 3590"
+        facebook= "https://www.facebook.com/marketizme/"
+        # twitter = "https://twitter.com/"
+        # linkedin= "https://www.linkedin.com/"
+        mail= "office@marketizme.com"
+        instagram= "https://www.instagram.com/marketizme/"
+        mapLatitude = "42.677487"
+        mapLongitude= "23.320236"
+        mapMarker   = "images/marker.png"
+
+    # Call to Action Section on About Page
+    [Languages.bg.params.cta]
+        enable  = true
+        bg      = "images/call-to-action/call-to-action-bg-2.jpg"
+        title   = "Нека създадем нещо заедно"
+        subtitle= "Текст текст, Текст текст, Текст текст, Текст текст, Текст текст, Текст текст, Текст текст, Текст текст, Текст текст, Текст текст, "
+        btnText = "Контакти"
+
+    ############# 2 - Site en ENGLISH
+    [Languages.en]
+    weight = 2
+    languageCode = "en-us"
+    title = "Example site multi-language"
+    dateFormat = "January 2, 2006"
+
+    home = "EN Home"
+    logo = "images/logo.png"
+    menufixed = false
+
+    footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+    footerServiceTitle = "Service"
+    footerQuicklinkTitle = "Quicklinks"
+    footerAboutTitle = "About"
+    footerSubscribeTitle = "Subscribe"
+
+    # Hero Area Section
+    [Languages.en.params.hero]
+        enable  = true
+        heading = "We love to make brands grow"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+        button  = true
+        btnText = "Know More"
+        btnURL  = "https://themefisher.com/"
+        videoThumb = "images/slider/video-player-thumb.jpg"
+        videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+
+    # About 2 Section
+    [Languages.en.params.aboutSm]
+        enable  = true
+        title   = "We have explored the digital landscape with passion for a long time"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+
+    # Blog Section On Homepage
+    [Languages.en.params.blog]
+        enable  = true
+        topTitle= "OUR UNTOLD STORY"
+        title   = "Blog."
+        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+
+    # Contact Section
+    [Languages.en.params.contact]
+        enable  = true
+        topTitle= "DROP US A NOTE"
+        title   = "Contact Us."
+        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+        address = "14/05, Stockhome <br> Victori Palace , United States"
+        phone   = "(03) 9283 2617"
+        fax     = "+61 3827 3590"
+        facebook= "https://www.facebook.com/"
+        twitter = "https://twitter.com/"
+        linkedin= "https://www.linkedin.com/"
+        dribbble= "https://dribbble.com/"
+        instagram= "https://www.instagram.com/"
+        
+    # Call to Action Section on About Page
+    [Languages.en.params.cta]
+        enable  = true
+        bg      = "images/call-to-action/call-to-action-bg-2.jpg"
+        title   = "Let's Create Something Together"
+        subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+        btnText = "Contact Us"
+
+# We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "service"
+        url     = "service"
+        weight  = 2
+    [[menu.nav]]
+        name    = "about"
+        url     = "about"
+        weight  = 3
+    [[menu.nav]]
+        name    = "contact"
+        url     = "contact"
+        weight  = 4
+
+    # Footer Service Menu
+    [[menu.service]]
+        name    = "webdesign"
+        url     = "service/webdesign/"
+        weight  = 1
+    [[menu.service]]
+        name    = "social"
+        url     = "service/social/"
+        weight  = 2
+    [[menu.service]]
+        name    = "design"
+        url     = "service/design"
+        weight  = 3
+    [[menu.service]]
+        name    = "ads"
+        url     = "service/ad-campaign"
+        weight  = 4
+
+
+
+    # Footer Quick links Menu
+    [[menu.quicklink]]
+        name    = "partners"
+        url     = "about"
+        weight  = 1
+    [[menu.quicklink]]
+        name    = "about"
+        url     = "about"
+        weight  = 2
+    [[menu.quicklink]]
+        name    = "faqs"
+        url     = "about"
+        weight  = 3
+    [[menu.quicklink]]
+        name    = "badges"
+        url     = "about"
+        weight  = 4

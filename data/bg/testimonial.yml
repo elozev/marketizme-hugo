@@ -1,0 +1,104 @@
+enable  : true
+topTitle: Клиенти
+title   : Част от Нашите Клиенти
+subtitle: Запознайте се с част от нашите клиенти. 
+item    :
+  - quote       : ""
+    clientThumb : images/client-logo/eloz-logo.png
+    clientName  : Смени маслото - Елоз
+
+  - quote       : ""
+    clientThumb : images/client-logo/specter-3.png
+    clientName  : Specter3-1990
+
+  - quote       : ""
+    clientThumb : images/client-logo/club-35-logo.png
+    clientName  : Club 35
+
+  - quote       : ""
+    clientThumb : images/client-logo/slavia-logo.png
+    clientName  : Славия София
+
+  - quote       : ""
+    clientThumb : images/client-logo/nestinarka-logo.png
+    clientName  : Club 35 Нестинарка 
+
+  - quote       : ""
+    clientThumb : images/client-logo/mm-tuning-logo.png
+    clientName  : MMTuning
+
+  - quote       : ""
+    clientThumb : images/client-logo/soccer-logo.png
+    clientName  : Soccer King Store
+
+  - quote       : ""
+    clientThumb : images/client-logo/mymodels-logo.png
+    clientName  : MyModelsBg
+
+  - quote       : ""
+    clientThumb : images/client-logo/graphica-logo.png
+    clientName  : GraphicaMC
+
+  - quote       : ""
+    clientThumb : images/client-logo/avatar-logo.png
+    clientName  : Avatar Extreme Sport
+
+  - quote       : ""
+    clientThumb : images/client-logo/six-colors-logo.png
+    clientName  : Six Colors
+
+  - quote       : ""
+    clientThumb : images/client-logo/fenshop-logo.png
+    clientName  : Fan Shop
+
+  - quote       : ""
+    clientThumb : images/client-logo/golden-logo.png
+    clientName  : Golden Steak House
+
+  - quote       : ""
+    clientThumb : images/client-logo/high-park-logo.png
+    clientName  : High Park Bar & Dinner
+
+  - quote       : ""
+    clientThumb : images/client-logo/moda-logo.png
+    clientName  : Moda Italiana
+
+  - quote       : ""
+    clientThumb : images/client-logo/shisha-bar-logo.png
+    clientName  : Shisha Bar
+
+  - quote       : ""
+    clientThumb : images/client-logo/emstyle-logo.png
+    clientName  : EMStyle Perfumery
+
+  - quote       : ""
+    clientThumb : images/client-logo/kefo-logo.png
+    clientName  : Argile Kefo Shop
+
+  - quote       : ""
+    clientThumb : images/client-logo/lounge-54-logo.png
+    clientName  : 54 Lounge Bar
+
+  - quote       : ""
+    clientThumb : images/client-logo/artisans.png
+    clientName  : Artisans
+
+  - quote       : ""
+    clientThumb : images/client-logo/newstyle-logo.png
+    clientName  : NewStyle
+
+  - quote       : ""
+    clientThumb : images/client-logo/wg-garments.png
+    clientName  : Williams Garments
+
+  - quote       : ""
+    clientThumb : images/client-logo/bistro-logo.png
+    clientName  : Bistro Ariana
+
+
+
+
+
+
+
+
