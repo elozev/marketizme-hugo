@@ -1,6 +1,6 @@
-baseURL = "https://marketizme.herokuapp.com/"
+baseURL = "https://emchoko.github.io"
 languageCode = "en-us"
-title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
+title = "Marketiz Me | Дигитален маркетинг и реклама"
 theme = "navigator-hugo"
 
 # Build robots.txt file
@@ -38,7 +38,7 @@ DefaultContentLanguage = "bg"
     logo = "images/logo.png"
     menufixed = true
 
-    footerDescription = "Marketiz Me е екип от млади и мотиварина хора, стремящи се към перфекционизъм."
+    footerDescription = "Marketiz Me е екип от млади и мотиварини хора, стремящи се към перфекционизъм."
     footerServiceTitle = "Услуги"
     footerQuicklinkTitle = "Последвайте ни"
     footerAboutTitle = "За Нас"
