@@ -2,20 +2,36 @@ enable  : true
 item  :
   - icon  : tf-ion-social-facebook
     title : Поддръжка на социални мрежи
+    link : social
     description : >
       Поддръжка на профил в социални мрежи за разпространяване на Вашите продукти или услуги. Поддръжка на Facebook страница, поддръжка на профил в Instagram.
   
   - icon  : tf-ion-social-html5
     title : Изработка на уебсайт
+    link : webdesign
     description : >
       Изграждане и поддръжка на уебсайт, подходящ за нуждите на Вашия бизнес. Създаване на сайт и уеб страница. Search Engine Marketing.
 
   - icon  : tf-ion-social-designernews
     title : Дизайн
+    link : design
     description : >
       Създаване на лого, банери, уеб дизайн за вашият сайт, фирмен бранд, визитни картички, проекти за билборди, проекти за онлайн реклами.
 
-  - icon  : tf-ion-social-google
+  - icon  : tf-ion-ios-speedometer
     title : Рекламни кампании
+    link : ad-campaign
     description : >
       Достигане до голяма аудитория и нови клиенти посредством Facebook рекламa, Instragram реклама и Google Adwords кампании.
+
+  - icon  : tf-ion-social-google
+    title : Search Engine Marketing
+    link : sem
+    description : >
+      ---
+
+  - icon  : tf-ion-android-contacts
+    title : Маркетинг консултации
+    link : marketing-consilt    
+    description : >
+      ---

@@ -30,10 +30,26 @@ item      :
       - name : Създаване на анимации.
       - name : Създаване на реклами клипове.
   
-  - icon  : tf-ion-social-google
+  - icon  : tf-ion-ios-speedometer
     title : Рекламнии кампании
     link: ad-campaign
     list  :
       - name : Планиране и реализиране на рекламна кампания.
       - name : Определяне и създаване на целеви групи.
       - name : Email маркетинг.
+
+  - icon  : tf-ion-social-google
+    title : Search Engine Marketing
+    link: sem
+    list  :
+      - name : ---
+      - name : ---
+      - name : ---
+
+  - icon  : tf-ion-android-contacts
+    title : Маркетинг консулатции
+    link: marketing-consult
+    list  :
+      - name : ---
+      - name : ---
+      - name : ---
