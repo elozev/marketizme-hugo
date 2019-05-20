@@ -1,7 +1,7 @@
 enable  : true
-topTitle: Клиенти
-title   : Част от Нашите Клиенти
-subtitle: Запознайте се с част от нашите клиенти. 
+topTitle: 
+title   : Хората, които ни се довериха
+subtitle: Текущи клиенти 
 item    :
   - quote       : ""
     clientThumb : images/client-logo/eloz-logo.png
