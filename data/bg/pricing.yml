@@ -1,7 +1,7 @@
 enable  : true
 topTitle: 
-title   : Мнението на нашите клиенти
-subtitle : Вижте какво казват за нас
+title   : Мнения на наши клиенти
+subtitle : 
 
 item  :
   - name        : MMTuning

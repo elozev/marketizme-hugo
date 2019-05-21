@@ -74,8 +74,8 @@ DefaultContentLanguage = "bg"
     # Contact Section
     [Languages.bg.params.contact]
         enable  = true
-        topTitle= "За връзка с нас"
-        title   = "Контакти."
+        topTitle= ""
+        title   = "Контакти"
         subtitle= "За въпроси и консултации можете да се обърнете към нас по всяко едно време!"
         address = "ул. Димитър Хаджикоцев 12 <br> София, България"
         phone   = "+359 888 252 679"
