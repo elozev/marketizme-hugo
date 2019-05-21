@@ -9,13 +9,28 @@ servicelist:
   - name    : Growth Hackers
   - name    : Marketing Masterminds
 clientLogo:
-  - image   : images/client-logo/logo1.png
-  - image   : images/client-logo/logo-2.png
-  - image   : images/client-logo/logo-3.png
-  - image   : images/client-logo/logo-4.png
-  - image   : images/client-logo/logo-5.png
-  - image   : images/client-logo/logo1.png
-  - image   : images/client-logo/logo-2.png
-  - image   : images/client-logo/logo-3.png
-  - image   : images/client-logo/logo-4.png
-  - image   : images/client-logo/logo-5.png
+    - image : images/client-logo/eloz-logo.png
+    - image : images/client-logo/specter-3.png
+    - image : images/client-logo/club-35-logo.png
+    - image : images/client-logo/slavia-logo.png
+    - image : images/client-logo/nestinarka-logo.png
+    - image : images/client-logo/mm-tuning-logo.png
+    - image : images/client-logo/soccer-logo.png
+    - image : images/client-logo/graphica-logo.png
+    - image : images/client-logo/six-colors-logo.png
+    - image : images/client-logo/moda-logo.png
+    - image : images/client-logo/emstyle-logo.png
+    - image : images/client-logo/kefo-logo.png
+    - image : images/client-logo/lounge-54-logo.png
+    - image : images/client-logo/artisans.png
+    - image : images/client-logo/newstyle-logo.png
+    - image : images/client-logo/wg-garments.png
+    - image : images/client-logo/bistro-logo.png
+
+
+
+
+
+
+
+

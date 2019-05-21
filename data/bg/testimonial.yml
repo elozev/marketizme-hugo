@@ -4,6 +4,18 @@ title   : Хората, които ни се довериха
 subtitle: Текущи клиенти 
 item    :
   - quote       : ""
+    clientThumb : images/client-logo/ragazzi_png.png
+    clientName  : Ragazzi Bar & Dinner
+
+  - quote       : ""
+    clientThumb : images/client-logo/estetico_png.png
+    clientName  : Esteti Co
+
+  - quote       : ""
+    clientThumb : images/client-logo/bizarre_png.png
+    clientName  : Bizarre
+
+  - quote       : ""
     clientThumb : images/client-logo/eloz-logo.png
     clientName  : Смени маслото - Елоз
 
@@ -32,33 +44,10 @@ item    :
     clientName  : Soccer King Store
 
   - quote       : ""
-    clientThumb : images/client-logo/mymodels-logo.png
-    clientName  : MyModelsBg
-
-  - quote       : ""
     clientThumb : images/client-logo/graphica-logo.png
     clientName  : GraphicaMC
 
-  - quote       : ""
-    clientThumb : images/client-logo/avatar-logo.png
-    clientName  : Avatar Extreme Sport
-
-  - quote       : ""
-    clientThumb : images/client-logo/six-colors-logo.png
-    clientName  : Six Colors
-
-  - quote       : ""
-    clientThumb : images/client-logo/fenshop-logo.png
-    clientName  : Fan Shop
-
-  - quote       : ""
-    clientThumb : images/client-logo/golden-logo.png
-    clientName  : Golden Steak House
-
-  - quote       : ""
-    clientThumb : images/client-logo/high-park-logo.png
-    clientName  : High Park Bar & Dinner
-
+item2   : 
   - quote       : ""
     clientThumb : images/client-logo/moda-logo.png
     clientName  : Moda Italiana
