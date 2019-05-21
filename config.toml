@@ -93,8 +93,8 @@ DefaultContentLanguage = "bg"
     [Languages.bg.params.cta]
         enable  = true
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "Нека създадем нещо заедно"
-        subtitle= "Текст текст, Текст текст, Текст текст, Текст текст, Текст текст, Текст текст, Текст текст, Текст текст, Текст текст, Текст текст, "
+        title   = "Нека създадем нещо уникално заедно!"
+        subtitle= "Свържете се с нас сега."
         btnText = "Контакти"
 
     ############# 2 - Site en ENGLISH

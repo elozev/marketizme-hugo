@@ -1,7 +1,7 @@
 enable  : true
 topTitle: Процес на работа
-title   : Запознайте се с процеса на работа
-subtitle: Ние използваме модерни процеси за работа за постигане на максимална ефективност и достигане на желаната цел.
+title   : Запознайте се с процеса ни на работа
+subtitle: 
 item    :
   - number  : 1
     icon    : tf-ion-android-people
@@ -23,18 +23,18 @@ item    :
 
   - number  : 4
     icon    : tf-ion-ios-alarm
-    title   : Развитие на проекта
+    title   : Развитие и начин на работа
     description : >
       
 
   - number  : 5
-    icon    : tf-ion-social-facebook
-    title   : Социална ангажираност
+    icon    : tf-ion-android-done-all
+    title   : Реализиране на проекта
     description : >
       
 
   - number  : 6
     icon    : tf-ion-ios-color-wand
-    title   : Анализ на завършената работа
+    title   : Анализ на свършената работа
     description : >
       

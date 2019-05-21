@@ -1,7 +1,7 @@
 enable  : true
-topTitle: Последни проекти
-title   : Портфолио.
-subtitle: Разгледайте последните ни завършени проекти.
+topTitle: 
+title   : Портфолио
+subtitle: Част от нашата работа.
 
 filtermenu :
   - name      : Уебсайтове

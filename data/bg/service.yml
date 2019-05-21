@@ -1,6 +1,6 @@
 enable    : true
-topTitle  : Предлагани услуги
-title     : Услуги.
+topTitle  : 
+title     : Услуги
 subtitle  : Запознайте се с предлаганите от нас услуги!
 item      :
   - icon  : tf-ion-social-facebook
