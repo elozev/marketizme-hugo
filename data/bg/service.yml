@@ -4,7 +4,7 @@ title     : Услуги
 subtitle  : Запознайте се с предлаганите от нас услуги!
 item      :
   - icon  : tf-ion-social-facebook
-    title : Поддръжка на социални мрежи
+    title : Маркетинг в социалните мрежи
     link : social
     list  :
       - name : Поддръжка на страница.
@@ -17,7 +17,7 @@ item      :
     link : webdesign
     list  :
       - name : Изграждане на уебсайт и онлайн магазин.
-      - name : SEM стратегии.
+      - name : Изграждане на софтуерни платформи.
       - name : Google Adwords кампании.
       - name : Поддръжка на уебсайт.
 
@@ -39,17 +39,15 @@ item      :
       - name : Email маркетинг.
 
   - icon  : tf-ion-social-google
-    title : Search Engine Marketing
+    title : Маркетинг в търсещите машини
     link: sem
     list  :
-      - name : ---
-      - name : ---
-      - name : ---
+      - name : Оптимизация на уебсайт.
+      - name : Изграждане на рекламни кампании в търсещите машини.
 
   - icon  : tf-ion-android-contacts
     title : Маркетинг консулатции
     link: marketing-consult
     list  :
-      - name : ---
-      - name : ---
-      - name : ---
+      - name : Изграждане на маркетинг стратегия.
+      - name : Анализ и развитие на вашия бранд онлайн.
