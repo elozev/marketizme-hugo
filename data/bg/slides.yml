@@ -1,0 +1,16 @@
+enable  : true
+slides  :
+  - img_url  : images/slider/slider-bg-1.jpg
+    title : Създаваме вашата дигитална история
+    link : service/social
+    link_text : Виж повече
+
+  - img_url  : images/slider/slider-bg-2.jpg
+    title : Вашият сайт - вашата дигитална визитка
+    link : service/webdesign
+    link_text : Виж повече
+
+  - img_url  : images/slider/slider-bg-3.jpg
+    title : Креативен дизайн
+    link : service/design
+    link_text : Виж повече
