@@ -1,4 +1,4 @@
-baseURL = "https://emchoko.github.io"
+baseURL = "http://www.marketizme.com"
 languageCode = "en-us"
 title = "Marketiz Me | Дигитален маркетинг и реклама"
 theme = "navigator-hugo"
@@ -22,8 +22,8 @@ DefaultContentLanguage = "bg"
     # Gestion des langues : FR / EN / NL / DE
     [[Params.listeLangues]]
     code = "bg"
-    [[Params.listeLangues]]
-    code = "en"
+    # [[Params.listeLangues]]
+    # code = "en"
 
 # Gestion des langues : FR / EN / NL / DE
 [Languages]
@@ -36,7 +36,7 @@ DefaultContentLanguage = "bg"
 
     home = "Начало"
     logo = "images/logo.png"
-    menufixed = true
+    menufixed = false
 
     footerDescription = "Marketiz Me е екип от млади и мотиварини хора, стремящи се към перфекционизъм."
     footerServiceTitle = "Услуги"
@@ -95,7 +95,7 @@ DefaultContentLanguage = "bg"
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
         title   = "Нека създадем нещо уникално заедно!"
         subtitle= "Свържете се с нас сега."
-        btnText = "Контакти"
+        btnText = "Позвънете"
 
     ############# 2 - Site en ENGLISH
     [Languages.en]
