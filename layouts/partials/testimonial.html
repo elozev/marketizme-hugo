@@ -1,3 +1,4 @@
+
 {{ $data := index .Site.Data .Site.Language.Lang }}
 {{ with $data.testimonial }}
     {{ if .enable }}
@@ -23,15 +24,16 @@
                     <div class="testimonial-slider">
                         {{ range .item }}
                         {{ "<!-- testimonial single -->" | safeHTML }}
-                        <div class="item text-center">
-                            {{ "<!-- client photo -->" | safeHTML }}
-                            <div class="client-thumb">
-                                <img src="{{ .clientThumb | absURL }}" class="img-fluid" style="height: 200px; width: auto;" alt="client-image">
-                            </div>  
-                            <div class="client-meta">
-                                {{/*  <h5>{{ .clientName }}</h5>  */}}
-                            </div>
-                        </div>
+                            <a href="{{ .link }}" target="_blank">
+                                <div class="item text-center">
+                                    {{ "<!-- client photo -->" | safeHTML }}
+                                    <div class="client-thumb">
+                                        <img src="{{ .clientThumb | absURL }}" class="img-fluid" style="height: 200px; width: auto;" alt="client-image">
+                                    </div>  
+                                    <div class="client-meta">
+                                    </div>
+                                </div>
+                            </a>
                         {{ end }}
                     </div>
                     <div class="testimonial-slider">
