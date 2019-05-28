@@ -6,7 +6,7 @@ theme = "navigator-hugo"
 # Build robots.txt file
 enableRobotsTXT = true
 # google analytics tracking id
-googleAnalytics = ""
+googleAnalytics = "UA-134294022-1"
 
 enableGitInfo = false
 pygmentsCodeFences = true
