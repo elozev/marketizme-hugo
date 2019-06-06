@@ -1,0 +1,16 @@
+enable  : true
+slides  :
+  - img_url  : images/slider/slider-bg-1.jpg
+    title : Create your digital signature
+    link : service/social
+    link_text : More
+
+  - img_url  : images/slider/slider-bg-2.jpg
+    title :  Your website is your online brand representation
+    link : service/webdesign
+    link_text : More
+
+  - img_url  : images/slider/slider-bg-3.jpg
+    title : Creative Design
+    link : service/design
+    link_text : More

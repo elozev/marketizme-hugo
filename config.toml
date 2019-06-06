@@ -22,8 +22,8 @@ DefaultContentLanguage = "bg"
     # Gestion des langues : FR / EN / NL / DE
     [[Params.listeLangues]]
     code = "bg"
-    # [[Params.listeLangues]]
-    # code = "en"
+    [[Params.listeLangues]]
+    code = "en"
 
 # Gestion des langues : FR / EN / NL / DE
 [Languages]
@@ -62,7 +62,7 @@ DefaultContentLanguage = "bg"
     [Languages.bg.params.aboutSm]
         enable  = true
         title   = "Дигитално развитие за вашия бранд!"
-        description = "<strong>Ние може да ви предложим дигитален маркетинг в социалните мрежи, изработка на уебсайт, онлайн магазини, онлайн платформи и приложения. <br><br>Маркетинг консултации, онлайн реклама,реклама във Facebook и Instagram, поддръжка на социални мрежи, поддръжка на Facebook страница и Instragram профил, SEO, реклама в Google, креативен дизайн и уебдизайн.</strong>"
+        description = "<strong>Предлагаме ви: дигитален маркетинг в социалните мрежи, изработка на уебсайт, онлайн магазини, онлайн платформи и приложения. <br><br>Маркетинг консултации, онлайн реклама, реклама във Фейсбук, реклама в Инстаграм, поддръжка на социални мрежи, поддръжка на Фейсбук страница, поддръжка Инстаграм профил, SEO, реклама в Google, креативен дизайн и уебдизайн.</strong>"
 
     # Blog Section On Homepage
     [Languages.bg.params.blog]
@@ -104,7 +104,7 @@ DefaultContentLanguage = "bg"
     title = "Example site multi-language"
     dateFormat = "January 2, 2006"
 
-    home = "EN Home"
+    home = "Home"
     logo = "images/logo.png"
     menufixed = false
 
