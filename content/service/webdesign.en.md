@@ -1,16 +1,16 @@
 ---
 title: "Website Development"
-subTitle: "Вашият сайт е лицето на Вашия бизнес!"
+subTitle: ""
 date: 2018-07-07T14:53:13+06:00
 draft: false
 image : images/service/web-design.jpg
 ---
-Създаване и поддръжка на уебсайт е ключов елемент в изграждането на Вашата онлайн репутация и заемане на предни пазарни позиции на компанията Ви. Екипът на marketiz Me има солиден професионален опит в изработката на уеб сайтове и уеб страници.
+Creating and maintaining a website is a key element in building your online reputation and occupying your company's leading market positions. The team of marketiz Me has a solid professional experience in the development of websites and web pages.
 
-Ние ще създадем уникален и адаптивен дизайн, съобразен с Вашите изисквания за визия и функционалност. Дизайн подходящ за всякакви устройства – компютри, лаптопи, мобилни устройства, таблети.
+We will create a unique and responsive design tailored to your vision and functionality requirements. Design suitable for any device - computers, laptops, mobile devices, tablets.
 
-Креативните ни програмисти, маркетинг специалисти, оптимизатори в търсачките (SEO) и уеб дизайнери не създават просто сайтове, те създават виртуално изкуство, което ще открои бизнеса Ви от останалите.
+Our creative programmers, marketers, search engine optimizers (SEO) and web designers do not just create websites, they create a virtual art that will highlight your business from others.
 
-В процеса на работа ние се стремим да създадем атрактивен сайт, излизащ на челни позиции в резултатите на търсещите машини. Правилното позициониране на компанията Ви в интернет пространството е основен фактор за достигане на предлаганите от Вас продукти или услуги до по-голям брой потенциални клиенти. 
+In the process of work, we strive to create an attractive site, which is at the forefront of search engine results. Proper positioning of your company on the Internet is a key factor in reaching your products or services to a larger number of potential customers.
 
-Ние Ви предлагаме голям набор от услуги свързани с изработката и поддръжка на сайтове, креативен и индивидуален дизайн, създаване на е-commerce сайтове (онлайн магазини) и връзката им с Facebook Shop, оптимизация в търсачки (SEO) , SEM стратегии, Google Ads кампании, следене на статистики за сайт.
+We offer a wide range of services related to the creation and maintenance of websites, creative and individual design, creation of e-commerce sites (online stores) and their relationship with Facebook Shop, search engine optimization (SEO), SEM strategies, Google Ads campaigns , tracking site stats.

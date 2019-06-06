@@ -5,8 +5,8 @@ date: 2018-07-07T14:53:13+06:00
 draft: false
 image : images/service/consult.jpg
 ---
-Marketiz Me предлага разработване на маркетингова стратегия за позициониране на даден продукт или услуга на пазара.
+Marketiz Me is developing a marketing strategy to position a product or service on the market.
 
-Маркетинговата стратегия за позициониране на продукта/услугата има за цел да създаде уникално продуктово предложение, което да заеме доминиращо място в съзнанието на целевата група. Изговяме, така наречениея SWOT анализ и определме силните и славите страни на бранда ви, както и възможността за бъдещо развитие и опасностите, който се крият в лицето на вашите конкуренти и пазарната среда.
+ The marketing strategy for positioning the product / service aims to create a unique product proposal that will dominate the target group's mind. We create SWOT analysis and identify the strengths and favors of your brand as well as the potential for future development and the dangers of your competitors in the market environment.
 
-Заедно изграждаме план и стратегия за развитие, свързани с вашите фирмени цели и следим за изпълнението на всяка точка от него.
+ Together, we build a plan and a strategy that relates to your business goals. We monitor the implementation of each item.

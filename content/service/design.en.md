@@ -1,14 +1,14 @@
 ---
 title: "Creative Design"
-subTitle: "За да бъдеш незаменим, трябва винаги да бъдеш различен!"
+subTitle: "To be indispensable, you must always be different!"
 date: 2018-07-07T14:53:13+06:00
 draft: false
 image : images/service/design.jpg
 ---
-Екипът на marketiz Me се състои от амбициозни и опитни специалисти в областта на уеб дизайна мотивирани да създадат разнообразни, отличаващи се и запомнящи се дизайнерски проекти, отличителен дизайн, фирмено лого, рекламен банер за вашия сайт, интерактивни клипове и анимации за да може бизнеса Ви да се покаже в най-добрата си светлина, да изпъкне сред останалите в бранша и да се даде нова посока в неговото развитие.
+The team of marketiz Me consists of ambitious and experienced web design professionals motivated to create various, distinctive and memorable design projects, distinctive design, company logo, banner advertising for your site, interactive clips and animations to help your business to show up in his best light, to stand out among others in the industry and to give a new direction in his development.
 
-С нашия богат опит, професионални умения и добър креатив Вие винаги ще бъдете различни. В изграждането на Вашия уникален и ефективен дизайн ние ще обърнем внимание на всеки детайл, ще се съобразим с Вашата фирмена идентичност и ще удовлетворим Вашите софтуерните идеи.
+With our rich experience, professional skills and good creativity, you will always be different. In building your unique and effective design, we will pay attention to every detail, comply with your corporate identity and satisfy your software ideas.
 
-Не забравяйте, че външния вид (дизайн) е първото впечатление, което оставате на Вашите клиенти. Една от нашите дейности е свързана с изработка на запомнящо се лого за Вашата фирма, което да Ви отличи от конкуренцията във Вашия бранш. Нашите дизайнери могат да Ви бъдат полезни с много интересни и ефикасни идеи за изработка на всякакъв вид creative дизайн.
+Do not forget that appearance (design) is the first impression you have on your customers. One of our activities is to create a memorable logo for your company to distinguish you from the competition in your industry. Our designers can be helpful with many interesting and efficient ideas for making any kind of creative design.
 
-Ние Ви гарантираме, че ще получите това, което заслужавате. А именно – най-доброто! За повече информация, стилни и функционални проекти може да се свържете с нас по всяко време. Очакваме Ви!
+We guarantee you will get what you deserve. Namely - the best! For more information, stylish and functional projects, you can contact us at any time. We are expecting you!

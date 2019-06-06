@@ -40,8 +40,9 @@ DefaultContentLanguage = "bg"
 
     footerDescription = "Marketiz Me е екип от млади и мотиварини хора, стремящи се към перфекционизъм."
     footerServiceTitle = "Услуги"
-    footerQuicklinkTitle = "Последвайте ни"
-    footerAboutTitle = "За Нас"
+    footerQuicklinkTitle = "Последвайте ни"    
+    footerAboutTitle = "За нас"
+    footerSubscribeTitle = "Subscribe"
     facebookLink = "https://www.facebook.com/marketizme"
     instagramLink = "https://www.instagram.com/marketizme/"
     mailLink = "mailto:office@marketizme.com"
@@ -116,6 +117,9 @@ DefaultContentLanguage = "bg"
     footerQuicklinkTitle = "Follow us"
     footerAboutTitle = "About"
     footerSubscribeTitle = "Subscribe"
+    facebookLink = "https://www.facebook.com/marketizme"
+    instagramLink = "https://www.instagram.com/marketizme/"
+    mailLink = "mailto:office@marketizme.com"
 
     # Hero Area Section
     [Languages.en.params.hero]
@@ -205,6 +209,14 @@ DefaultContentLanguage = "bg"
         name    = "ads"
         url     = "service/ad-campaign"
         weight  = 4
+    [[menu.service]]
+        name    = "sem"
+        url     = "service/sem"
+        weight  = 5
+    [[menu.service]]
+        name    = "marketing-consult"
+        url     = "service/marketing-consult"
+        weight  = 6
 
 
 

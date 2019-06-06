@@ -1,14 +1,14 @@
 ---
 title: "Search Engine Marketing"
-subTitle: "На първо място в Google."
+subTitle: "First position in Google."
 date: 2018-07-07T14:53:13+06:00
 draft: false
 image : images/service/sem.jpg
 ---
-Защо ни е нужен маркетингът в търсещите машини?
+Why do we need search engine marketing?
 
-Едва ли някой вече си предстява бизнес без уеб сайт, а какво ли остава за уеб сайт без реклама в Google – най-известната търсачка в световен мащаб.
+Nowadays every business has a website and almost any of them uses Google Ads.
 
-Сайтовете, излизащи по-назад в класацията могат да останат "невидими", тъй като близо 80% от всички потребители преглеждат само първата страница с резултати. За да бъдете в челните позиции вашия бранд има нужда от ефективна oптимизавия в дадената търсачка – SEO и реклама от типа – PPC (Pay Per Click).
+ Sites that go back to the rankings can remain "invisible" as nearly 80% of all users are browsing only the first results page.  To be in the forefront, your brand needs an effective optimization in search engine machine - SEO (Search Engine Optimization) and PPC (Pay Per Click) advertising.
 
-Нашият екип предлага цялостни решения за оптимизация на уеб страница и реклама в Google, чрез които ще достигнете по изключително ефективен и рентабилен начин до нови клиенти в интернет и ще възвърнете вашата инвестиция (ROI).
+Reach new customers on the Internet in an extremely efficient and cost-effective way and regain the money you invested (ROI - Return of Investment).

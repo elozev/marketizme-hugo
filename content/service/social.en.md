@@ -1,18 +1,18 @@
 ---
 title: "Social Media Marketing – Facebook & Instagram"
-subTitle: "Социалните мрежи - бъдеще за Вас и Вашия бизнес!"
+subTitle: "Social Media - future for your business!"
 date: 2018-07-07T14:53:13+06:00
 draft: false
 image : images/service/social.jpg
 ---
-marketiz Me ще Ви покаже как поддръжката на социални мрежи може успешно да работи за Вас.
+marketiz Me will show you how social media can work for you.
 
-Усвоявайки силата на маркетинговите фундаменти в социалните мрежи екипът на marketiz Me ще Ви помогне да увеличите Вашите онлайн позиции, Вашата публика , потребителите на Вашите продукти или услуги многократно.
+By absorbing the strength of marketing foundations in social networks, marketiz Me's team will help you increase your online presence, your audience, the users of your products or services multiple times. 
 
-Ние предлагаме професионални услуги свързани с маркетинг в социалните мрежи, поддръжка на __Facebook__ страница, Instagram профил и реклама в __Google Ads__.
+We offer professional services related to social network marketing, Facebook page support, Instagram account, and Google Ads ad. 
 
-Ние Ви предоставяме възможност да бъдете в постоянен контакт с Вашите клиенти онлайн, като създадем и публикуваме интересно, разнообразно и целево съдържание на Вашата страница или профил, изцяло съобразено и съгласувано със съответния Ви бизнес, бранд или проект според Вашите персонални предпочитания и изисквания.
+We give you the opportunity to keep in touch with your customers online by creating and publishing interesting, varied and targeted content on your page or profile that is fully tailored to and consistent with your business, brand or project according to your personal preferences and requirements.
 
-Ние се фокусираме върху изработването на креативно и уникално съдържание, така че да промотираме Вашите продукти и услуги. Нашата основна цел е да Ви помогнем да се разрастнете, да изградим добър имидж и голяма аудитория на Вашия бизнес, да Ви осигурим постоянен ръст на Facebook и Instagram последователите, както й да увеличим брой посещения на страница Ви.
+We focus on creating creative and unique content to promote your products and services. Our primary goal is to help you grow, build a good image and a great audience of your business, provide you with a steady growth of Facebook and Instagram followers, and increase our site visits. 
 
-Гарантираме Ви изграждане на отличителен стил и визия, голямо разнообразие от постове, интересни снимки, видео клипове и рубрики.
+We guarantee you the construction of a distinctive style and vision, a wide variety of posts, interesting pictures, video clips and rubrics.

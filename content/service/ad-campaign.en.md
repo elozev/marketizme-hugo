@@ -1,19 +1,19 @@
 ---
 title: "Ad Campaigns"
-subTitle: "„Рекламата не е точна наука. Тя е внушение. А внушението е изкуство.” - Уилям Бернбах"
+subTitle: ""
 date: 2018-07-07T14:53:13+06:00
 draft: false
 image : images/service/ads.jpg
 ---
-Рекламата във Facebook, Google и Instagram е силен инструмент за продажба в интернет пространството. Тя представя услугите и продуктите Ви по най-подходящия начин, така че да предизвика интереса на клиентите Ви върху това, което предлагате. Независимо от сферата, в която се развива всеки бизнес се нуждае от реклама и добра стратегия за популяризиране и достигане до повече клиенти и потребители. Ежедневно навсякъде около нас виждаме стотици онлайн реклами, които имат за цел да ангажират точната аудитория за съответната стока или услуга, но колко от тях са наистина успешни и как точно се създава успешна рекламна кампания? Отговорите на тези въпроси може да Ви даде екипа на marketiz Me. Ние винаги имаме интересни идеи, с които да ангажираме вниманието на потенциалните Ви клиенти и да ги провокираме да се запознаят отблизо с вашите продукти или услуги.
+Advertising on Facebook, Google and Instagram is a powerful tool for selling on the internet. It presents your services and products in the most appropriate way to cause your customers' interest in what you offer. Regardless of the sphere in which each business develops, it needs advertising and a good strategy to promote and reach more customers and consumers. Everyday around us, we see hundreds of online ads that aim to engage the right audience for the good or service, but how many of them are really successful, and how does a successful ad campaign work? Answers to these questions can give you the marketiz Me team. We always have interesting ideas to engage your potential customers and challenge them to get acquainted with your products or services.
 
-Нашата фирма предлага реклама с Google Ads, свързана с SEO на Вашия сайт, така че, когато някой търси специфична дума или словосъчетание свързани с Вашия бизнес и работа Вие да излизате на първо място в търсачката. Всеки сайт след първа или втора страница в Google е на практика несъществуваш и трудно достъпен. Всекидневно следим статистиките от проведените кампании и правим отчети на нашата работа, за да можем да бъдем максимално ефективни и да предоставяме важна информация относно това, кой и по-какъв начин достига до рекламите Ви.
+Our company offers a Google Adsense Adsense related to your site so when someone searches for a specific word or phrase related to your business and job, you can go to the top of the search engine. Every site after a first or second Google page is virtually non-existent and hard to access. Every day we track campaign statistics and report on our work so we can be as effective as possible and provide important information about who, and how, it reaches your ads.
 
-Ако желаете да сред най-популярни в интернет пространството, хората да Ви намират бързо и лесно, възползвайте се от нашите услуги и ще постигнете всичко това, бъдете в крачка с времето и не подценявайте силата на интернет рекламата – тя ще Ви даде бърз старт и успешно развитие пред многобройна аудитория. Кой не е срещал спонсорирана реклама във Facebook, Instagram и Youtubе?
+If you want to be among the most popular on the web, people can find you quickly and easily, take advantage of our services and you will achieve all of this, stay up-to-date and do not underestimate the power of internet advertising - it will give you a quick start successful development in front of numerous audiences. Who has not met a sponsored ad on Facebook, Instagram and Youtub?
 
 
-Искате да бъдете част от най-големите социални мрежи и да използвате силата им, за да разрастнете бизнеса Ви, да продавате повече и да бъдете по-популярни? marketiz Me е Вашият верен приятел по пътя към изграждане на реклама във Facebook, Instagram и Youtube. Достигането до нова аудитория за Вашите услуги е по-лесно от всякога.
+Do you want to be part of the biggest social networks and use their power to grow your business, sell more and be more popular? marketiz Me is your faithful friend on the road to building advertising on Facebook, Instagram and Youtube. Reaching a new audience for your services is easier than ever.
 
-Ние можем да създадем, прецезираме и изградим целева група, до която да достига рекламната Ви кампания, както и да помогнем с определянето на рекламния бюджет. Предлагаме също така разнообразен и интересен дизайн за всяка една реклама, с която да оставите отпечатък в съзнанието на Вашите бъдещи клиенти. Непрекъснато следим статистиките, относно това как върви Вашата реклама, до колко души достига тя, разглеждаме внимателно демографките данни и това, къде най-честно хората виждат Вашите реклами.
+We can create, rethink, and build a target audience to reach your ad campaign, as well as help with setting the ad budget. We also offer a varied and intriguing design for any advertisement to leave a mark on your future customers' minds. We keep track of statistics, how your ad goes, how many people it reaches, how we look at demographics, and where people honestly see your ads.
 
-Не губете време и направете следващата стъпка към Вашето онлайн развитие благодарение на marketiz Me!
+Do not waste time and take the next step to your online development thanks to marketiz Me!
