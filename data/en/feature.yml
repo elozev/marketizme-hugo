@@ -1,16 +1,37 @@
 enable  : true
 item  :
-  - icon  : tf-ion-ios-copy-outline
-    title : WordPress Theme
+  - icon  : tf-ion-social-facebook
+    title : Social media marketing
+    link : social
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Engagement in social media channels of your brand, product or service.
+  
+  - icon  : tf-ion-social-html5
+    title : Website Development
+    link : webdesign
+    description : >
+      We develop websites depending on your business needs. E-commerce and custom applications.
 
-  - icon  : tf-ion-ios-alarm-outline
-    title : Responsive Design
+  - icon  : tf-ion-social-designernews
+    title : Design
+    link : design
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Logos, banners, webdesign, design projects for advertisments.
 
-  - icon  : tf-ion-ios-book-outline
-    title : Media & Advertisement
+  - icon  : tf-ion-ios-speedometer
+    title : Ad Campaigns
+    link : ad-campaign
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Reach huge auditory of people and potential clients through Google, Facebook and Instagram campaigns.
+
+  - icon  : tf-ion-social-google
+    title : Search Engine Marketing
+    link : sem
+    description : >
+      Website optimization, advertisement campaigns creation in the search engines. 
+
+  - icon  : tf-ion-android-contacts
+    title : Marketing consultation 
+    link : marketing-consilt    
+    description : >
+      Strategy creation and analysis for online development of your brand.

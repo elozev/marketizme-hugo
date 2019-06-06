@@ -128,8 +128,8 @@ DefaultContentLanguage = "bg"
     # About 2 Section
     [Languages.en.params.aboutSm]
         enable  = true
-        title   = "We have explored the digital landscape with passion for a long time"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+        title   = "Digital development for your brand!"
+        description = "<strong>We offer online marketing in the social channels, website development, e-commerce, apps. <br><br>Marketing consultations, online advertisements, advertisements in Facebook and Instragram, brand engagement in the social channels (Facebook and Instagram), SEO, Google advertisement, creative design and webdesign.</strong>"
 
     # Blog Section On Homepage
     [Languages.en.params.blog]
