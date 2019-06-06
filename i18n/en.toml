@@ -1,24 +1,31 @@
 [about]
-other = "EN About"
+other = "About"
 [service]
-other = "EN Service"
+other = "Service"
 [portfolio]
-other = "EN Portfolio"
+other = "Portfolio"
 [blog]
-other = "EN Blog"
+other = "Blog"
 [contact]
-other = "EN Contact"
+other = "Contact"
 
-[graphicdesign]
-other = "EN Graphic Design"
 [webdesign]
-other = "EN Web Design"
-[webdevelopment]
-other = "EN Web Development"
+other = "Website Development"
+[social]
+other = "Social Media Marketing"
+[design]
+other = "Creative Design"
+[ads]
+other = "Advertisments"
+[sem]
+other = "Search Engine Marketing"
+# []
+
+
 
 [partners]
-other = "EN Partners"
+other = "Partners"
 [faqs]
-other = "EN FAQ's"
+other = "FAQ's"
 [badges]
-other = "EN Badges"
+other = "Badges"

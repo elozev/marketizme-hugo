@@ -1,28 +1,53 @@
 enable    : true
-topTitle  : A LIST OF SERVICES
-title     : Our Service.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle  : 
+title     : Services
+subtitle  : Запознайте се с предлаганите от нас услуги!
 item      :
-  - icon  : tf-ion-ios-copy-outline
-    title : Branding
+  - icon  : tf-ion-social-facebook
+    title : Social Media Marketing
+    link : social
     list  :
-      - name : Brand Strategy
-      - name : Advertising / Campaigns
-      - name : Product Design
-      - name : Video / Photography
+      - name : Crowd engagement.
+      - name : Posting of rubrics and games.
+      - name : Realization and management of advertisment campaigns.
+      - name : Creation of Facebook Shop.
 
-  - icon  : tf-ion-ios-alarm-outline
-    title : Branding
+  - icon  : tf-ion-social-html5
+    title : Web Development
+    link : webdesign
     list  :
-      - name : Web Design
-      - name : E- Commerce Site Design
-      - name : App Development
-      - name : Mobile UI Design
+      - name : Web design and E-commerce.
+      - name : Software platforms.
+      - name : Google Ads campaigns.
+      - name : Maintanance.
 
-  - icon  : tf-ion-ios-book-outline
-    title : IOS App Development
+  - icon  : tf-ion-social-designernews
+    title : Creative Design
+    link: design
     list  :
-      - name : Game Development
-      - name : Game Design
-      - name : Social Media Marketing
-      - name : Mobile UI Design
+      - name : Logos and banners.
+      - name : Web design.
+      - name : Animations.
+      - name : Advertisement videos.
+  
+  - icon  : tf-ion-ios-speedometer
+    title : Ad Campaigns
+    link: ad-campaign
+    list  :
+      - name : Relazation of advertisement across different channels.
+      - name : Audience targeting .
+      - name : Email marketing.
+
+  - icon  : tf-ion-social-google
+    title : Search Engine Marketing
+    link: sem
+    list  :
+      - name : Website optimization.
+      - name : Advertisments in the search engines.
+
+  - icon  : tf-ion-android-contacts
+    title : Marketing consultations
+    link: marketing-consult
+    list  :
+      - name : Marketing strategy.
+      - name : Analysis and development of your brand.

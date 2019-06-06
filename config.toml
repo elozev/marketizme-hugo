@@ -104,7 +104,7 @@ DefaultContentLanguage = "bg"
     [Languages.en]
     weight = 2
     languageCode = "en-us"
-    title = "Example site multi-language"
+    title = "Marketiz Me - online marketing and website development."
     dateFormat = "January 2, 2006"
 
     home = "Home"
@@ -113,7 +113,7 @@ DefaultContentLanguage = "bg"
 
     footerDescription = "Marketiz Me is a team of young and motivated people striving perfectionism."
     footerServiceTitle = "Service"
-    footerQuicklinkTitle = "Quicklinks"
+    footerQuicklinkTitle = "Follow us"
     footerAboutTitle = "About"
     footerSubscribeTitle = "Subscribe"
 
