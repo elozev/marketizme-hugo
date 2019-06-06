@@ -2,6 +2,7 @@ enable  : true
 topTitle: 
 title   : Портфолио
 subtitle: Част от нашата работа.
+buttonText: Всички
 
 filtermenu :
   - name      : Уебсайтове

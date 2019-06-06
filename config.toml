@@ -158,8 +158,8 @@ DefaultContentLanguage = "bg"
         enable  = true
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
         title   = "Let's Create Something Together"
-        subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-        btnText = "Contact Us"
+        subtitle= ""
+        btnText = "Call Us"
 
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 

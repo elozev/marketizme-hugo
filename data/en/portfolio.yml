@@ -1,42 +1,37 @@
 enable  : true
-topTitle: RECENT WORK
-title   : WORK SHOWCASE.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: 
+title   : Portfolio
+subtitle: Some of our work
+buttonText: All
 
 filtermenu :
-  - name      : Photography
-    category  : photography
+  - name      : Websites
+    category  : website
 
-  - name      : Ios App
-    category  : ios
-
-  - name      : Development
-    category  : development
-
-  - name      : Design
-    category  : design
+  - name      : Social Channels
+    category  : social
 
 item   :
-  - title : AirBnB Postcard
+  - title : EМStyle
     image : images/portfolio/portfolio-1.jpg
-    category  : photography
+    category  : website
 
-  - title : D Design
+  - title : Академия Славия
     image : images/portfolio/portfolio-2.jpg
-    category  : ios, design
+    category  : social
 
-  - title : Xbox 360
+  - title : Soccer King Store
     image : images/portfolio/portfolio-3.jpg
-    category  : photography, development
+    category  : website
 
-  - title : Ballon Card
+  - title : 54 Lounge Bar
     image : images/portfolio/portfolio-4.jpg
-    category  : ios
+    category  : social
 
-  - title : Ready Toons
+  - title : MMTuning
     image : images/portfolio/portfolio-5.jpg
-    category  : design
+    category  : website
 
-  - title : Illustration
+  - title : Club 35
     image : images/portfolio/portfolio-6.jpg
-    category  : development
+    category  : social

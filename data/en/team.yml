@@ -1,45 +1,50 @@
 enable  : true
-topTitle: TEAM MEMBER
-title   : Our Team.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: 
+title   : Our Team
+subtitle: Meet the ones who stand behind our company.
 
 member  :
   - image         : images/team/member-1.jpg
-    name          : Shawshank Redemption
-    designation   : Head Of Marketing
+    name          : Hristo Martinski
+    designation   : Marketing Manager
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      "Marketing is too important to be left to the just to someone, that's where we come to help."
     facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+    instagramURL    : https://twitter.com/
+    mailURL    : https://twitter.com/
 
   - image         : images/team/member-2.jpg
-    name          : Leo Departure
-    designation   : Web Developer
+    name          : Emil Lozev
+    designation   : Front & Backend Developer
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      "The satisfied customer is number one priority!"
     facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
-
+    instagramURL    : https://twitter.com/
+    mailURL    : https://twitter.com/
+  
   - image         : images/team/member-3.jpg
-    name          : Remoni Rio
-    designation   : Senior Developer
+    name          : Daniel Tonev
+    designation   : Project Manager
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      "Find a job you like and you will never have to work again."
     facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+    instagramURL    : https://twitter.com/
+    mailURL    : https://twitter.com/
 
   - image         : images/team/member-4.jpg
-    name          : Lawandeski Roma
-    designation   : Designer
+    name          : Iva Gramatikova
+    designation   : Copywriter & content marketing
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      "Make it simple. Make it stand. Make it fun to read and everyone will pay attention."
     facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+    instagramURL    : https://twitter.com/
+    mailURL    : https://twitter.com/
+
+  - image         : images/team/member-5.jpg
+    name          : Borislav Glaskov
+    designation   : Web Developer
+    description   : >
+      „We do not just create websites, but develop websites that SELL.“
+    facebookURL   : https://www.facebook.com/
+    instagramURL    : https://twitter.com/
+    mailURL    : https://twitter.com/
