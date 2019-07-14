@@ -1,4 +1,4 @@
-baseURL = "http://www.marketizme.com"
+baseURL = "https://emchoko.github.io"
 languageCode = "en-us"
 title = "Marketiz Me | Дигитален маркетинг и реклама"
 theme = "navigator-hugo"
@@ -184,13 +184,17 @@ DefaultContentLanguage = "bg"
         url     = "service"
         weight  = 2
     [[menu.nav]]
+        name    = "portfolio"
+        url     = "portfolio"
+        weight  = 3
+    [[menu.nav]]
         name    = "about"
         url     = "about"
-        weight  = 3
+        weight  = 4
     [[menu.nav]]
         name    = "contact"
         url     = "contact"
-        weight  = 4
+        weight  = 5
 
     # Footer Service Menu
     [[menu.service]]
