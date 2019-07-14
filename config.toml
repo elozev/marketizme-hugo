@@ -1,4 +1,4 @@
-baseURL = "http://www.marketizme.com"
+baseURL = "https://emchoko.github.io"
 languageCode = "en-us"
 title = "Marketiz Me | Дигитален маркетинг и реклама"
 theme = "navigator-hugo"

@@ -1,6 +1,6 @@
 enable: true
 topTitle: Портфолио
-description: Запознайте се с нашите проекти
+description: Запознайте се с част от нашите проекти
 projects: 
   - title: Club 35
     subtitle: Лого дизайн
@@ -23,6 +23,11 @@ projects:
     link: #
 
   - title: Club 35
+    subtitle: Лого дизайн
+    image: images/portfolio-page/img.jpg
+    link: #
+
+- title: Club 35
     subtitle: Лого дизайн
     image: images/portfolio-page/img.jpg
     link: #
