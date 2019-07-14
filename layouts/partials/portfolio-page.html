@@ -16,34 +16,18 @@
         </div>
         {{ "<!-- End of title section -->" | safeHTML }}
         <div class="row">
+            {{ range .projects}}
             <div class="col-md-6 col-lg-4 col-no-padding">
-                <img class="img-fluid" src="https://www.calliaweb.co.uk/wp-content/uploads/2015/10/600x400.jpg"
-                    alt="portfolio-image">
-            </div>
-            <div class="col-md-6 col-lg-4 col-no-padding">
-                <a class="search-icon" href="https://www.calliaweb.co.uk/wp-content/uploads/2015/10/600x400.jpg"
-                    data-lightbox="image-1">
-                    <img class="img-fluid" src="https://www.calliaweb.co.uk/wp-content/uploads/2015/10/600x400.jpg"
-                        alt="portfolio-image">
+                <a class="search-icon" href="{{ .image | absURL }} " data-lightbox="image-1">
+                    <img class="img-fluid hover-img" src="{{ .image | absURL }}" alt="portfolio-image">
                 </a>
+                <div class="hover-img-text">
+                    <h4>{{ .title }}</h4>
+                    <!-- <h6>{{ .subtitle }}</h6> -->
+                    <!-- <a class="btn btn-primary" href="{{ .link }}">Към проекта</a> -->
+                </div>
             </div>
-            <div class="col-md-6 col-lg-4 col-no-padding">
-                <img class="img-fluid" src="https://www.calliaweb.co.uk/wp-content/uploads/2015/10/600x400.jpg"
-                    alt="portfolio-image">
-            </div>
-
-            <div class="col-md-6 col-lg-4 col-no-padding">
-                <img class="img-fluid" src="https://www.calliaweb.co.uk/wp-content/uploads/2015/10/600x400.jpg"
-                    alt="portfolio-image">
-            </div>
-            <div class="col-md-6 col-lg-4 col-no-padding">
-                <img class="img-fluid" src="https://www.calliaweb.co.uk/wp-content/uploads/2015/10/600x400.jpg"
-                    alt="portfolio-image">
-            </div>
-            <div class="col-md-6 col-lg-4 col-no-padding">
-                <img class="img-fluid" src="https://www.calliaweb.co.uk/wp-content/uploads/2015/10/600x400.jpg"
-                    alt="portfolio-image">
-            </div>
+            {{ end }}
         </div>
     </div>
 </section>

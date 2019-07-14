@@ -1,2 +1,27 @@
 enable: true
 topTitle: Портфолио
+projects: 
+  - title: Club 35
+    subtitle: Лого дизайн
+    image: images/portfolio-page/img.jpg
+    link: #
+
+  - title: Club 35
+    subtitle: Лого дизайн
+    image: images/portfolio-page/img.jpg
+    link: #
+
+  - title: Club 35
+    subtitle: Лого дизайн
+    image: images/portfolio-page/img.jpg
+    link: #
+
+  - title: Club 35
+    subtitle: Лого дизайн
+    image: images/portfolio-page/img.jpg
+    link: #
+
+  - title: Club 35
+    subtitle: Лого дизайн
+    image: images/portfolio-page/img.jpg
+    link: #
