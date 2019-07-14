@@ -1,4 +1,6 @@
 enable: true
+topTitle: Portfolio
+description: Get to know our projects better
 projects: 
   - title: Club 35
     subtitle: Лого дизайн

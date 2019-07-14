@@ -11,6 +11,9 @@
                     <h2>{{ . }}</h2>
                     <span class="border"></span>
                     {{ end }}
+                    {{ with .description }}
+                    <h4>{{ . }}</h4>
+                    {{ end }}
                 </div>
             </div>
         </div>
