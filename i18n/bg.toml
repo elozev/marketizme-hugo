@@ -2,8 +2,8 @@
 other = "За Нас"
 [service]
 other = "Услуги"
-# [portfolio]
-# other = "Портфолио"
+[portfolio]
+other = "Портфолио"
 # [blog]
 # other = "FR Blog"
 [contact]
