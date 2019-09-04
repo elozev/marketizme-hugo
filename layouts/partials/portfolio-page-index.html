@@ -19,7 +19,7 @@
         </div>
         {{ "<!-- End of title section -->" | safeHTML }}
         <div class="row">
-            {{ range .projects}}
+            {{ range first 6 .projects}}
             <div class="col-md-6 col-lg-4 col-no-padding">
                 <a class="search-icon" href="{{ .image | absURL }} " data-lightbox="image-1" data-title="">
                     {{/*  </a>"<a href='{{ .link }}' target='_blank' <a> {{ .subtitle }} (Кликни тук) </a>"> */}}
@@ -30,6 +30,10 @@
                 </div>
             </div>
             {{ end }}
+        </div>
+
+        <div class="row justify-content-center mt-4">
+            <a href='portfolio' class="btn btn-lime">ВИЖТЕ ОЩЕ</a>
         </div>
     </div>
 </section>
