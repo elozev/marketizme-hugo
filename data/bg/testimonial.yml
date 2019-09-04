@@ -57,8 +57,7 @@ item    :
     clientThumb : images/client-logo/graphica-logo.png
     clientName  : GraphicaMC
     link        : https://www.graphicamc.com/
-
-item2   : 
+ 
   - quote       : ""
     clientThumb : images/client-logo/moda-logo.png
     clientName  : Moda Italiana
