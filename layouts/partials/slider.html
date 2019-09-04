@@ -1,0 +1,10 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.slides}}
+
+{{ if .enable }}
+{{ "<!-- Slider section --> " | safeHTML }}
+
+KUR
+{{ "<!-- End section -->" | safeHTML }}
+{{ end }}
+{{ end }}

@@ -2,14 +2,14 @@ enable: true
 topTitle: Портфолио
 description: Запознайте се с нашите проекти
 projects: 
-  - title: Club 35
+  - title: Спектър-3 1990
     subtitle: Лого дизайн
-    image: images/portfolio-page/img.jpg
-    link: #
+    image: images/portfolio-page/1-specter.jpg
+    link: https://pennants-flags.com/
 
-  - title: Club 35
+  - title: Футболен Клуб "Славия"
     subtitle: Лого дизайн
-    image: images/portfolio-page/img.jpg
+    image: images/portfolio-page/2-slaviq.jpg
     link: #
 
   - title: Club 35
