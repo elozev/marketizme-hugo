@@ -36,7 +36,7 @@ DefaultContentLanguage = "bg"
 
     home = "Начало"
     logo = "images/logo.png"
-    menufixed = false
+    menufixed = true
 
     footerDescription = "Marketiz Me е екип от млади и мотиварини хора, стремящи се към перфекционизъм."
     footerServiceTitle = "Услуги"
@@ -110,7 +110,7 @@ DefaultContentLanguage = "bg"
 
     home = "Home"
     logo = "images/logo.png"
-    menufixed = false
+    menufixed = true
 
     footerDescription = "Marketiz Me is a team of young and motivated people striving perfectionism."
     footerServiceTitle = "Service"
