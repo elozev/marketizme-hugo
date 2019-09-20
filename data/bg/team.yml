@@ -15,7 +15,7 @@ member  :
 
   - image         : images/team/member-2.jpg
     name          : Емил Лозев
-    designation   : Front & Backend Developer
+    designation   : Fullstack Developer
     description   : >
       "Доволният клиент е нашата цел номер 1!"
     facebookURL   : https://www.facebook.com/
@@ -43,6 +43,15 @@ member  :
   - image         : images/team/member-5.jpg
     name          : Борислав Гласков
     designation   : Web Developer
+    description   : >
+      „Ние не създаваме просто уебсайтове, а изграждаме уебсайтове, които ПРОДАВАТ.“
+    facebookURL   : https://www.facebook.com/
+    instagramURL    : https://twitter.com/
+    mailURL    : https://twitter.com/
+  
+  - image         : images/team/member-6.jpg
+    name          : Радослав Драганов
+    designation   : Маркетинг Лийд
     description   : >
       „Ние не създаваме просто уебсайтове, а изграждаме уебсайтове, които ПРОДАВАТ.“
     facebookURL   : https://www.facebook.com/

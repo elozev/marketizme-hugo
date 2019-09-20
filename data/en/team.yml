@@ -15,7 +15,7 @@ member  :
 
   - image         : images/team/member-2.jpg
     name          : Emil Lozev
-    designation   : Front & Backend Developer
+    designation   : Fullstack Developer
     description   : >
       "The satisfied customer is number one priority!"
     facebookURL   : https://www.facebook.com/
@@ -45,6 +45,15 @@ member  :
     designation   : Web Developer
     description   : >
       „We do not just create websites, but develop websites that SELL.“
+    facebookURL   : https://www.facebook.com/
+    instagramURL    : https://twitter.com/
+    mailURL    : https://twitter.com/
+
+  - image         : images/team/member-6.jpg
+    name          : Radoslav Draganov
+    designation   : Маркетинг Лийд
+    description   : >
+      „Ние не създаваме просто уебсайтове, а изграждаме уебсайтове, които ПРОДАВАТ.“
     facebookURL   : https://www.facebook.com/
     instagramURL    : https://twitter.com/
     mailURL    : https://twitter.com/
