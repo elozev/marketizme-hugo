@@ -22,7 +22,6 @@
             {{ range first 6 .projects}}
             <div class="col-md-6 col-lg-4 col-no-padding">
                 <a class="search-icon" href="{{ .image | absURL }} " data-lightbox="image-1" data-title="">
-                    {{/*  </a>"<a href='{{ .link }}' target='_blank' <a> {{ .subtitle }} (Кликни тук) </a>"> */}}
                     <img class="img-fluid hover-img" src="{{ .image | absURL }}" alt="portfolio-image">
                 </a>
                 <div class="hover-img-text">
