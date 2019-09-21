@@ -47,7 +47,8 @@ item    :
     clientThumb : images/client-logo/mm-tuning-logo.png
     clientName  : MMTuning
     link        : https://mmtuning-bg.com/
-
+    
+item2:
   - quote       : ""
     clientThumb : images/client-logo/soccer-logo.png
     clientName  : Soccer King Store

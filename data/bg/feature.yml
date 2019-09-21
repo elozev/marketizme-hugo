@@ -35,3 +35,15 @@ item  :
     link : marketing-consult    
     description : >
       Изграждане на стратегия, план и анализ за развитите на вашия бранд онлайн.
+
+  - icon  : tf-ion-android-person
+    title : User Experience
+    link : ux
+    description : >
+      Изграждане на user-friendly уеб страници.
+
+  - icon  : tf-ion-android-mail
+    title : Емайл Маркетинг
+    link : mail-campaigns
+    description : >
+      Таргетиране на клиенти чрез имейл кампании.

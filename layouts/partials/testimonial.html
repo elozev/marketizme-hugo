@@ -19,22 +19,41 @@
 
         <div class="row">
             {{ "<!-- testimonial wrapper -->" | safeHTML }}
-            {{ range .item }}
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                {{ "<!-- testimonial single -->" | safeHTML }}
-                <a href="{{ .link }}" target="_blank">
-                    <div class="item text-center">
-                        {{ "<!-- client photo -->" | safeHTML }}
-                        <div class="client-thumb">
-                            <img src="{{ .clientThumb | absURL }}" class="img-fluid" style="height: 200px; width: auto;"
-                                alt="client-image">
+            <div class="col-12">
+                {{ "<!-- testimonial wrapper -->" | safeHTML }}
+                <div class="testimonial-slider">
+                    {{ range .item }}
+                    {{ "<!-- testimonial single -->" | safeHTML }}
+                    <a href="{{ .link }}" target="_blank">
+                        <div class="item text-center">
+                            {{ "<!-- client photo -->" | safeHTML }}
+                            <div class="client-thumb">
+                                <img src="{{ .clientThumb | absURL }}" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
                         </div>
-                        <div class="client-meta">
+                    </a>
+                    {{ end }}
+                </div>
+                <div class="testimonial-slider">
+                    {{ range .item2 }}
+                    {{ "<!-- testimonial single -->" | safeHTML }}
+                    <a href="{{ .link }}" target="_blank">
+                        <div class="item text-center">
+                            {{ "<!-- client photo -->" | safeHTML }}
+                            <div class="client-thumb">
+                                <img src="{{ .clientThumb | absURL }}" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
                         </div>
-                    </div>
-                </a>
+                    </a>
+                    {{ end }}
+                </div>
             </div>
-            {{ end }}
         </div>
     </div>
 </section>
