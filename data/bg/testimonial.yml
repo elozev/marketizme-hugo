@@ -4,11 +4,6 @@ title   : Хората, които ни се довериха
 subtitle: Текущи клиенти 
 item    :
   - quote       : ""
-    clientThumb : images/client-logo/ragazzi_png.png
-    clientName  : Ragazzi Bar & Dinner
-    link        : https://www.facebook.com/ragazzibaranddinner/
-
-  - quote       : ""
     clientThumb : images/client-logo/estetico_png.png
     clientName  : Esteti Co
     link        : https://www.facebook.com/esteticocosmetic/
@@ -48,6 +43,21 @@ item    :
     clientName  : MMTuning
     link        : https://mmtuning-bg.com/
     
+  - quote       : ""
+    clientThumb : images/client-logo/blikinails-logo.png
+    clientName  : Bliki Nails
+    link        : https://www.facebook.com/blikinails/
+  
+  - quote       : ""
+    clientThumb : images/client-logo/gs.png
+    clientName  : Голямата Стая
+    link        : http://www.goliamatastaia.com/
+  
+  - quote       : ""
+    clientThumb : images/client-logo/honey-logo.png
+    clientName  : Honey Lifestyle
+    link        : https://www.facebook.com/HoneyLifeStyle2019/
+  
 item2:
   - quote       : ""
     clientThumb : images/client-logo/soccer-logo.png
@@ -75,11 +85,6 @@ item2:
     link        : https://kefobulgaria.com/
 
   - quote       : ""
-    clientThumb : images/client-logo/lounge-54-logo.png
-    clientName  : 54 Lounge Bar
-    link        : https://www.facebook.com/54loungebar/
-
-  - quote       : ""
     clientThumb : images/client-logo/artisans.png
     clientName  : Artisans
     link        : https://artisans-bg.com/
@@ -87,22 +92,29 @@ item2:
   - quote       : ""
     clientThumb : images/client-logo/newstyle-logo.png
     clientName  : Garderobna
-    link        : https://www.facebook.com/newstyle.ladystore/
+    link        : http://garderobna.bg
 
   - quote       : ""
     clientThumb : images/client-logo/wg-garments.png
     clientName  : Williams Garments
-    link        : https://www.williamsgarments.com/
+    link        : #
 
   - quote       : ""
     clientThumb : images/client-logo/bistro-logo.png
     clientName  : Bistro Ariana
     link        : https://www.facebook.com/BistroAriana/
 
+  - quote       : ""
+    clientThumb : images/client-logo/stelo-logo.png
+    clientName  : Stelo
+    link        : http://stelo.bg/
 
+  - quote       : ""
+    clientThumb : images/client-logo/zero.png
+    clientName  : Zero Bar & Grill
+    link        : https://www.facebook.com/zerobargrill/
 
-
-
-
-
-
+  - quote       : ""
+    clientThumb : images/client-logo/stroybv.png
+    clientName  : Green Park
+    link        : http://stroybv1.com/
