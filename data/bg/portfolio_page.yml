@@ -1,6 +1,7 @@
 enable: true
 topTitle: Портфолио
 description: Запознайте се с нашите проекти
+btnText: ВИЖТЕ ОЩЕ
 projects: 
   - title: Спектър-3 1990
     subtitle: Уебсайт и поддръжка на социални мрежи

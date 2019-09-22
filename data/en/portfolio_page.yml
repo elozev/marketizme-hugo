@@ -1,28 +1,124 @@
 enable: true
 topTitle: Portfolio
 description: Get to know our projects better
+btnText: MORE HERE
 projects: 
-  - title: Club 35
-    subtitle: Лого дизайн
-    image: images/portfolio-page/img.jpg
+  - title: Спектър-3 1990
+    subtitle: Уебсайт и поддръжка на социални мрежи
+    image: images/portfolio-page/1-specter.jpg
+    link: https://pennants-flags.com/
+
+  - title: Футболен Клуб "Славия"
+    subtitle: Поддръжка на социални мрежи
+    image: images/portfolio-page/2-slaviq.jpg
     link: #
 
-  - title: Club 35
-    subtitle: Лого дизайн
-    image: images/portfolio-page/img.jpg
+  - title: Клуб 35 Нестинарка
+    subtitle: Поддръжка на социални мрежи
+    image: images/portfolio-page/3-nestinarka.jpg
     link: #
 
-  - title: Club 35
-    subtitle: Лого дизайн
-    image: images/portfolio-page/img.jpg
+  - title: Клуб 35
+    subtitle: Поддръжка на социални мрежи
+    image: images/portfolio-page/4-club-35.jpg
+    link:
+
+  - title: 53 Лоунч
+    subtitle: Поддръжка на социални мрежи
+    image: images/portfolio-page/5-lounge-53.jpg
     link: #
 
-  - title: Club 35
-    subtitle: Лого дизайн
-    image: images/portfolio-page/img.jpg
+  - title: Бизаре
+    subtitle: Поддръжка на социални мрежи
+    image: images/portfolio-page/6-bizarre.jpg
     link: #
 
-  - title: Club 35
-    subtitle: Лого дизайн
-    image: images/portfolio-page/img.jpg
+  - title: Рагаци
+    subtitle: Поддръжка на социални мрежи
+    image: images/portfolio-page/7-ragazzi-min.jpg
+    link: #
+
+  - title: ЕМ Стайл
+    subtitle: Уебсайт и поддръжка на социални мрежи
+    image: images/portfolio-page/9-emstyle-min.jpg
+    link: #
+
+  - title: Естетико
+    subtitle: Поддръжка на социални мрежи
+    image: images/portfolio-page/10-estetico-min.jpg
+    link: #
+
+  - title: Мода Италиана
+    subtitle: Поддръжка на социални мрежи
+    image: images/portfolio-page/11-modaitaliana -min.jpg
+    link:
+
+  - title: Артисанс
+    subtitle: Уебсайт и поддръжка на социални мрежи
+    image: images/portfolio-page/12-artisans-min.jpg
+    link: #
+
+  - title: BDO
+    subtitle: Проекти и поддръжка на социални мрежи
+    image: images/portfolio-page/13-BDO-min.jpg
+    link: #
+
+  - title: Сокър Кинг Магазин
+    subtitle: Уебсайт и поддръжка на социални мрежи
+    image: images/portfolio-page/14-soccerking-min.jpg
+    link: #
+
+  - title: ММ Тунинг
+    subtitle: Уебсайт и поддръжка на социални мрежи
+    image: images/portfolio-page/15-mm-tuning-min.jpg
+    link:
+
+  - title: Графика МС
+    subtitle: Проекти и поддръжка на социални мрежи
+    image: images/portfolio-page/16-graphica-mc-min.jpg
+    link: #
+
+  - title: Смени Маслото - Елоз
+    subtitle: Уебсайт и проекти
+    image: images/portfolio-page/17-eloz-min.jpg
+    link: #
+
+  - title: Блики Найлс
+    subtitle: Проекти и поддръжка на социални мрежи
+    image: images/portfolio-page/18-bliki-nails-min.jpg
+    link: #
+
+  - title: Бриф - Бар&Динер
+    subtitle: Проекти и поддръжка на социални мрежи
+    image: images/portfolio-page/19-brif-bar-and-dinner-min.jpg
+    link: #
+
+  - title: Кътърс
+    subtitle: Поддръжка на социални мрежи
+    image: images/portfolio-page/20-cutters-min.jpg
+    link: #
+
+  - title: Хъней Лайфстайл
+    subtitle: Проекти и поддръжка на социални мрежи
+    image: images/portfolio-page/21-honey-min.jpg
+    link:
+
+  - title: СтройБВ
+    subtitle: Уебсайт
+    image: images/portfolio-page/22-stoybv.jpg
+    link: #
+
+  - title: Лингуа Артис
+    subtitle: Проекти
+    image: images/portfolio-page/23-lingua artis-min.jpg
+    link: #
+
+  - title: Уникални Аромати
+    subtitle: Проекти и поддръжка на социални мрежи
+    image: images/portfolio-page/24-unique fragrances-min.jpg
+    link: #
+
+  - title: Уникални Аромати
+    subtitle: Проекти и поддръжка на социални мрежи
+    image: images/portfolio-page/26-golden-steak.jpg
     link: #
