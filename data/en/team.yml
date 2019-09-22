@@ -15,7 +15,7 @@ member  :
 
   - image         : images/team/member-2.jpg
     name          : Emil Lozev
-    designation   : Fullstack Developer
+    designation   : Web Developer
     description   : >
       "The satisfied customer is number one priority!"
     facebookURL   : https://www.facebook.com/
@@ -33,7 +33,7 @@ member  :
 
   - image         : images/team/member-4.jpg
     name          : Iva Gramatikova
-    designation   : Copywriter & content marketing
+    designation   : Account Manager
     description   : >
       "Make it simple. Make it stand. Make it fun to read and everyone will pay attention."
     facebookURL   : https://www.facebook.com/
@@ -51,9 +51,9 @@ member  :
 
   - image         : images/team/member-6.jpg
     name          : Radoslav Draganov
-    designation   : Маркетинг Лийд
+    designation   : Creative Director
     description   : >
-      „Ние не създаваме просто уебсайтове, а изграждаме уебсайтове, които ПРОДАВАТ.“
+      „Good design is good business.“
     facebookURL   : https://www.facebook.com/
     instagramURL    : https://twitter.com/
     mailURL    : https://twitter.com/

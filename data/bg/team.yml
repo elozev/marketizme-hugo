@@ -6,7 +6,7 @@ subtitle: Запознайте се с хората стоящи зад наша
 member  :
   - image         : images/team/member-1.jpg
     name          : Христо Мартински
-    designation   : Marketing Manager
+    designation   : Marketing Executive
     description   : >
       "Маркетингът е твърде важен, за да бъде оставен на маркетинг отдела, ето къде идваме и ние."
     facebookURL   : https://www.facebook.com/
@@ -15,7 +15,7 @@ member  :
 
   - image         : images/team/member-2.jpg
     name          : Емил Лозев
-    designation   : Fullstack Developer
+    designation   : Web Developer
     description   : >
       "Доволният клиент е нашата цел номер 1!"
     facebookURL   : https://www.facebook.com/
@@ -33,7 +33,7 @@ member  :
 
   - image         : images/team/member-4.jpg
     name          : Ива Граматикова
-    designation   : Copywriter & content marketing
+    designation   : Account Manager
     description   : >
       "Направи го просто. Направи го запомнящо се. Направи го забавно за четене и всеки ще обърне внимание."
     facebookURL   : https://www.facebook.com/
@@ -51,9 +51,9 @@ member  :
   
   - image         : images/team/member-6.jpg
     name          : Радослав Драганов
-    designation   : Маркетинг Лийд
+    designation   : Creative Director
     description   : >
-      „Ние не създаваме просто уебсайтове, а изграждаме уебсайтове, които ПРОДАВАТ.“
+      „Добрият дизайн е добър бизнес.“
     facebookURL   : https://www.facebook.com/
     instagramURL    : https://twitter.com/
     mailURL    : https://twitter.com/
