@@ -1,6 +1,7 @@
 enable  : true
 topTitle: How we work
 title   : Get to know our working process
+btnText : MORE
 subtitle: 
 item    :
   - number  : 1

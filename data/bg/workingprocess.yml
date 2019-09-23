@@ -1,6 +1,7 @@
 enable  : true
 topTitle: Процес на работа
 title   : Запознайте се с процеса ни на работа
+btnText : ВИЖТЕ ОЩЕ
 subtitle: 
 item    :
   - number  : 1
