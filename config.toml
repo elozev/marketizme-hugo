@@ -44,7 +44,7 @@ DefaultContentLanguage = "bg"
     footerAboutTitle = "За нас"
     footerSubscribeTitle = "Subscribe"
     facebookLink = "https://www.facebook.com/marketizme"
-    instagramLink = "https://www.instagram.com/marketizme/"
+    # instagramLink = "https://www.instagram.com/marketizme/"
     mailLink = "mailto:office@marketizme.com"
     # footerSubscribeTitle = "FRANCAIS Subscribe"
 
@@ -82,10 +82,15 @@ DefaultContentLanguage = "bg"
         # twitter = "https://twitter.com/"
         # linkedin= "https://www.linkedin.com/"
         mail= "office@marketizme.com"
-        instagram= "https://www.instagram.com/marketizme/"
+        # instagram= "https://www.instagram.com/marketizme/"
         mapLatitude = "42.677487"
         mapLongitude= "23.320236"
         mapMarker   = "images/marker.png"
+
+        formNames = "Имена"
+        formEmail = "Email"
+        formSubject = "Тема"
+        formMessage = "Съобщение"
 
     # Call to Action Section on About Page
     [Languages.bg.params.cta]
@@ -112,7 +117,7 @@ DefaultContentLanguage = "bg"
     footerAboutTitle = "About"
     footerSubscribeTitle = "Subscribe"
     facebookLink = "https://www.facebook.com/marketizme"
-    instagramLink = "https://www.instagram.com/marketizme/"
+    # instagramLink = "https://www.instagram.com/marketizme/"
     mailLink = "mailto:office@marketizme.com"
 
     # Hero Area Section
@@ -150,10 +155,15 @@ DefaultContentLanguage = "bg"
         # twitter = "https://twitter.com/"
         # linkedin= "https://www.linkedin.com/"
         mail= "office@marketizme.com"
-        instagram= "https://www.instagram.com/marketizme/"
+        # instagram= "https://www.instagram.com/marketizme/"
         mapLatitude = "42.677487"
         mapLongitude= "23.320236"
         mapMarker   = "images/marker.png"
+
+        formNames = "Names"
+        formEmail = "Email"
+        formSubject = "Subject"
+        formMessage = "Message"
   
     # Call to Action Section on About Page
     [Languages.en.params.cta]
