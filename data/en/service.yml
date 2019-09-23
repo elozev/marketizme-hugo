@@ -51,3 +51,15 @@ item      :
     list  :
       - name : Marketing strategy.
       - name : Analysis and development of your brand.
+
+  - icon  : tf-ion-android-person
+    title : User Experience
+    link: ux
+    list :
+      - name : Development of user-friendly websites.
+
+  - icon  : tf-ion-android-mail
+    title : Емайл Маркетинг
+    link : mail-campaigns
+    list :
+      - name : Target clients through email campaigns.

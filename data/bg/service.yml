@@ -6,6 +6,7 @@ item      :
   - icon  : tf-ion-social-facebook
     title : Маркетинг в социалните мрежи
     link : social
+    color: black
     list  :
       - name : Поддръжка на страница.
       - name : Публикуване на рубрики и игри.
@@ -51,3 +52,15 @@ item      :
     list  :
       - name : Изграждане на маркетинг стратегия.
       - name : Анализ и развитие на вашия бранд онлайн.
+
+  - icon  : tf-ion-android-person
+    title : User Experience
+    link: ux
+    list :
+      - name : Изграждане на user-friendly уеб страници.
+
+  - icon  : tf-ion-android-mail
+    title : Емайл Маркетинг
+    link : mail-campaigns
+    list :
+      - name : Таргетиране на клиенти чрез имейл кампании.
