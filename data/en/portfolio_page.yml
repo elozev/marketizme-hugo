@@ -18,30 +18,45 @@ projects:
     image: images/portfolio-page/3-nestinarka.jpg
     link: #
 
+  - title: ЕМ Стайл
+    subtitle: Уебсайт и поддръжка на социални мрежи
+    image: images/portfolio-page/9-emstyle-min.jpg
+    link: #
+
   - title: Клуб 35
     subtitle: Поддръжка на социални мрежи
     image: images/portfolio-page/4-club-35.jpg
     link:
 
-  - title: 53 Лоунч
+  - title: Гардеробна
     subtitle: Поддръжка на социални мрежи
-    image: images/portfolio-page/5-lounge-53.jpg
-    link: #
+    image: images/portfolio-page/garderobna.jpg
+    link:
 
-  - title: Бизаре
+  - title: Голямата Стая
+    subtitle: Уебсайт
+    image: images/portfolio-page/goliamata.jpg
+    link:
+
+  - title: Мебели Ларго
+    subtitle: Онлайн реклама
+    image: images/portfolio-page/mebeli-largo.jpg
+    link:
+
+  - title: NewStyle
+    subtitle: Онлайн реклама
+    image: images/portfolio-page/newstyle.jpg
+    link:
+
+  - title: Zero
+    subtitle: Онлайн реклама
+    image: images/portfolio-page/zero.jpg
+    link:
+
+  - title: Бистро Ариана
     subtitle: Поддръжка на социални мрежи
-    image: images/portfolio-page/6-bizarre.jpg
-    link: #
-
-  - title: Рагаци
-    subtitle: Поддръжка на социални мрежи
-    image: images/portfolio-page/7-ragazzi-min.jpg
-    link: #
-
-  - title: ЕМ Стайл
-    subtitle: Уебсайт и поддръжка на социални мрежи
-    image: images/portfolio-page/9-emstyle-min.jpg
-    link: #
+    image: images/portfolio-page/bistroariana.jpg
+    link:
 
   - title: Естетико
     subtitle: Поддръжка на социални мрежи
