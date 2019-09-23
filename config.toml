@@ -50,15 +50,9 @@ DefaultContentLanguage = "bg"
 
     # Hero Area Section
     [Languages.bg.params.hero]
-        enable  = true
-        heading = "FRANCAIS We love to make brands grow"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-        button  = true
-        btnText = "Know More"
-        btnURL  = "https://themefisher.com/"
-        videoThumb = "images/slider/video-player-thumb.jpg"
-        videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
-
+        heading = "Ние сме Marketiz Me"
+        description = "Marketiz Me предлага 360&#176; дигитални маркетинг услуги, <br />които създават идентичност,изграждат марки, стимулират<br />взаимодейстивието и получаването на резултати"
+        btnText = "ВИЖТЕ ОЩЕ"
     # About 2 Section
     [Languages.bg.params.aboutSm]
         enable  = true
@@ -123,14 +117,9 @@ DefaultContentLanguage = "bg"
 
     # Hero Area Section
     [Languages.en.params.hero]
-        enable  = true
-        heading = "We love to make brands grow"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-        button  = true
-        btnText = "Know More"
-        btnURL  = "https://themefisher.com/"
-        videoThumb = "images/slider/video-player-thumb.jpg"
-        videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+        heading = "We are Marketiz Me"
+        description = "Marketiz Me offers 360&#176; digital marketing services, <br />that create identity, build brands, stimulate<br />interactions and drive results"
+        btnText = "MORE"
 
     # About 2 Section
     [Languages.en.params.aboutSm]
