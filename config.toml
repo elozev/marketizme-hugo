@@ -91,6 +91,7 @@ DefaultContentLanguage = "bg"
         formEmail = "Email"
         formSubject = "Тема"
         formMessage = "Съобщение"
+        formSubmit = "ИЗПРАТИ"
 
     # Call to Action Section on About Page
     [Languages.bg.params.cta]
@@ -164,6 +165,7 @@ DefaultContentLanguage = "bg"
         formEmail = "Email"
         formSubject = "Subject"
         formMessage = "Message"
+        formSubmit = "SUBMIT"
   
     # Call to Action Section on About Page
     [Languages.en.params.cta]
