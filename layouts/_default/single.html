@@ -1,10 +1,10 @@
 {{ define "main" }}
 
 <section class="blog-single section">
-    <div class="jumbotron jumbotron-fluid mt-5"
+    <div class="jumbotron jumbotron-fluid mt-5 py-5 px-3"
         style="background-image: url('{{ with .Params.image }}{{ . | absURL }}{{ end }}');">
         <div class="container grey-box">
-            <h1 class="display-4">{{ .Title }}</h1>
+            <h1 class="display-5">{{ .Title }}</h1>
             <p>{{ .Params.subTitle }}</p>
         </div>
     </div>
@@ -12,7 +12,9 @@
     <div class="row">
         {{/*  <div class="container">  */}}
         <div class="col-md-6 mx-auto">
-            {{ .Content }}
+            <div class='px-3'>
+                {{ .Content }}
+            </div>
         </div>
         {{/*  </div>  */}}
     </div>
