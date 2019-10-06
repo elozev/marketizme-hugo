@@ -1,66 +1,85 @@
-enable    : true
-topTitle  : 
-title     : Услуги
-subtitle  : Запознайте се с предлаганите от нас услуги!
-item      :
-  - icon  : tf-ion-social-facebook
-    title : Маркетинг в социалните мрежи
-    link : social
-    color: black
-    list  :
-      - name : Поддръжка на страница.
-      - name : Публикуване на рубрики и игри.
-      - name : Реализиране и проследяване на рекламни кампании.
-      - name : Създаване и добавяне на продукти във Facebook Shop.
+enable: true
+topTitle:
+title: Услуги
+subtitle: Запознайте се с предлаганите от нас услуги!
+viewMoreButton: Виж Повече
+item:
+  - icon: tf-ion-social-facebook
+    title: Социални мрежи
+    link: social
+    viewMoreButton: "Виж повече"
+    list:
+      - name: Управение на профили в социалните мрежи.
+      - name: Създаване на съдържание.
+      - name: Копирайтинг.
+      - name: Месечна оптимизация.
 
-  - icon  : tf-ion-social-html5
-    title : Изработка на уебсайт
-    link : webdesign
-    list  :
-      - name : Изграждане на уебсайт и онлайн магазин.
-      - name : Изграждане на софтуерни платформи.
-      - name : Google Ads кампании.
-      - name : Поддръжка на уебсайт.
+  - icon: tf-ion-social-html5
+    title: Изработка на уебсайт
+    link: webdesign
+    viewMoreButton: "Виж повече"
+    list:
+      - name: Фирмен уебсайт.
+      - name: Онлайн магазин.
+      - name: Custom уебсайт.
+      - name: Месечна поддръжка.
 
-  - icon  : tf-ion-social-designernews
-    title : Креативен дизайн
+  - icon: tf-ion-social-designernews
+    title: Дизайн
     link: design
-    list  :
-      - name : Създаване на лого и банери.
-      - name : Създаване на дизайн за уебсайт.
-      - name : Създаване на анимации.
-      - name : Създаване на реклами клипове.
-  
-  - icon  : tf-ion-ios-speedometer
-    title : Рекламнии кампании
+    viewMoreButton: "Виж повече"
+    list:
+      - name: Лого.
+      - name: Дизайн за събития.
+      - name: Анимационно видео.
+      - name: Продуктово видео.
+
+  - icon: tf-ion-ios-speedometer
+    title: Рекламнии кампании
     link: ad-campaign
-    list  :
-      - name : Планиране и реализиране на рекламна кампания.
-      - name : Определяне и създаване на целеви групи.
-      - name : Email маркетинг.
+    viewMoreButton: "Виж повече"
+    list:
+      - name: Реклама във Facebook.
+      - name: Реклама в Instagram.
+      - name: Реклама в Google.
+      - name: Реклама в LinkedIn.
 
-  - icon  : tf-ion-social-google
-    title : Маркетинг в търсещите машини
+  - icon: tf-ion-social-google
+    title: Маркетинг в търсещите машини
     link: sem
-    list  :
-      - name : Оптимизация на уебсайт.
-      - name : Изграждане на рекламни кампании в търсещите машини.
+    viewMoreButton: "Виж повече"
+    list:
+      - name: SEO.
+      - name: PPC Ads.
+      - name: Вътрешна оптимизация.
+      - name: Външна оптимизация.
 
-  - icon  : tf-ion-android-contacts
-    title : Маркетинг консулатции
+  - icon: tf-ion-android-contacts
+    title: Маркетинг консулатции
     link: marketing-consult
-    list  :
-      - name : Изграждане на маркетинг стратегия.
-      - name : Анализ и развитие на вашия бранд онлайн.
+    viewMoreButton: "Виж повече"
+    list:
+      - name: Маркетингови стратегии.
+      - name: План за развитие.
+      - name: Бизнес анализ.
+      - name: Определяне на KPIs.
 
-  - icon  : tf-ion-android-person
-    title : User Experience
+  - icon: tf-ion-android-person
+    title: User Experience
     link: ux
-    list :
-      - name : Изграждане на user-friendly уеб страници.
+    viewMoreButton: "Виж повече"
+    list:
+      - name: User-Friendly уеб страници.
+      - name: Адаптивни уебсайтове.
+      - name: Дизайн и функционалност.
+      - name: Концентрация върху човешкия елемент.
 
-  - icon  : tf-ion-android-mail
-    title : Емайл Маркетинг
-    link : mail-campaigns
-    list :
-      - name : Таргетиране на клиенти чрез имейл кампании.
+  - icon: tf-ion-android-mail
+    title: Имейл Маркетинг
+    link: mail-campaigns
+    viewMoreButton: "Виж повече"
+    list:
+      - name: Персонализирани кампании.
+      - name: Автоматизирано изпращане.
+      - name: Качествено съдържание.
+      - name: Изцяло спазване на ОРЗД / GDPR.

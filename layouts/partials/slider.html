@@ -3,15 +3,21 @@
 <section id='header'>
   <div class='row m-0'>
     <div class="index-bg-img" id='header-bg-animation'>
-      <div class="container h-100 mt-5 pt-5 px-0">
-        <div class="row justify-content-center align-items-center text-white mt-lg-5 pt-lg-5 ">
-          <div class="text-center col-12 align-self-center mt-5 pt-lg-5">
+      <div class="container h-100 px-0">
+        <div class="row justify-content-center align-items-center text-white">
+          <div class="text-center col-12 align-self-center mt-5 pt-5 mx-0">
             <div class="slider-text" style="min-height: 100px">
-              <h1 class="display-3 mt-5">{{ .Site.Params.hero.heading }}</h1>
-              <h1 class="display-3 mt-5" style="min-height: 100px;" id="deleting-text"></h1>
+              <div class="d-none d-lg-block">
+                <h1 class="display-2 mt-5">{{ .Site.Params.hero.heading }}</h1>
+              </div>
+              <div class="d-block d-lg-none">
+                <h2 class="mt-5">{{ .Site.Params.hero.heading }}</h2>
+              </div>
+              <h1 class="mt-5">All in one</h1>
+              <h1 class="deleting-text" style="min-height: 100px;"></h1>
               <br />
-              <h6 class="mt-4 text-center mt-5">{{ .Site.Params.hero.description | markdownify}}</h6>
-              <a class="btn btn-white btn-lg mt-5" href='service'>{{ .Site.Params.hero.btnText }}</a>
+              <h6 class="text-center">{{ .Site.Params.hero.description | markdownify}}</h6>
+              <a class="btn btn-white btn-lg mt-2 mb-5" href='service'>{{ .Site.Params.hero.btnText }}</a>
             </div>
           </div>
         </div>

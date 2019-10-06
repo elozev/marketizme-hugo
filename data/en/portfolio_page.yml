@@ -2,7 +2,7 @@ enable: true
 topTitle: Portfolio
 description: Get to know our projects better
 btnText: MORE HERE
-projects: 
+projects:
   - title: Спектър-3 1990
     subtitle: Уебсайт и поддръжка на социални мрежи
     image: images/portfolio-page/1-specter.jpg
@@ -136,4 +136,33 @@ projects:
   - title: Уникални Аромати
     subtitle: Проекти и поддръжка на социални мрежи
     image: images/portfolio-page/26-golden-steak.jpg
+    link: #
+  - title: Реклама
+    subtitle: Реклама във социалните мрежи
+    image: images/portfolio-page/31-ad.jpg
+    link: #
+
+  - title: Реклама
+    subtitle: Реклама във социалните мрежи
+    image: images/portfolio-page/32-ad.jpg
+    link: #
+
+  - title: Реклама
+    subtitle: Реклама във социалните мрежи
+    image: images/portfolio-page/33-ad.jpg
+    link: #
+
+  - title: Реклама
+    subtitle: Реклама във социалните мрежи
+    image: images/portfolio-page/34-ad.jpg
+    link: #
+
+  - title: Реклама
+    subtitle: Реклама във социалните мрежи
+    image: images/portfolio-page/35-ad.jpg
+    link: #
+
+  - title: Реклама
+    subtitle: Реклама във социалните мрежи
+    image: images/portfolio-page/36-ad.jpg
     link: #

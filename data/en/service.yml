@@ -1,65 +1,84 @@
-enable    : true
-topTitle  : 
-title     : Services
-subtitle  : Запознайте се с предлаганите от нас услуги!
-item      :
-  - icon  : tf-ion-social-facebook
-    title : Social Media Marketing
-    link : social
-    list  :
-      - name : Crowd engagement.
-      - name : Posting of rubrics and games.
-      - name : Realization and management of advertisment campaigns.
-      - name : Creation of Facebook Shop.
+enable: true
+topTitle:
+title: Services
+viewMoreButton: "View More"
+item:
+  - icon: tf-ion-social-facebook
+    title: Social Media Marketing
+    link: social
+    viewMoreButton: "View More"
+    list:
+      - name: Managing social media accounts
+      - name: Content creation
+      - name: Monthly optimization
+      - name: Copywriting
 
-  - icon  : tf-ion-social-html5
-    title : Web Development
-    link : webdesign
-    list  :
-      - name : Web design and E-commerce.
-      - name : Software platforms.
-      - name : Google Ads campaigns.
-      - name : Maintanance.
+  - icon: tf-ion-social-html5
+    title: Web Development
+    link: webdesign
+    viewMoreButton: "View More"
+    list:
+      - name: Online store
+      - name: Company website
+      - name: Custom website
+      - name: Monthly maintanance
 
-  - icon  : tf-ion-social-designernews
-    title : Creative Design
+  - icon: tf-ion-social-designernews
+    title: Creative Design
     link: design
-    list  :
-      - name : Logos and banners.
-      - name : Web design.
-      - name : Animations.
-      - name : Advertisement videos.
-  
-  - icon  : tf-ion-ios-speedometer
-    title : Ad Campaigns
+    viewMoreButton: "View More"
+    list:
+      - name: Logo
+      - name: Event design
+      - name: Animated Video
+      - name: Product Video
+
+  - icon: tf-ion-ios-speedometer
+    title: Performance Marketing
     link: ad-campaign
-    list  :
-      - name : Relazation of advertisement across different channels.
-      - name : Audience targeting .
-      - name : Email marketing.
+    viewMoreButton: "View More"
+    list:
+      - name: Facebook Ads
+      - name: Instagram Ads
+      - name: Google Ads
+      - name: LinkedIn Ads
 
-  - icon  : tf-ion-social-google
-    title : Search Engine Marketing
+  - icon: tf-ion-social-google
+    title: Search Engine Marketing
     link: sem
-    list  :
-      - name : Website optimization.
-      - name : Advertisments in the search engines.
+    viewMoreButton: "View More"
+    list:
+      - name: SEO
+      - name: Internal optimisation
+      - name: External optimisation
+      - name: PPC Ads
 
-  - icon  : tf-ion-android-contacts
-    title : Marketing consultations
+  - icon: tf-ion-android-contacts
+    title: Marketing consultations
     link: marketing-consult
-    list  :
-      - name : Marketing strategy.
-      - name : Analysis and development of your brand.
+    viewMoreButton: "View More"
+    list:
+      - name: Marketing strategies
+      - name: Development plan
+      - name: Business analysis
+      - name: Evaluation of KPI’s
 
-  - icon  : tf-ion-android-person
-    title : User Experience
+  - icon: tf-ion-android-person
+    title: User Experience
     link: ux
-    list :
-      - name : Development of user-friendly websites.
+    viewMoreButton: "View More"
+    list:
+      - name: Resposnive web and mobile websites
+      - name: Design and functionality
+      - name: Tune in the human element
+      - name: User-Friendly web pages
 
-  - icon  : tf-ion-android-mail
-    title : Емайл Маркетинг
-    link : mail-campaigns
-    list :
-      - name : Target clients through email campaigns.
+  - icon: tf-ion-android-mail
+    title: Email Marketing
+    link: mail-campaigns
+    viewMoreButton: "View More"
+    list:
+      - name: Custom campaigns
+      - name: Automatisation
+      - name: Quality content
+      - name: Full compliance with GDPR

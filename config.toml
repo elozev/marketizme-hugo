@@ -1,6 +1,6 @@
 baseURL = "http://www.marketizme.com"
 languageCode = "bg-BG"
-title = "Marketiz Me | Дигитален маркетинг и реклама"
+title = "Marketise Me | Дигитален маркетинг и реклама"
 theme = "navigator-hugo"
 
 # Build robots.txt file
@@ -31,33 +31,32 @@ DefaultContentLanguage = "bg"
     [Languages.bg]
     weight = 1
     languageCode = "bg"
-    title = "Marketiz Me – Дигитален маркетинг и реклама"
+    title = "Marketise Me – Дигитален маркетинг и реклама"
     dateFormat = "2 January 2006"
 
     home = "Начало"
     logo = "images/logo.png"
     menufixed = true
 
-    footerDescription = "Marketiz Me е екип от млади и мотиварини хора, стремящи се към перфекционизъм."
     footerServiceTitle = "Услуги"
     footerQuicklinkTitle = "Последвайте ни"    
-    footerAboutTitle = "За нас"
+    footerAboutTitle = "IN DIGITAL WE TRUST"
     footerSubscribeTitle = "Subscribe"
     facebookLink = "https://www.facebook.com/marketizme"
-    # instagramLink = "https://www.instagram.com/marketizme/"
+    linkedinLink = "https://www.linkedin.com/company/marketise-me/"
     mailLink = "mailto:office@marketizme.com"
     # footerSubscribeTitle = "FRANCAIS Subscribe"
 
     # Hero Area Section
     [Languages.bg.params.hero]
-        heading = "Ние сме Marketiz Me"
-        description = "Marketiz Me предлага 360&#176; дигитални маркетинг услуги, <br />които създават идентичност,изграждат марки, стимулират<br />взаимодейстивието и получаването на резултати"
+        heading = "Ние сме Marketise Me"
+        description = "Marketise Me предлага 360&#176; дигитални маркетинг услуги, <br />които създават идентичност,изграждат марки, стимулират<br />взаимодейстивието и получаването на резултати"
         btnText = "ВИЖТЕ ОЩЕ"
     # About 2 Section
     [Languages.bg.params.aboutSm]
         enable  = true
         title   = "Дигитално развитие за вашия бранд!"
-        description = "<strong>Предлагаме ви: дигитален маркетинг в социалните мрежи, изработка на уебсайт, онлайн магазини, онлайн платформи и приложения. <br><br>Маркетинг консултации, онлайн реклама, реклама във Фейсбук, реклама в Инстаграм, поддръжка на социални мрежи, поддръжка на Фейсбук страница, поддръжка Инстаграм профил, SEO, реклама в Google, креативен дизайн и уебдизайн.</strong>"
+        description = "<strong>Предлагаме ви: дигитален маркетинг в социалните мрежи, изработка на уебсайт, онлайн магазини, онлайн платформи и приложения. <br><br>Маркетинг консултации, онлайн реклама, реклама във Фейсбук, реклама в Инстаграм, поддръжка на социални мрежи, поддръжка на Фейсбук страница, поддръжка Инстаграм профил, SEO, реклама в Google, Youtube маркетинг, LinkedIn реклама, креативен дизайн и уебдизайн.</strong>"
 
     # Blog Section On Homepage
     [Languages.bg.params.blog]
@@ -72,6 +71,7 @@ DefaultContentLanguage = "bg"
         topTitle= ""
         title   = "Контакти"
         subtitle= "За въпроси и консултации можете да се обърнете към нас по всяко едно време!"
+        contactFormTitle = "Контактна форма"
         addressTitle = "Адрес"
         ctaTitle = "Позвънете"
         socialChannelsTitle = "В социалните мрежи"        
@@ -105,26 +105,27 @@ DefaultContentLanguage = "bg"
     [Languages.en]
     weight = 2
     languageCode = "en-us"
-    title = "Marketiz Me - online marketing and website development."
+    title = "Marketise Me - online marketing and website development."
     dateFormat = "January 2, 2006"
 
     home = "Home"
     logo = "images/logo.png"
     menufixed = true
 
-    footerDescription = "Marketiz Me is a team of young and motivated people striving perfectionism."
+    # footerDescription = "Marketise Me is a team of young and motivated people striving perfectionism."
     footerServiceTitle = "Service"
     footerQuicklinkTitle = "Follow us"
-    footerAboutTitle = "About"
+    footerAboutTitle = "IN DIGITAL WE TRUST"
     footerSubscribeTitle = "Subscribe"
     facebookLink = "https://www.facebook.com/marketizme"
     # instagramLink = "https://www.instagram.com/marketizme/"
+    linkedinLink = "https://www.linkedin.com/company/marketise-me/"
     mailLink = "mailto:office@marketizme.com"
 
     # Hero Area Section
     [Languages.en.params.hero]
-        heading = "We are Marketiz Me"
-        description = "Marketiz Me offers 360&#176; digital marketing services, <br />that create identity, build brands, stimulate<br />interactions and drive results"
+        heading = "We are Marketise Me"
+        description = "Marketise Me offers 360&#176; digital marketing services, <br />that create identity, build brands, stimulate<br />interactions and drive results"
         btnText = "MORE"
 
     # About 2 Section
@@ -145,7 +146,7 @@ DefaultContentLanguage = "bg"
         enable  = true
         topTitle= "DROP US A NOTE"
         title   = "Contact Us."
-        subtitle= ""
+        subtitle= "\n"
         addressTitle = "Address"
         ctaTitle = "Call Us"
         socialChannelsTitle = "Social Channels"
