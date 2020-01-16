@@ -4,6 +4,21 @@ title   : Компаниите, които ни се довериха
 subtitle: Текущи клиенти 
 item    :
   - quote       : ""
+    clientThumb : images/client-logo/cutters-logo.png
+    clientName  : Cutters
+    link        : #
+
+  - quote       : ""
+    clientThumb : images/client-logo/netsurf-logo.png
+    clientName  : NetSurf
+    link        : https://netsurf.bg
+
+  - quote       : ""
+    clientThumb : images/client-logo/rudi-logo.png
+    clientName  : Rudi
+    link        : #
+
+  - quote       : ""
     clientThumb : images/client-logo/estetico_png.png
     clientName  : Esteti Co
     link        : https://www.facebook.com/esteticocosmetic/
@@ -59,6 +74,17 @@ item    :
     link        : https://www.facebook.com/HoneyLifeStyle2019/
   
 item2:
+  - quote       : ""
+    clientThumb : images/client-logo/tierraverde-logo.png
+    clientName  : Tierra Verde
+    link        : #
+
+  - quote       : ""
+    clientThumb : images/client-logo/rmprogrami-logo.png
+    clientName  : R&M
+    link        : #
+
+
   - quote       : ""
     clientThumb : images/client-logo/soccer-logo.png
     clientName  : Soccer King Store
