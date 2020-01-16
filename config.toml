@@ -1,4 +1,4 @@
-baseURL = "http://www.marketizme.com"
+baseURL = "https://www.marketiseme.com"
 languageCode = "bg-BG"
 title = "Marketise Me | Дигитален маркетинг и реклама"
 theme = "navigator-hugo"
@@ -37,6 +37,7 @@ DefaultContentLanguage = "bg"
     home = "Начало"
     logo = "images/logo.png"
     menufixed = true
+    cookieText = "Този сайт използва \"Cookies\""
 
     footerServiceTitle = "Услуги"
     footerQuicklinkTitle = "Последвайте ни"    
@@ -111,6 +112,7 @@ DefaultContentLanguage = "bg"
     home = "Home"
     logo = "images/logo.png"
     menufixed = true
+    cookieText = "We use \"Cookies\""
 
     # footerDescription = "Marketise Me is a team of young and motivated people striving perfectionism."
     footerServiceTitle = "Service"
