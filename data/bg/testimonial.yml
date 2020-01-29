@@ -4,6 +4,11 @@ title   : Компаниите, които ни се довериха
 subtitle: Текущи клиенти 
 item    :
   - quote       : ""
+    clientThumb : images/client-logo/cska.png
+    clientName  : CSKA
+    link        : "http://cska.bg/"
+
+  - quote       : ""
     clientThumb : images/client-logo/cutters-logo.png
     clientName  : Cutters
     link        : #
@@ -15,7 +20,7 @@ item    :
 
   - quote       : ""
     clientThumb : images/client-logo/rudi-logo.png
-    clientName  : Rudi
+    clientName  : Rudis
     link        : #
 
   - quote       : ""
