@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Marketise Me – Дигитален маркетинг и реклама</title>
+    <link>https://www.marketiseme.com/bg/portfolio/</link>
+    <description>Recent content in Portfolios on Marketise Me – Дигитален маркетинг и реклама</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>bg</language>
+    <lastBuildDate>Sat, 07 Jul 2018 15:45:06 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.marketiseme.com/bg/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FRANCAIS Portfolio</title>
+      <link>https://www.marketiseme.com/bg/portfolio/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 15:45:06 +0600</pubDate>
+      
+      <guid>https://www.marketiseme.com/bg/portfolio/_index.fr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
