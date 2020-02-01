@@ -88,6 +88,11 @@ item2:
     clientThumb : images/client-logo/rmprogrami-logo.png
     clientName  : R&M
     link        : #
+  
+  - quote       : ""
+    clientThumb : images/client-logo/pandev_law.png
+    clientName  : Pandev Law
+    link        : https://www.pandevlaw.com/
 
 
   - quote       : ""

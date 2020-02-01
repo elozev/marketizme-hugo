@@ -37,7 +37,7 @@ DefaultContentLanguage = "bg"
     home = "Начало"
     logo = "images/logo.png"
     menufixed = true
-    cookieText = "Този сайт използва \"Cookies\""
+    cookieText = "Този сайт използва \"бисквитки\"!"
 
     footerServiceTitle = "Услуги"
     footerQuicklinkTitle = "Последвайте ни"    
