@@ -43,18 +43,24 @@
   
   
   <link rel="stylesheet" href="https://www.marketiseme.com/css/style.min.css" integrity="" media="screen">
-
   
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134294022-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-5TBMHM3');</script>
+  
 
-    gtag('config', 'UA-134294022-1');
-  </script>
 </head><body id="body">
-        <!-- Start Preloader -->
+    
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5TBMHM3" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    
+
+    <!-- Start Preloader -->
 <div id="preloader">
     <div class="preloader">
         <div class="sk-circle1 sk-child"></div>
@@ -79,7 +85,7 @@
         <div id="cookieConsent">
             <div class="d-flex justify-content-center align-items-center">
                 <div>
-                    We use &#34;Cookies&#34;<a class="cookieConsentOK">OK</a>
+                    <p>We use &#34;Cookies&#34;<a class="cookieConsentOK">Ок</a></p>
                 </div>
             </div>
         </div>
@@ -206,7 +212,7 @@ Creating emails that motivate people to buy your products and services. Engaging
 </section>
 
 
-        </div><!-- Footer Start -->
+    </div><!-- Footer Start -->
 <footer id="footer" class="bg-one">
     <div class="top-footer">
         <div class="container">
@@ -271,7 +277,7 @@ Creating emails that motivate people to buy your products and services. Engaging
         </div>
     </div>
     <div class="footer-bottom">
-        <h5>Copyright 2019. &copy Marketise Me.</h5>
+        <h5>Copyright <script>document.write(new Date().getFullYear())</script>. &copy Marketise Me.</h5>
     </div>
 </footer>
 <!-- end footer -->
@@ -480,7 +486,8 @@ Creating emails that motivate people to buy your products and services. Engaging
         infinite: true,
         arrows: false,
         autoplay: true,
-        autoplaySpeed: 1500,
+        autoplaySpeed: 2500,
+        speed: 1000,    
         responsive: [
             {
                 breakpoint: 1000,
@@ -513,4 +520,5 @@ Creating emails that motivate people to buy your products and services. Engaging
         ]
     });
 </script></body>
+
 </html>
