@@ -52,7 +52,7 @@ DefaultContentLanguage = "bg"
     [Languages.bg.params.hero]
         heading = "Ние сме Marketise Me"
         description = "Marketise Me предлага 360&#176; дигитални маркетинг услуги, <br />които създават идентичност,изграждат марки, стимулират<br />взаимодейстивието и получаването на резултати"
-        btnText = "ВИЖТЕ ОЩЕ"
+        btnText = "ИЗПРАТИ ЗАПИТВАНЕ"
     # About 2 Section
     [Languages.bg.params.aboutSm]
         enable  = true
@@ -90,6 +90,7 @@ DefaultContentLanguage = "bg"
 
         formNames = "Имена"
         formEmail = "Email"
+        formTelephone = "Вашият телефон"
         formSubject = "Тема"
         formMessage = "Съобщение"
         formSubmit = "ИЗПРАТИ"
@@ -128,7 +129,7 @@ DefaultContentLanguage = "bg"
     [Languages.en.params.hero]
         heading = "We are Marketise Me"
         description = "Marketise Me offers 360&#176; digital marketing services, <br />that create identity, build brands, stimulate<br />interactions and drive results"
-        btnText = "MORE"
+        btnText = "GET A QUOTE"
 
     # About 2 Section
     [Languages.en.params.aboutSm]
@@ -147,6 +148,7 @@ DefaultContentLanguage = "bg"
     [Languages.en.params.contact]
         enable  = true
         topTitle= "DROP US A NOTE"
+        contactFormTitle = "Email us"
         title   = "Contact Us."
         subtitle= "\n"
         addressTitle = "Address"
@@ -166,6 +168,7 @@ DefaultContentLanguage = "bg"
 
         formNames = "Names"
         formEmail = "Email"
+        formTelephone = "Your telephone number"
         formSubject = "Subject"
         formMessage = "Message"
         formSubmit = "SUBMIT"
