@@ -3,6 +3,36 @@ topTitle: Portfolio
 description: Get to know our projects better
 btnText: MORE HERE
 projects:
+  - title: ЦСКА
+    subtitle: Поддръжка на социални мрежи
+    image: images/portfolio/portfolio-1.jpg
+    link: http://cska.bg/
+
+  - title: MM Tuning
+    subtitle: Website
+    image: images/portfolio/portfolio-2.jpg
+    link: http://mmtuning-bg.com/
+
+  - title: Мебели Ларго
+    subtitle: Website
+    image: images/portfolio/portfolio-3.jpg
+    link: http://www.mebelilargo.bg/
+
+  - title: NetSurf
+    subtitle: Website
+    image: images/portfolio/portfolio-4.jpg
+    link: https://netsurf.bg/
+
+  - title: PandevLaw
+    subtitle: Website
+    image: images/portfolio/portfolio-5.jpg
+    link: http://www.pandevlaw.com
+
+  - title: Zero Bar&Grill
+    subtitle: Website
+    image: images/portfolio/portfolio-6.jpg
+    link: http://zerobarandgrill.com/
+
   - title: Спектър-3 1990
     subtitle: Уебсайт и поддръжка на социални мрежи
     image: images/portfolio-page/1-specter.jpg
@@ -137,6 +167,7 @@ projects:
     subtitle: Проекти и поддръжка на социални мрежи
     image: images/portfolio-page/26-golden-steak.jpg
     link: #
+
   - title: Реклама
     subtitle: Реклама във социалните мрежи
     image: images/portfolio-page/31-ad.jpg
