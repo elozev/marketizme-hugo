@@ -9,14 +9,34 @@ item    :
     link        : "http://cska.bg/"
 
   - quote       : ""
+    clientThumb : images/client-logo/newstyle-logo.png
+    clientName  : Garderobna
+    link        : http://garderobna.bg
+
+  - quote       : ""
     clientThumb : images/client-logo/cutters-logo.png
     clientName  : Cutters
     link        : #
 
   - quote       : ""
-    clientThumb : images/client-logo/netsurf-logo.png
-    clientName  : NetSurf
-    link        : https://netsurf.bg
+    clientThumb : images/client-logo/zero.png
+    clientName  : Zero Bar & Grill
+    link        : https://www.facebook.com/zerobargrill/
+
+  - quote       : ""
+    clientThumb : images/client-logo/slavia-logo.png
+    clientName  : Славия София
+    link        : https://www.facebook.com/SlaviaSofia/
+
+  - quote       : ""
+    clientThumb : images/client-logo/rmprogrami-logo.png
+    clientName  : R&M
+    link        : #
+
+  - quote       : ""
+    clientThumb : images/client-logo/club-35-logo.png
+    clientName  : Club 35
+    link        : https://www.facebook.com/Club35.bg/
 
   - quote       : ""
     clientThumb : images/client-logo/rudi-logo.png
@@ -24,14 +44,14 @@ item    :
     link        : #
 
   - quote       : ""
+    clientThumb : images/client-logo/stroybv.png
+    clientName  : Green Park
+    link        : http://stroybv1.com/
+
+  - quote       : ""
     clientThumb : images/client-logo/estetico_png.png
     clientName  : Esteti Co
     link        : https://www.facebook.com/esteticocosmetic/
-
-  - quote       : ""
-    clientThumb : images/client-logo/bizarre_png.png
-    clientName  : Bizarre
-    link        : https://www.facebook.com/bizarrebaranddinner/
 
   - quote       : ""
     clientThumb : images/client-logo/eloz-logo.png
@@ -42,36 +62,16 @@ item    :
     clientThumb : images/client-logo/specter-3.png
     clientName  : Specter3-1990
     link        : https://pennants-flags.com/
-
-  - quote       : ""
-    clientThumb : images/client-logo/club-35-logo.png
-    clientName  : Club 35
-    link        : https://www.facebook.com/Club35.bg/
-
-  - quote       : ""
-    clientThumb : images/client-logo/slavia-logo.png
-    clientName  : Славия София
-    link        : https://www.facebook.com/SlaviaSofia/
-
+  
   - quote       : ""
     clientThumb : images/client-logo/nestinarka-logo.png
     clientName  : Club 35 Нестинарка 
     link        : https://www.facebook.com/Club35.bg/ 
-
-  - quote       : ""
-    clientThumb : images/client-logo/mm-tuning-logo.png
-    clientName  : MMTuning
-    link        : https://mmtuning-bg.com/
-    
+  
   - quote       : ""
     clientThumb : images/client-logo/blikinails-logo.png
     clientName  : Bliki Nails
     link        : https://www.facebook.com/blikinails/
-  
-  - quote       : ""
-    clientThumb : images/client-logo/gs.png
-    clientName  : Голямата Стая
-    link        : http://www.goliamatastaia.com/
   
   - quote       : ""
     clientThumb : images/client-logo/honey-logo.png
@@ -80,77 +80,82 @@ item    :
   
 item2:
   - quote       : ""
+    clientThumb : images/client-logo/netsurf-logo.png
+    clientName  : NetSurf
+    link        : https://netsurf.bg
+
+  - quote       : ""
     clientThumb : images/client-logo/tierraverde-logo.png
     clientName  : Tierra Verde
     link        : #
 
   - quote       : ""
-    clientThumb : images/client-logo/rmprogrami-logo.png
-    clientName  : R&M
-    link        : #
-  
-  - quote       : ""
     clientThumb : images/client-logo/pandev_law.png
     clientName  : Pandev Law
     link        : https://www.pandevlaw.com/
 
+  - quote       : ""
+    clientThumb : images/client-logo/mm-tuning-logo.png
+    clientName  : MMTuning
+    link        : https://mmtuning-bg.com/
+  
+  - quote       : ""
+    clientThumb : images/client-logo/gs.png
+    clientName  : Голямата Стая
+    link        : http://www.goliamatastaia.com/
 
   - quote       : ""
-    clientThumb : images/client-logo/soccer-logo.png
-    clientName  : Soccer King Store
-    link        : https://soccerking-store.com/
+    clientThumb : images/client-logo/bizarre_png.png
+    clientName  : Bizarre
+    link        : https://www.facebook.com/bizarrebaranddinner/
 
-  - quote       : ""
-    clientThumb : images/client-logo/graphica-logo.png
-    clientName  : GraphicaMC
-    link        : https://www.graphicamc.com/
- 
   - quote       : ""
     clientThumb : images/client-logo/moda-logo.png
     clientName  : Moda Italiana
     link        : https://www.modaitaliana.bg/
 
   - quote       : ""
-    clientThumb : images/client-logo/emstyle-logo.png
-    clientName  : EMStyle Perfumery
-    link        : https://www.emstyle.bg/
+    clientThumb : images/client-logo/mebeli-largo.png
+    clientName  : Mebeli Largo
+    link        : http://www.mebelilargo.bg/
 
   - quote       : ""
-    clientThumb : images/client-logo/kefo-logo.png
-    clientName  : Argile Kefo Shop
-    link        : https://kefobulgaria.com/
+    clientThumb : images/client-logo/graphica-logo.png
+    clientName  : GraphicaMC
+    link        : https://www.graphicamc.com/
+
+  - quote       : ""
+    clientThumb : images/client-logo/soccer-logo.png
+    clientName  : Soccer King Store
+    link        : https://soccerking-store.com/
+
+ 
+  # - quote       : ""
+  #   clientThumb : images/client-logo/emstyle-logo.png
+  #   clientName  : EMStyle Perfumery
+  #   link        : https://www.emstyle.bg/
+
+  # - quote       : ""
+  #   clientThumb : images/client-logo/kefo-logo.png
+  #   clientName  : Argile Kefo Shop
+  #   link        : https://kefobulgaria.com/
 
   - quote       : ""
     clientThumb : images/client-logo/artisans.png
     clientName  : Artisans
     link        : https://artisans-bg.com/
 
-  - quote       : ""
-    clientThumb : images/client-logo/newstyle-logo.png
-    clientName  : Garderobna
-    link        : http://garderobna.bg
-
-  - quote       : ""
-    clientThumb : images/client-logo/wg-garments.png
-    clientName  : Williams Garments
-    link        : #
+  # - quote       : ""
+  #   clientThumb : images/client-logo/wg-garments.png
+  #   clientName  : Williams Garments
+  #   link        : #
 
   - quote       : ""
     clientThumb : images/client-logo/bistro-logo.png
     clientName  : Bistro Ariana
     link        : https://www.facebook.com/BistroAriana/
 
-  - quote       : ""
-    clientThumb : images/client-logo/stelo-logo.png
-    clientName  : Stelo
-    link        : http://stelo.bg/
-
-  - quote       : ""
-    clientThumb : images/client-logo/zero.png
-    clientName  : Zero Bar & Grill
-    link        : https://www.facebook.com/zerobargrill/
-
-  - quote       : ""
-    clientThumb : images/client-logo/stroybv.png
-    clientName  : Green Park
-    link        : http://stroybv1.com/
+  # - quote       : ""
+  #   clientThumb : images/client-logo/stelo-logo.png
+  #   clientName  : Stelo
+  #   link        : http://stelo.bg/

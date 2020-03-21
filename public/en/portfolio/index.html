@@ -11,7 +11,7 @@
   <meta property="og:image" content="https://i.imgur.com/bDd3rN8.png" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  
+
 
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/x-icon" href="https://www.marketiseme.com/images/favicon.png" />
@@ -54,6 +54,32 @@
           'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
     })(window, document, 'script', 'dataLayer', 'GTM-5TBMHM3');</script>
   
+
+  <script>
+    function ipLookUp() {
+      const currentPathOnIndex = window.location.pathname === '/bg/';
+      console.log("Current page: ", window.location.pathname)
+      fetch('http://ip-api.com/json')
+        .then(
+          function success(response) {
+            console.log('User\'s Location Data is ', response);
+            response.json().then((body) => {
+              console.log('User\'s Country Code', body.countryCode);
+              if (currentPathOnIndex && body.countryCode !== 'BG') {
+                
+              }
+            });
+          },
+
+          function fail(data, status) {
+            console.log('Request failed.  Returned status of',
+              status);
+          }
+        );
+    }
+    ipLookUp()
+
+  </script>
 
 </head><body id="body">
     
@@ -813,7 +839,7 @@
         infinite: true,
         arrows: false,
         autoplay: true,
-        autoplaySpeed: 3500,
+        autoplaySpeed: 5000,
         speed: 1200,    
         responsive: [
             {

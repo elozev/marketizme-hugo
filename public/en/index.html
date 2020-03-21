@@ -11,7 +11,7 @@
   <meta property="og:image" content="https://i.imgur.com/bDd3rN8.png" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  
+
 
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/x-icon" href="https://www.marketiseme.com/images/favicon.png" />
@@ -54,6 +54,32 @@
           'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
     })(window, document, 'script', 'dataLayer', 'GTM-5TBMHM3');</script>
   
+
+  <script>
+    function ipLookUp() {
+      const currentPathOnIndex = window.location.pathname === '/bg/';
+      console.log("Current page: ", window.location.pathname)
+      fetch('http://ip-api.com/json')
+        .then(
+          function success(response) {
+            console.log('User\'s Location Data is ', response);
+            response.json().then((body) => {
+              console.log('User\'s Country Code', body.countryCode);
+              if (currentPathOnIndex && body.countryCode !== 'BG') {
+                
+              }
+            });
+          },
+
+          function fail(data, status) {
+            console.log('Request failed.  Returned status of',
+              status);
+          }
+        );
+    }
+    ipLookUp()
+
+  </script>
 
 </head><body id="body">
     
@@ -191,7 +217,7 @@
               <br />
               <p class="text-center d-none d-md-block" style="text-align: justify;">
                 Marketise Me offers 360&#176; digital marketing services, <br />that create identity, build brands, stimulate<br />interactions and drive results</p>
-              <a class="btn btn-white btn-lg mt-4 mb-5" href='service'>GET A QUOTE</a>
+              <a class="btn btn-white btn-lg mt-4 mb-5" href='contact'>GET A QUOTE</a>
             </div>
           </div>
         </div>
@@ -212,10 +238,10 @@
                 <div class="title text-center client-section">
                     
                     
-                    <h2>The ones who trust us</h2>
+                    <h2>The ones that trust us</h2>
                     
                     
-                    <p>Current clients</p>
+                    <p>Our clients</p>
                 </div>
             </div>
         </div>
@@ -227,11 +253,11 @@
                 <div class="testimonial-slider">
                     
                     <!-- testimonial single -->
-                    <a href="https://www.facebook.com/esteticocosmetic/" target="_blank">
+                    <a href="http://cska.bg/" target="_blank">
                         <div class="item text-center">
                             <!-- client photo -->
                             <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/estetico_png.png" class="img-fluid"
+                                <img src="https://www.marketiseme.com/images/client-logo/cska.png" class="img-fluid"
                                     style="height: 200px; width: auto;" alt="client-image">
                             </div>
                             <div class="client-meta">
@@ -240,11 +266,115 @@
                     </a>
                     
                     <!-- testimonial single -->
-                    <a href="https://www.facebook.com/bizarrebaranddinner/" target="_blank">
+                    <a href="http://garderobna.bg" target="_blank">
                         <div class="item text-center">
                             <!-- client photo -->
                             <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/bizarre_png.png" class="img-fluid"
+                                <img src="https://www.marketiseme.com/images/client-logo/newstyle-logo.png" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <!-- testimonial single -->
+                    <a href="" target="_blank">
+                        <div class="item text-center">
+                            <!-- client photo -->
+                            <div class="client-thumb">
+                                <img src="https://www.marketiseme.com/images/client-logo/cutters-logo.png" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <!-- testimonial single -->
+                    <a href="https://www.facebook.com/zerobargrill/" target="_blank">
+                        <div class="item text-center">
+                            <!-- client photo -->
+                            <div class="client-thumb">
+                                <img src="https://www.marketiseme.com/images/client-logo/zero.png" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <!-- testimonial single -->
+                    <a href="https://www.facebook.com/SlaviaSofia/" target="_blank">
+                        <div class="item text-center">
+                            <!-- client photo -->
+                            <div class="client-thumb">
+                                <img src="https://www.marketiseme.com/images/client-logo/slavia-logo.png" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <!-- testimonial single -->
+                    <a href="" target="_blank">
+                        <div class="item text-center">
+                            <!-- client photo -->
+                            <div class="client-thumb">
+                                <img src="https://www.marketiseme.com/images/client-logo/rmprogrami-logo.png" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <!-- testimonial single -->
+                    <a href="https://www.facebook.com/Club35.bg/" target="_blank">
+                        <div class="item text-center">
+                            <!-- client photo -->
+                            <div class="client-thumb">
+                                <img src="https://www.marketiseme.com/images/client-logo/club-35-logo.png" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <!-- testimonial single -->
+                    <a href="" target="_blank">
+                        <div class="item text-center">
+                            <!-- client photo -->
+                            <div class="client-thumb">
+                                <img src="https://www.marketiseme.com/images/client-logo/rudi-logo.png" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <!-- testimonial single -->
+                    <a href="http://stroybv1.com/" target="_blank">
+                        <div class="item text-center">
+                            <!-- client photo -->
+                            <div class="client-thumb">
+                                <img src="https://www.marketiseme.com/images/client-logo/stroybv.png" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <!-- testimonial single -->
+                    <a href="https://www.facebook.com/esteticocosmetic/" target="_blank">
+                        <div class="item text-center">
+                            <!-- client photo -->
+                            <div class="client-thumb">
+                                <img src="https://www.marketiseme.com/images/client-logo/estetico_png.png" class="img-fluid"
                                     style="height: 200px; width: auto;" alt="client-image">
                             </div>
                             <div class="client-meta">
@@ -283,72 +413,7 @@
                         <div class="item text-center">
                             <!-- client photo -->
                             <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/club-35-logo.png" class="img-fluid"
-                                    style="height: 200px; width: auto;" alt="client-image">
-                            </div>
-                            <div class="client-meta">
-                            </div>
-                        </div>
-                    </a>
-                    
-                    <!-- testimonial single -->
-                    <a href="https://www.facebook.com/SlaviaSofia/" target="_blank">
-                        <div class="item text-center">
-                            <!-- client photo -->
-                            <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/slavia-logo.png" class="img-fluid"
-                                    style="height: 200px; width: auto;" alt="client-image">
-                            </div>
-                            <div class="client-meta">
-                            </div>
-                        </div>
-                    </a>
-                    
-                    <!-- testimonial single -->
-                    <a href="https://www.facebook.com/Club35.bg/" target="_blank">
-                        <div class="item text-center">
-                            <!-- client photo -->
-                            <div class="client-thumb">
                                 <img src="https://www.marketiseme.com/images/client-logo/nestinarka-logo.png" class="img-fluid"
-                                    style="height: 200px; width: auto;" alt="client-image">
-                            </div>
-                            <div class="client-meta">
-                            </div>
-                        </div>
-                    </a>
-                    
-                    <!-- testimonial single -->
-                    <a href="https://mmtuning-bg.com/" target="_blank">
-                        <div class="item text-center">
-                            <!-- client photo -->
-                            <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/mm-tuning-logo.png" class="img-fluid"
-                                    style="height: 200px; width: auto;" alt="client-image">
-                            </div>
-                            <div class="client-meta">
-                            </div>
-                        </div>
-                    </a>
-                    
-                    <!-- testimonial single -->
-                    <a href="https://soccerking-store.com/" target="_blank">
-                        <div class="item text-center">
-                            <!-- client photo -->
-                            <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/soccer-logo.png" class="img-fluid"
-                                    style="height: 200px; width: auto;" alt="client-image">
-                            </div>
-                            <div class="client-meta">
-                            </div>
-                        </div>
-                    </a>
-                    
-                    <!-- testimonial single -->
-                    <a href="https://www.graphicamc.com/" target="_blank">
-                        <div class="item text-center">
-                            <!-- client photo -->
-                            <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/graphica-logo.png" class="img-fluid"
                                     style="height: 200px; width: auto;" alt="client-image">
                             </div>
                             <div class="client-meta">
@@ -362,19 +427,6 @@
                             <!-- client photo -->
                             <div class="client-thumb">
                                 <img src="https://www.marketiseme.com/images/client-logo/blikinails-logo.png" class="img-fluid"
-                                    style="height: 200px; width: auto;" alt="client-image">
-                            </div>
-                            <div class="client-meta">
-                            </div>
-                        </div>
-                    </a>
-                    
-                    <!-- testimonial single -->
-                    <a href="http://www.goliamatastaia.com/" target="_blank">
-                        <div class="item text-center">
-                            <!-- client photo -->
-                            <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/gs.png" class="img-fluid"
                                     style="height: 200px; width: auto;" alt="client-image">
                             </div>
                             <div class="client-meta">
@@ -399,6 +451,84 @@
                 <div class="testimonial-slider">
                     
                     <!-- testimonial single -->
+                    <a href="https://netsurf.bg" target="_blank">
+                        <div class="item text-center">
+                            <!-- client photo -->
+                            <div class="client-thumb">
+                                <img src="https://www.marketiseme.com/images/client-logo/netsurf-logo.png" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <!-- testimonial single -->
+                    <a href="" target="_blank">
+                        <div class="item text-center">
+                            <!-- client photo -->
+                            <div class="client-thumb">
+                                <img src="https://www.marketiseme.com/images/client-logo/tierraverde-logo.png" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <!-- testimonial single -->
+                    <a href="https://www.pandevlaw.com/" target="_blank">
+                        <div class="item text-center">
+                            <!-- client photo -->
+                            <div class="client-thumb">
+                                <img src="https://www.marketiseme.com/images/client-logo/pandev_law.png" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <!-- testimonial single -->
+                    <a href="https://mmtuning-bg.com/" target="_blank">
+                        <div class="item text-center">
+                            <!-- client photo -->
+                            <div class="client-thumb">
+                                <img src="https://www.marketiseme.com/images/client-logo/mm-tuning-logo.png" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <!-- testimonial single -->
+                    <a href="http://www.goliamatastaia.com/" target="_blank">
+                        <div class="item text-center">
+                            <!-- client photo -->
+                            <div class="client-thumb">
+                                <img src="https://www.marketiseme.com/images/client-logo/gs.png" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <!-- testimonial single -->
+                    <a href="https://www.facebook.com/bizarrebaranddinner/" target="_blank">
+                        <div class="item text-center">
+                            <!-- client photo -->
+                            <div class="client-thumb">
+                                <img src="https://www.marketiseme.com/images/client-logo/bizarre_png.png" class="img-fluid"
+                                    style="height: 200px; width: auto;" alt="client-image">
+                            </div>
+                            <div class="client-meta">
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <!-- testimonial single -->
                     <a href="https://www.modaitaliana.bg/" target="_blank">
                         <div class="item text-center">
                             <!-- client photo -->
@@ -412,11 +542,11 @@
                     </a>
                     
                     <!-- testimonial single -->
-                    <a href="https://www.emstyle.bg/" target="_blank">
+                    <a href="http://www.mebelilargo.bg/" target="_blank">
                         <div class="item text-center">
                             <!-- client photo -->
                             <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/emstyle-logo.png" class="img-fluid"
+                                <img src="https://www.marketiseme.com/images/client-logo/mebeli-largo.png" class="img-fluid"
                                     style="height: 200px; width: auto;" alt="client-image">
                             </div>
                             <div class="client-meta">
@@ -425,11 +555,11 @@
                     </a>
                     
                     <!-- testimonial single -->
-                    <a href="https://kefobulgaria.com/" target="_blank">
+                    <a href="https://www.graphicamc.com/" target="_blank">
                         <div class="item text-center">
                             <!-- client photo -->
                             <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/kefo-logo.png" class="img-fluid"
+                                <img src="https://www.marketiseme.com/images/client-logo/graphica-logo.png" class="img-fluid"
                                     style="height: 200px; width: auto;" alt="client-image">
                             </div>
                             <div class="client-meta">
@@ -438,11 +568,11 @@
                     </a>
                     
                     <!-- testimonial single -->
-                    <a href="https://www.facebook.com/54loungebar/" target="_blank">
+                    <a href="https://soccerking-store.com/" target="_blank">
                         <div class="item text-center">
                             <!-- client photo -->
                             <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/lounge-54-logo.png" class="img-fluid"
+                                <img src="https://www.marketiseme.com/images/client-logo/soccer-logo.png" class="img-fluid"
                                     style="height: 200px; width: auto;" alt="client-image">
                             </div>
                             <div class="client-meta">
@@ -464,76 +594,11 @@
                     </a>
                     
                     <!-- testimonial single -->
-                    <a href="https://www.facebook.com/newstyle.ladystore/" target="_blank">
-                        <div class="item text-center">
-                            <!-- client photo -->
-                            <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/newstyle-logo.png" class="img-fluid"
-                                    style="height: 200px; width: auto;" alt="client-image">
-                            </div>
-                            <div class="client-meta">
-                            </div>
-                        </div>
-                    </a>
-                    
-                    <!-- testimonial single -->
-                    <a href="" target="_blank">
-                        <div class="item text-center">
-                            <!-- client photo -->
-                            <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/wg-garments.png" class="img-fluid"
-                                    style="height: 200px; width: auto;" alt="client-image">
-                            </div>
-                            <div class="client-meta">
-                            </div>
-                        </div>
-                    </a>
-                    
-                    <!-- testimonial single -->
                     <a href="https://www.facebook.com/BistroAriana/" target="_blank">
                         <div class="item text-center">
                             <!-- client photo -->
                             <div class="client-thumb">
                                 <img src="https://www.marketiseme.com/images/client-logo/bistro-logo.png" class="img-fluid"
-                                    style="height: 200px; width: auto;" alt="client-image">
-                            </div>
-                            <div class="client-meta">
-                            </div>
-                        </div>
-                    </a>
-                    
-                    <!-- testimonial single -->
-                    <a href="http://stelo.bg/" target="_blank">
-                        <div class="item text-center">
-                            <!-- client photo -->
-                            <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/stelo-logo.png" class="img-fluid"
-                                    style="height: 200px; width: auto;" alt="client-image">
-                            </div>
-                            <div class="client-meta">
-                            </div>
-                        </div>
-                    </a>
-                    
-                    <!-- testimonial single -->
-                    <a href="https://www.facebook.com/zerobargrill/" target="_blank">
-                        <div class="item text-center">
-                            <!-- client photo -->
-                            <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/zero.png" class="img-fluid"
-                                    style="height: 200px; width: auto;" alt="client-image">
-                            </div>
-                            <div class="client-meta">
-                            </div>
-                        </div>
-                    </a>
-                    
-                    <!-- testimonial single -->
-                    <a href="http://stroybv1.com/" target="_blank">
-                        <div class="item text-center">
-                            <!-- client photo -->
-                            <div class="client-thumb">
-                                <img src="https://www.marketiseme.com/images/client-logo/stroybv.png" class="img-fluid"
                                     style="height: 200px; width: auto;" alt="client-image">
                             </div>
                             <div class="client-meta">
@@ -964,8 +1029,7 @@
                     <div class="member-content">
                         <h3>Hristo Martinski</h3>
                         <span>Marketing Manager</span>
-                        <p>&#34;Marketing is too important to be left to the just to someone, that&#39;s where we come to help.&#34;
-</p>
+                        
                         
                     </div>
                 </div>
@@ -982,8 +1046,7 @@
                     <div class="member-content">
                         <h3>Emil Lozev</h3>
                         <span>Web Developer</span>
-                        <p>&#34;The satisfied customer is number one priority!&#34;
-</p>
+                        
                         
                     </div>
                 </div>
@@ -1000,8 +1063,7 @@
                     <div class="member-content">
                         <h3>Daniel Tonev</h3>
                         <span>Project Manager</span>
-                        <p>&#34;Find a job you like and you will never have to work again.&#34;
-</p>
+                        
                         
                     </div>
                 </div>
@@ -1018,8 +1080,7 @@
                     <div class="member-content">
                         <h3>Iva Gramatikova</h3>
                         <span>Account Manager</span>
-                        <p>&#34;Make it simple. Make it stand. Make it fun to read and everyone will pay attention.&#34;
-</p>
+                        
                         
                     </div>
                 </div>
@@ -1036,8 +1097,7 @@
                     <div class="member-content">
                         <h3>Borislav Glaskov</h3>
                         <span>Web Developer</span>
-                        <p>„We do not just create websites, but develop websites that SELL.“
-</p>
+                        
                         
                     </div>
                 </div>
@@ -1054,8 +1114,7 @@
                     <div class="member-content">
                         <h3>Radoslav Draganov</h3>
                         <span>Creative Director</span>
-                        <p>„Good design is good business.“
-</p>
+                        
                         
                     </div>
                 </div>
@@ -1459,7 +1518,7 @@
                         }
                     </script>
                     <script
-                        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBmoWX5DPsdBNWImSn7NxTa4VeHk8PgDzA&callback=initMap"
+                        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBmv215Y2wPH2dZyIVUc_T_AUvRZw7xRu0&callback=initMap"
                         async defer></script>
                 </div>
             </div>
@@ -1480,7 +1539,7 @@
                     </div>
 
                     <div class="form-group">
-                        <input type="number" placeholder="Your telephone number" class="form-control"
+                        <input type="number" placeholder="Telephone number" class="form-control"
                             name="telephone" id="telephone">
                     </div>
 
@@ -1836,7 +1895,7 @@
         infinite: true,
         arrows: false,
         autoplay: true,
-        autoplaySpeed: 3500,
+        autoplaySpeed: 5000,
         speed: 1200,    
         responsive: [
             {
