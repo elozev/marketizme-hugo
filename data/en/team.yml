@@ -6,7 +6,7 @@ subtitle: Meet the ones who stand behind our company.
 member  :
   - image         : images/team/member-1.jpg
     name          : Hristo Martinski
-    designation   : Marketing Manager
+    designation   : Chief Executive & Account Manager
     description   : >
       "Marketing is too important to be left to the just to someone, that's where we come to help."
     facebookURL   : https://www.facebook.com/
@@ -15,7 +15,7 @@ member  :
 
   - image         : images/team/member-2.jpg
     name          : Emil Lozev
-    designation   : Web Developer
+    designation   : FullStack Developer
     description   : >
       "The satisfied customer is number one priority!"
     facebookURL   : https://www.facebook.com/
@@ -24,7 +24,7 @@ member  :
   
   - image         : images/team/member-3.jpg
     name          : Daniel Tonev
-    designation   : Project Manager
+    designation   : Performance & Social Media
     description   : >
       "Find a job you like and you will never have to work again."
     facebookURL   : https://www.facebook.com/
@@ -33,7 +33,7 @@ member  :
 
   - image         : images/team/member-4.jpg
     name          : Iva Gramatikova
-    designation   : Account Manager
+    designation   : Sales Manager
     description   : >
       "Make it simple. Make it stand. Make it fun to read and everyone will pay attention."
     facebookURL   : https://www.facebook.com/
@@ -42,7 +42,7 @@ member  :
 
   - image         : images/team/member-5.jpg
     name          : Borislav Glaskov
-    designation   : Web Developer
+    designation   : FullStack Developer
     description   : >
       „We do not just create websites, but develop websites that SELL.“
     facebookURL   : https://www.facebook.com/
@@ -51,7 +51,7 @@ member  :
 
   - image         : images/team/member-6.jpg
     name          : Radoslav Draganov
-    designation   : Creative Director
+    designation   : Chief Operation & Project Manager
     description   : >
       „Good design is good business.“
     facebookURL   : https://www.facebook.com/

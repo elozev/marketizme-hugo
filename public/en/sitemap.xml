@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.marketiseme.com/en/working-process/</loc>
-    <lastmod>2019-09-22T19:11:55+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://www.marketiseme.com/bg/working-process/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marketiseme.com/en/working-process/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.marketiseme.com/en/blog/blog-photos-on-phone/</loc>
     <lastmod>2018-07-08T12:22:40+06:00</lastmod>
     <xhtml:link
@@ -50,16 +35,6 @@
   <url>
     <loc>https://www.marketiseme.com/en/blog/</loc>
     <lastmod>2018-07-07T18:23:33+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://www.marketiseme.com/bg/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marketiseme.com/en/blog/"
-                />
   </url>
   
   <url>
@@ -70,31 +45,11 @@
   <url>
     <loc>https://www.marketiseme.com/en/contact/</loc>
     <lastmod>2018-07-07T15:53:27+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://www.marketiseme.com/bg/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marketiseme.com/en/contact/"
-                />
   </url>
   
   <url>
     <loc>https://www.marketiseme.com/en/portfolio/</loc>
     <lastmod>2018-07-07T15:45:06+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://www.marketiseme.com/bg/portfolio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marketiseme.com/en/portfolio/"
-                />
   </url>
   
   <url>
@@ -145,16 +100,6 @@
   <url>
     <loc>https://www.marketiseme.com/en/service/</loc>
     <lastmod>2018-07-07T14:53:13+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://www.marketiseme.com/bg/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marketiseme.com/en/service/"
-                />
   </url>
   
   <url>
@@ -250,16 +195,6 @@
   <url>
     <loc>https://www.marketiseme.com/en/about/</loc>
     <lastmod>2018-07-07T12:37:52+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://www.marketiseme.com/bg/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marketiseme.com/en/about/"
-                />
   </url>
   
   <url>
