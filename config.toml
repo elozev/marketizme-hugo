@@ -1,4 +1,4 @@
-baseURL = "https://www.marketiseme.com"
+baseURL = "http://localhost:1313"
 languageCode = "bg-BG"
 title = "Marketise Me | Дигитален маркетинг и реклама"
 theme = "navigator-hugo"
