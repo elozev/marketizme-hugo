@@ -32,6 +32,18 @@ item  :
 
   - icon  : tf-ion-android-contacts
     title : Marketing consultation 
-    link : marketing-consilt    
+    link : marketing-consult    
     description : >
       Strategy creation and analysis for online development of your brand.
+
+  - icon  : tf-ion-android-person
+    title : User Experience
+    link : ux
+    description : >
+      Development of user-friendly website.
+
+  - icon  : tf-ion-android-mail
+    title : Email campaigns
+    link : mail-campaigns
+    description : >
+      Target clients through email campaigns.

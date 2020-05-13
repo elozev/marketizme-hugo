@@ -1,6 +1,6 @@
-baseURL = "https://emchoko.github.io"
-languageCode = "en-us"
-title = "Marketiz Me | Дигитален маркетинг и реклама"
+baseURL = "https://www.marketiseme.com"
+languageCode = "bg-BG"
+title = "Marketise Me | Дигитален маркетинг и реклама"
 theme = "navigator-hugo"
 
 # Build robots.txt file
@@ -31,39 +31,33 @@ DefaultContentLanguage = "bg"
     [Languages.bg]
     weight = 1
     languageCode = "bg"
-    title = "Marketiz Me – Дигитален маркетинг и реклама"
+    title = "Marketise Me – Дигитален маркетинг и реклама"
     dateFormat = "2 January 2006"
 
     home = "Начало"
     logo = "images/logo.png"
-    menufixed = false
+    menufixed = true
+    cookieText = "Този сайт използва \"бисквитки\"!"
 
-    footerDescription = "Marketiz Me е екип от млади и мотиварини хора, стремящи се към перфекционизъм."
     footerServiceTitle = "Услуги"
     footerQuicklinkTitle = "Последвайте ни"    
-    footerAboutTitle = "За нас"
+    footerAboutTitle = "IN DIGITAL WE TRUST"
     footerSubscribeTitle = "Subscribe"
     facebookLink = "https://www.facebook.com/marketizme"
-    instagramLink = "https://www.instagram.com/marketizme/"
+    linkedinLink = "https://www.linkedin.com/company/marketise-me/"
     mailLink = "mailto:office@marketizme.com"
     # footerSubscribeTitle = "FRANCAIS Subscribe"
 
     # Hero Area Section
     [Languages.bg.params.hero]
-        enable  = true
-        heading = "FRANCAIS We love to make brands grow"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-        button  = true
-        btnText = "Know More"
-        btnURL  = "https://themefisher.com/"
-        videoThumb = "images/slider/video-player-thumb.jpg"
-        videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
-
+        heading = "Ние сме Marketise Me"
+        description = "Marketise Me предлага 360&#176; дигитални маркетинг услуги, <br />които създават идентичност,изграждат марки, стимулират<br />взаимодейстивието и получаването на резултати"
+        btnText = "ИЗПРАТИ ЗАПИТВАНЕ"
     # About 2 Section
     [Languages.bg.params.aboutSm]
         enable  = true
         title   = "Дигитално развитие за вашия бранд!"
-        description = "<strong>Предлагаме ви: дигитален маркетинг в социалните мрежи, изработка на уебсайт, онлайн магазини, онлайн платформи и приложения. <br><br>Маркетинг консултации, онлайн реклама, реклама във Фейсбук, реклама в Инстаграм, поддръжка на социални мрежи, поддръжка на Фейсбук страница, поддръжка Инстаграм профил, SEO, реклама в Google, креативен дизайн и уебдизайн.</strong>"
+        description = "<strong>Предлагаме ви: дигитален маркетинг в социалните мрежи, изработка на уебсайт, онлайн магазини, онлайн платформи и приложения. <br><br>Маркетинг консултации, онлайн реклама, реклама във Фейсбук, реклама в Инстаграм, поддръжка на социални мрежи, поддръжка на Фейсбук страница, поддръжка Инстаграм профил, SEO, реклама в Google, Youtube маркетинг, LinkedIn реклама, креативен дизайн и уебдизайн.</strong>"
 
     # Blog Section On Homepage
     [Languages.bg.params.blog]
@@ -78,6 +72,7 @@ DefaultContentLanguage = "bg"
         topTitle= ""
         title   = "Контакти"
         subtitle= "За въпроси и консултации можете да се обърнете към нас по всяко едно време!"
+        contactFormTitle = "Контактна форма"
         addressTitle = "Адрес"
         ctaTitle = "Позвънете"
         socialChannelsTitle = "В социалните мрежи"        
@@ -88,16 +83,23 @@ DefaultContentLanguage = "bg"
         # twitter = "https://twitter.com/"
         # linkedin= "https://www.linkedin.com/"
         mail= "office@marketizme.com"
-        instagram= "https://www.instagram.com/marketizme/"
+        # instagram= "https://www.instagram.com/marketizme/"
         mapLatitude = "42.677487"
         mapLongitude= "23.320236"
         mapMarker   = "images/marker.png"
+
+        formNames = "Имена"
+        formEmail = "Email"
+        formTelephone = "Телефон"
+        formSubject = "Тема"
+        formMessage = "Съобщение"
+        formSubmit = "ИЗПРАТИ"
 
     # Call to Action Section on About Page
     [Languages.bg.params.cta]
         enable  = true
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "Нека създадем нещо уникално заедно!"
+        title   = "Създаваме съдържание, което носи стойност и привлича нови клиенти!"
         subtitle= "Свържете се с нас сега."
         btnText = "Позвънете"
 
@@ -105,32 +107,29 @@ DefaultContentLanguage = "bg"
     [Languages.en]
     weight = 2
     languageCode = "en-us"
-    title = "Marketiz Me - online marketing and website development."
+    title = "Marketise Me - online marketing and website development."
     dateFormat = "January 2, 2006"
 
     home = "Home"
     logo = "images/logo.png"
-    menufixed = false
+    menufixed = true
+    cookieText = "We use \"Cookies\""
 
-    footerDescription = "Marketiz Me is a team of young and motivated people striving perfectionism."
+    # footerDescription = "Marketise Me is a team of young and motivated people striving perfectionism."
     footerServiceTitle = "Service"
     footerQuicklinkTitle = "Follow us"
-    footerAboutTitle = "About"
+    footerAboutTitle = "IN DIGITAL WE TRUST"
     footerSubscribeTitle = "Subscribe"
     facebookLink = "https://www.facebook.com/marketizme"
-    instagramLink = "https://www.instagram.com/marketizme/"
+    # instagramLink = "https://www.instagram.com/marketizme/"
+    linkedinLink = "https://www.linkedin.com/company/marketise-me/"
     mailLink = "mailto:office@marketizme.com"
 
     # Hero Area Section
     [Languages.en.params.hero]
-        enable  = true
-        heading = "We love to make brands grow"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-        button  = true
-        btnText = "Know More"
-        btnURL  = "https://themefisher.com/"
-        videoThumb = "images/slider/video-player-thumb.jpg"
-        videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+        heading = "We are Marketise Me"
+        description = "Marketise Me offers 360&#176; digital marketing services, <br />that create identity, build brands, stimulate<br />interactions and drive results"
+        btnText = "GET A QUOTE"
 
     # About 2 Section
     [Languages.en.params.aboutSm]
@@ -149,8 +148,9 @@ DefaultContentLanguage = "bg"
     [Languages.en.params.contact]
         enable  = true
         topTitle= "DROP US A NOTE"
+        contactFormTitle = "Email us"
         title   = "Contact Us."
-        subtitle= ""
+        subtitle= "\n"
         addressTitle = "Address"
         ctaTitle = "Call Us"
         socialChannelsTitle = "Social Channels"
@@ -161,10 +161,17 @@ DefaultContentLanguage = "bg"
         # twitter = "https://twitter.com/"
         # linkedin= "https://www.linkedin.com/"
         mail= "office@marketizme.com"
-        instagram= "https://www.instagram.com/marketizme/"
+        # instagram= "https://www.instagram.com/marketizme/"
         mapLatitude = "42.677487"
         mapLongitude= "23.320236"
         mapMarker   = "images/marker.png"
+
+        formNames = "Names"
+        formEmail = "Email"
+        formTelephone = "Telephone number"
+        formSubject = "Subject"
+        formMessage = "Message"
+        formSubmit = "SUBMIT"
   
     # Call to Action Section on About Page
     [Languages.en.params.cta]
@@ -188,13 +195,17 @@ DefaultContentLanguage = "bg"
         url     = "portfolio"
         weight  = 3
     [[menu.nav]]
+        name    = "working-process"
+        url     = "service/working-process"
+        weight  = 4
+    [[menu.nav]]
         name    = "about"
         url     = "about"
-        weight  = 4
+        weight  = 5
     [[menu.nav]]
         name    = "contact"
         url     = "contact"
-        weight  = 5
+        weight  = 6
 
     # Footer Service Menu
     [[menu.service]]

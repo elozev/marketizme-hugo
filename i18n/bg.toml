@@ -4,8 +4,8 @@ other = "За Нас"
 other = "Услуги"
 [portfolio]
 other = "Портфолио"
-# [blog]
-# other = "FR Blog"
+[working-process]
+other = "Работен Процес"
 [contact]
 other = "Контакти"
 

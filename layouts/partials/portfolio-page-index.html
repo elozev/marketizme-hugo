@@ -1,0 +1,40 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.portfolio_page }}
+{{ "<!-- Start Portfolio Page Section -->" | safeHTML }}
+<section class="portfolio-page section" id="portfolio">
+    <div class="container">
+        {{ "<!-- Title section -->" | safeHTML }}
+        <div class="row">
+            <div class="col">
+                <div class="title text-center">
+                    {{ with .topTitle }}
+                    <h2>{{ . }}</h2>
+                    <span class="border"></span>
+                    {{ end }}
+                    {{ with .description }}
+                    <h4>{{ . }}</h4>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        {{ "<!-- End of title section -->" | safeHTML }}
+        <div class="row">
+            {{ range first 6 .projects}}
+            <div class="col-md-6 col-lg-4 col-no-padding">
+                <a class="search-icon" href="{{ .image | absURL }} " data-lightbox="image-1" data-title="">
+                    <img class="img-fluid hover-img" src="{{ .image | absURL }}" alt="portfolio-image">
+                </a>
+                <div class="hover-img-text">
+                    <h4>{{ .title }}</h4>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+
+        <div class="row justify-content-center mt-4">
+            <a href='portfolio' class="btn btn-primary">{{ .btnText }}</a>
+        </div>
+    </div>
+</section>
+{{ "<!-- End Portfolio Page Section -->" | safeHTML }}
+{{ end }}

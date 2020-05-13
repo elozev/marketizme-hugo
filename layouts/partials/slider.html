@@ -1,0 +1,29 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ "<!-- Slider section --> " | safeHTML }}
+<section id='header'>
+  <div class='row m-0'>
+    <div class="index-bg-img" id='header-bg-animation'>
+      <div class="container h-100 px-0">
+        <div class="row justify-content-center align-items-center text-white">
+          <div class="text-center col-12 align-self-center mt-5 pt-5 mx-0">
+            <div class="slider-text" style="min-height: 100px">
+              <div class="d-none d-lg-block">
+                <h1 class="display-2 mt-5">{{ .Site.Params.hero.heading }}</h1>
+              </div>
+              <div class="d-block d-lg-none">
+                <h2 class="mt-5">{{ .Site.Params.hero.heading }}</h2>
+              </div>
+              <h1 class="mt-5">All in one</h1>
+              <h1 class="deleting-text" style="min-height: 100px;"></h1>
+              <br />
+              <p class="text-center d-none d-md-block" style="text-align: justify;">
+                {{ .Site.Params.hero.description | markdownify}}</p>
+              <a class="btn btn-white btn-lg mt-4 mb-5" href='contact'>{{ .Site.Params.hero.btnText }}</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+</section>
+{{ "<!-- End section -->" | safeHTML }}

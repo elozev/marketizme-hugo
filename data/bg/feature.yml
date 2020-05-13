@@ -32,6 +32,18 @@ item  :
 
   - icon  : tf-ion-android-contacts
     title : Маркетинг консултации
-    link : marketing-consilt    
+    link : marketing-consult    
     description : >
-      Изграждане на стратегия и анализ за развитите на вашия бранд онлайн.
+      Изграждане на стратегия, план и анализ за развитите на вашия бранд онлайн.
+
+  - icon  : tf-ion-android-person
+    title : User Experience
+    link : ux
+    description : >
+      Изграждане на user-friendly уеб страници.
+
+  - icon  : tf-ion-android-mail
+    title : Имейл Маркетинг
+    link : mail-campaigns
+    description : >
+      Таргетиране на клиенти чрез имейл кампании.

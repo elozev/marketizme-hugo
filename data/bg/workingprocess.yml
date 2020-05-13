@@ -1,40 +1,34 @@
 enable  : true
 topTitle: Процес на работа
 title   : Запознайте се с процеса ни на работа
+btnText : ВИЖТЕ ОЩЕ
 subtitle: 
 item    :
   - number  : 1
     icon    : tf-ion-android-people
-    title   : Среща с клиента
+    title   : Начална дискусия
     description : >
       
   
   - number  : 2
     icon    : tf-ion-ios-analytics
-    title   : Анализ и идеи
+    title   : Планиране и управление на проект
     description : >
       
 
   - number  : 3
     icon    : tf-ion-ios-copy
-    title   : План на проекта
+    title   : Създаване на съдържание
     description : >
       
 
   - number  : 4
     icon    : tf-ion-ios-alarm
-    title   : Развитие и начин на работа
+    title   : Преглед и стартиране
     description : >
       
 
   - number  : 5
     icon    : tf-ion-android-done-all
-    title   : Реализиране на проекта
+    title   : Поддържане на услугите
     description : >
-      
-
-  - number  : 6
-    icon    : tf-ion-ios-color-wand
-    title   : Анализ на свършената работа
-    description : >
-      
