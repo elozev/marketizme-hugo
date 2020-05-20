@@ -3,11 +3,11 @@ title: "Работен Процес"
 subTitle: "Запознайте се с нашия процес на работа!"
 date: 2018-07-07T14:53:13+06:00
 draft: false
-image : images/service/web-design.jpg
+image: images/service/web-design.jpg
 ---
 
 <div style="text-align: justify">
-<h2>Начална дискусия</h2>
+<h2 style="text-align: left">Начална дискусия</h2>
 <div class="row">
   <div class='col-12 col-md-5 order-2'>
     <img class="img-fluid" src="/images/working-process/initial-discussion.png" />
@@ -23,7 +23,7 @@ image : images/service/web-design.jpg
   </div>
 </div>
 
-<h2>Планиране и управление на проект</h2>
+<h2 style="text-align: left">Планиране и управление на проект</h2>
 
 <div class="row">
   <div class='col-12 col-md-5'>
@@ -39,8 +39,7 @@ image : images/service/web-design.jpg
   </div>
 </div>
 
-
-<h2>Създаване на съдържание</h2>
+<h2 style="text-align: left">Създаване на съдържание</h2>
 <div class="row">
   <div class='col-12 col-md-5 order-2'>
     <img class="img-fluid" src="/images/working-process/content-creation.png" />
@@ -60,7 +59,7 @@ image : images/service/web-design.jpg
 </div>
 <p>
 
-<h2>Преглед и стартиране</h2>
+<h2 style="text-align: left">Преглед и стартиране</h2>
 <div class="row">
   <div class='col-12 col-md-5'>
     <img class="img-fluid" src="/images/working-process/review-and-launch.png" />
@@ -74,7 +73,7 @@ image : images/service/web-design.jpg
   </div>
 </div>
 
-<h2>Поддържане на услугите</h2>
+<h2 style="text-align: left">Поддържане на услугите</h2>
 <div class="row">
   <div class='col-12 col-md-5 order-2'>
     <img class="img-fluid" src="/images/working-process/maintenance-of-services.png" />
@@ -90,11 +89,3 @@ image : images/service/web-design.jpg
   </div>
 </div>
 </div>
-
-
-
-
-
-
-
-

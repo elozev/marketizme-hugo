@@ -3,9 +3,10 @@ title: "Working Process"
 subTitle: "Get to know our working process better!"
 date: 2018-07-07T14:53:13+06:00
 draft: false
-image : images/service/web-design.jpg
+image: images/service/web-design.jpg
 ---
-<h2>Initial discussion</h2>
+
+<h2 style="text-align: left">Initial discussion</h2>
 <div class="row">
   <div class='col-12 col-md-5 order-2'>
     <img class="img-fluid" src="/images/working-process/initial-discussion.png" />
@@ -21,9 +22,7 @@ image : images/service/web-design.jpg
   </div>
 </div>
 
-
-
-<h2>Project planning and management</h2>
+<h2 style="text-align: left">Project planning and management</h2>
 
 <div class="row">
   <div class='col-12 col-md-5'>
@@ -40,7 +39,7 @@ image : images/service/web-design.jpg
 
 At the end of this phase, we will have the basics of your digital marketing strategy that will guide the rest of the process.
 
-<h2>Content creation</h2>
+<h2 style="text-align: left">Content creation</h2>
 <div class="row">
   <div class='col-12 col-md-5 order-2'>
     <img class="img-fluid" src="/images/working-process/content-creation.png" />
@@ -59,8 +58,7 @@ At the end of this phase, we will have the basics of your digital marketing stra
 <p>
 Social media platforms vary greatly in how they display and prioritise content, so one of our first tasks is to tailor the content to each platform in order to maximise impact.Social media platforms vary greatly in how they display and prioritise content, so one of our first tasks is to tailor the content to each platform in order to maximise impact.</p>
 
-
-<h2>Review and launch</h2>
+<h2 style="text-align: left">Review and launch</h2>
 <div class="row">
   <div class='col-12 col-md-5'>
     <img class="img-fluid" src="/images/working-process/review-and-launch.png" />
@@ -74,7 +72,7 @@ Social media platforms vary greatly in how they display and prioritise content, 
   </div>
 </div>
 
-<h2>Maintenance of services</h2>
+<h2 style="text-align: left">Maintenance of services</h2>
 <div class="row">
   <div class='col-12 col-md-5 order-2'>
     <img class="img-fluid" src="/images/working-process/maintenance-of-services.png" />
