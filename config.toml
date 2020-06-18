@@ -31,7 +31,7 @@ DefaultContentLanguage = "bg"
     [Languages.bg]
     weight = 1
     languageCode = "bg"
-    title = "Marketise Me – Дигитален маркетинг и реклама"
+    title = "Marketise Me – Full Service Digital Agency"
     dateFormat = "2 January 2006"
 
     home = "Начало"
@@ -107,7 +107,7 @@ DefaultContentLanguage = "bg"
     [Languages.en]
     weight = 2
     languageCode = "en-us"
-    title = "Marketise Me - online marketing and website development."
+    title = "Marketise Me - Full Service Digital Agency."
     dateFormat = "January 2, 2006"
 
     home = "Home"
