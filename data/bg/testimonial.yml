@@ -4,14 +4,19 @@ title   : Компаниите, които ни се довериха
 subtitle: Текущи клиенти 
 item    :
   - quote       : ""
+    clientThumb : images/client-logo/енерзона-лого.png
+    clientName  : Енерзона
+    link        : #
+
+  - quote       : ""
+    clientThumb : images/client-logo/студио-дес-лого.png
+    clientName  : Студио Дес
+    link        : #
+
+  - quote       : ""
     clientThumb : images/client-logo/cska.png
     clientName  : CSKA
     link        : "http://cska.bg/"
-
-  - quote       : ""
-    clientThumb : images/client-logo/newstyle-logo.png
-    clientName  : Garderobna
-    link        : http://garderobna.bg
 
   - quote       : ""
     clientThumb : images/client-logo/cutters-logo.png
@@ -68,17 +73,18 @@ item    :
     clientName  : Club 35 Нестинарка 
     link        : https://www.facebook.com/Club35.bg/ 
   
-  - quote       : ""
-    clientThumb : images/client-logo/blikinails-logo.png
-    clientName  : Bliki Nails
-    link        : https://www.facebook.com/blikinails/
-  
-  - quote       : ""
-    clientThumb : images/client-logo/honey-logo.png
-    clientName  : Honey Lifestyle
-    link        : https://www.facebook.com/HoneyLifeStyle2019/
-  
 item2:
+  - quote       : ""
+    clientThumb : images/client-logo/академия-споразумения-лого.png
+    clientName  : Aкадемия-споразумения
+    link        : #
+
+  - quote       : ""
+    clientThumb : images/client-logo/витон-транспорт-лого.png
+    clientName  : Витон Транспорт
+    link        : #
+
+
   - quote       : ""
     clientThumb : images/client-logo/netsurf-logo.png
     clientName  : NetSurf
@@ -124,36 +130,16 @@ item2:
     clientName  : GraphicaMC
     link        : https://www.graphicamc.com/
 
-  - quote       : ""
-    clientThumb : images/client-logo/soccer-logo.png
-    clientName  : Soccer King Store
-    link        : https://soccerking-store.com/
 
- 
-  # - quote       : ""
-  #   clientThumb : images/client-logo/emstyle-logo.png
-  #   clientName  : EMStyle Perfumery
-  #   link        : https://www.emstyle.bg/
 
   # - quote       : ""
   #   clientThumb : images/client-logo/kefo-logo.png
   #   clientName  : Argile Kefo Shop
   #   link        : https://kefobulgaria.com/
-
-  - quote       : ""
-    clientThumb : images/client-logo/artisans.png
-    clientName  : Artisans
-    link        : https://artisans-bg.com/
-
   # - quote       : ""
   #   clientThumb : images/client-logo/wg-garments.png
   #   clientName  : Williams Garments
-  #   link        : #
-
-  - quote       : ""
-    clientThumb : images/client-logo/bistro-logo.png
-    clientName  : Bistro Ariana
-    link        : https://www.facebook.com/BistroAriana/
+  #   link        : #  
 
   # - quote       : ""
   #   clientThumb : images/client-logo/stelo-logo.png
