@@ -13,7 +13,7 @@ pygmentsCodeFences = true
 
 # Multilangues setup
 # Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 DefaultContentLanguage = "bg"
 
 # Site Params
