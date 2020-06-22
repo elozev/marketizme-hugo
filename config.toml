@@ -192,7 +192,7 @@ DefaultContentLanguage = "bg"
         weight  = 2
     [[menu.nav]]
         name    = "portfolio"
-        url     = "portfolio"
+        url     = "uploads/portfolio-bg.pdf"
         weight  = 3
     [[menu.nav]]
         name    = "working-process"
