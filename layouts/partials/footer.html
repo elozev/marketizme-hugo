@@ -1,0 +1,296 @@
+{{ "<!-- Footer Start -->" | safeHTML }}
+<footer id="footer" class="bg-one">
+    <div class="top-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4 col-md-4 col-lg-4">
+                    <h3>{{ .Site.Params.footerAboutTitle }}</h3>
+                    {{ with .Site.Params.footerDescription }}<p>{{ . }}</p>{{ end }}
+                </div>
+                <div class="col-sm-4 col-md-4 col-lg-4">
+                    <h3>{{ .Site.Params.footerServiceTitle }}</h3>
+                    <ul>
+                        {{ range .Site.Menus.service }}
+                        <li>
+                            <a href="{{ .URL | absLangURL }}">{{ i18n .Name }}</a>
+                        </li>
+                        {{ end }}
+                    </ul>
+                </div>
+                <div class="col-sm-4 col-md-4 col-lg-4">
+                    <h3>{{ .Site.Params.footerQuicklinkTitle }}</h3>
+                    <ul class="list-inline social-icon">
+                        {{/*  {{ range .Site.Menus.quicklink }}
+                        <li>
+                            <a href="{{ .URL | absLangURL }}">{{ i18n .Name }}</a>
+                        </li>
+                        {{ end }} */}}
+
+                        <li>
+                            {{ with .Site.Params.facebookLink }}
+                            <a href="{{ . }}"><span style="font-size: 40px; color:#3a5698;"
+                                    class="tf-ion-social-facebook"></span></a>
+                            {{ end }}
+                        </li>
+                        <li>
+                            {{ with .Site.Params.linkedinLink }}
+                            <a href="{{ . }}"><span style="font-size: 40px; color:#0073b1;"
+                                    class="tf-ion-social-linkedin"></span></a>
+                            {{ end }}
+                        </li>
+                        <li>
+                            {{ with .Site.Params.mailLink }}
+                            <!-- <a href="{{ . }}"><span style="font-size: 25pt" class="tf-ion-android-mail"></span></a> -->
+                            {{ end }}
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <h5>Copyright <script>
+                document.write(new Date().getFullYear())
+            </script>. &copy Marketise Me.</h5>
+    </div>
+</footer>
+{{ "<!-- end footer -->" | safeHTML }}
+
+
+{{ "<!-- Essential Scripts -->" | safeHTML }}
+
+{{ "<!-- jQuery -->" | safeHTML }}
+<script src="{{ "plugins/jquery/dist/jquery.min.js" | absURL }}"></script>
+{{ "<!-- Bootstrap -->" | safeHTML }}
+<script src="{{ "plugins/bootstrap/dist/js/popper.min.js" | absURL }}"></script>
+<script src="{{ "plugins/bootstrap/dist/js/bootstrap.min.js" | absURL }}"></script>
+{{ "<!-- Parallax -->" | safeHTML }}
+<script src="{{ "plugins/parallax/jquery.parallax-1.1.3.js" | absURL }}"></script>
+{{ "<!-- lightbox -->" | safeHTML }}
+<script src="{{ "plugins/lightbox2/dist/js/lightbox.min.js" | absURL }}"></script>
+{{ "<!-- Slick Carousel -->" | safeHTML }}
+<script src="{{ "plugins/slick-carousel/slick/slick.min.js" | absURL }}"></script>
+{{ "<!-- Portfolio Filtering -->" | safeHTML }}
+<script src="{{ "plugins/filterzr/jquery.filterizr.min.js" | absURL }}"></script>
+{{ "<!-- Smooth Scroll js -->" | safeHTML }}
+<script src="{{ "plugins/smooth-scroll/dist/js/smooth-scroll.min.js" | absURL }}"></script>
+<!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script> -->
+{{ "<!-- Main Script -->" | safeHTML }}
+<!-- @todo TODO: fix resources undefined var -->
+{{ $script := resources.Get "js/script.js" | minify}}
+
+<script src="{{ "plugins/three.r92.min.js" | absURL }}"></script>
+<script src="{{ "plugins/vanta.net.min.js" | absURL }}"></script>
+
+<script>
+    function setCookie(name, value, days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+    }
+
+    function getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    function eraseCookie(name) {
+        document.cookie = name + '=; Max-Age=-99999999;';
+    }
+    $(document).ready(function () {
+        if (getCookie('cookieBanner') === null) {
+            setTimeout(function () {
+                $("#cookieConsent").fadeIn(200);
+            }, 2000);
+            $("#closeCookieConsent, .cookieConsentOK").click(function () {
+                $("#cookieConsent").fadeOut(200);
+                setCookie('cookieBanner', '1', 100);
+            });
+        }
+    });
+</script>
+
+<script>
+    VANTA.NET({
+        el: "#header-bg-animation",
+        color: '#007bff',
+        backgroundColor: '#1f2532',
+        spacing: 19.00,
+    });
+</script>
+<script src="{{ $script.Permalink }}"></script>
+
+<script type="text/javascript" src="{{ "plugins/revo-slider/js/jquery.themepunch.tools.min.js" | absURL }}"></script>
+<script type="text/javascript" src="{{ "plugins/revo-slider/js/jquery.themepunch.revolution.min.js" | absURL }}">
+</script>
+
+{{/*  <!-- SLIDER REVOLUTION 5.0 EXTENSIONS    */}}
+{{/*  (Load Extensions only on Local File Systems !   */}}
+{{/*  The following part can be removed on Server for On Demand Loading) -->  */}}
+<script src="{{ "plugins/revo-slider/js/extensions/revolution.extension.actions.min.js" | absURL }}"></script>
+<script src="{{ "plugins/revo-slider/js/extensions/revolution.extension.carousel.min.js" | absURL }}"></script>
+<script src="{{ "plugins/revo-slider/js/extensions/revolution.extension.kenburn.min.js" | absURL }}"></script>
+<script type="text/javascript"
+    src="{{ "plugins/revo-slider/js/extensions/revolution.extension.layeranimation.min.js" | absURL }}"></script>
+<script type="text/javascript"
+    src="{{ "plugins/revo-slider/js/extensions/revolution.extension.migration.min.js" | absURL }}"></script>
+<script type="text/javascript"
+    src="{{ "plugins/revo-slider/js/extensions/revolution.extension.navigation.min.js" | absURL }}"></script>
+<script type="text/javascript"
+    src="{{ "plugins/revo-slider/js/extensions/revolution.extension.parallax.min.js" | absURL }}"></script>
+<script type="text/javascript"
+    src="{{ "plugins/revo-slider/js/extensions/revolution.extension.slideanims.min.js" | absURL }}"></script>
+<script type="text/javascript"
+    src="{{ "plugins/revo-slider/js/extensions/revolution.extension.video.min.js" | absURL }}"></script>
+<script>
+    /* https://learn.jquery.com/using-jquery-core/document-ready/ */
+    jQuery(document).ready(function () {
+        /* initialize the slider based on the Slider's ID attribute */
+        jQuery('#rev_slider_1').show().revolution({
+
+            /* options are 'auto', 'fullwidth' or 'fullscreen' */
+            sliderLayout: 'fullscreen',
+
+            /* basic navigation arrows and bullets */
+            navigation: {
+
+                arrows: {
+                    style: "zeus",
+                    enable: true,
+                    hide_onmobile: true,
+                    hide_under: 600,
+                    hide_onleave: true,
+                    hide_delay: 200,
+                    hide_delay_mobile: 1200,
+                    tmp: '<div class="tp-title-wrap">    <div class="tp-arr-imgholder"></div> </div>',
+                    left: {
+                        h_align: "left",
+                        v_align: "center",
+                        h_offset: 30,
+                        v_offset: 0
+                    },
+                    right: {
+                        h_align: "right",
+                        v_align: "center",
+                        h_offset: 30,
+                        v_offset: 0
+                    }
+                },
+                bullets: {
+                    enable: false,
+                    hide_onmobile: true,
+                    hide_under: 600,
+                    style: "metis",
+                    hide_onleave: true,
+                    hide_delay: 200,
+                    hide_delay_mobile: 1200,
+                    direction: "horizontal",
+                    h_align: "center",
+                    v_align: "bottom",
+                    h_offset: 0,
+                    v_offset: 30,
+                    space: 5,
+                    tmp: '<span class="tp-bullet-img-wrap">  <span class="tp-bullet-image"></span></span><span class="tp-bullet-title">{{.Title}}</span>'
+                }
+            }
+        });
+    });
+</script>
+<script>
+    var TEXT_CONTENT = [
+        'Digital Agency', 'Web Development', 'PPC Agency', 'Creative Agency'
+    ];
+
+    var CURRENT_SENTECE_INDEX = 0;
+    var CURRENT_SENTECE_CHARACTER = 0;
+    var INTERVAL;
+    var TEXT_DIV = document.querySelector('.deleting-text');
+
+    function typeText() {
+        var text = TEXT_CONTENT[CURRENT_SENTECE_INDEX].substring(0, CURRENT_SENTECE_CHARACTER + 1);
+        TEXT_DIV.innerHTML = text;
+        CURRENT_SENTECE_CHARACTER++;
+
+        if (text === TEXT_CONTENT[CURRENT_SENTECE_INDEX]) {
+            clearInterval(INTERVAL);
+            setTimeout(() => {
+                INTERVAL = setInterval(deleteText, 50);
+            }, 1000);
+        }
+    }
+
+    function deleteText() {
+        var text = TEXT_CONTENT[CURRENT_SENTECE_INDEX].substring(0, CURRENT_SENTECE_CHARACTER - 1);
+        TEXT_DIV.innerHTML = text;
+        CURRENT_SENTECE_CHARACTER--;
+
+        if (text === '') {
+            clearInterval(INTERVAL);
+
+            if (CURRENT_SENTECE_INDEX === (TEXT_CONTENT.length - 1)) {
+                CURRENT_SENTECE_INDEX = 0;
+            } else {
+                CURRENT_SENTECE_INDEX++;
+            }
+
+            CURRENT_SENTECE_CHARACTER = 0;
+
+            setTimeout(() => {
+                INTERVAL = setInterval(typeText, 100);
+            }, 200);
+        }
+    }
+
+    INTERVAL = setInterval(typeText, 100);
+</script>
+
+<script>
+    $('.testimonial-slider').slick({
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        infinite: true,
+        arrows: false,
+        autoplay: true,
+        autoplaySpeed: 5000,
+        speed: 1200,
+        responsive: [{
+                breakpoint: 1000,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1
+                }
+            },
+            {
+                breakpoint: 800,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+        ]
+    });
+</script>
