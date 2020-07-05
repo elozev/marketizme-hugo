@@ -4,19 +4,19 @@ title   : The ones that trust us
 subtitle: Our clients 
 item    :
   - quote       : ""
+    clientThumb : images/client-logo/cska.png
+    clientName  : CSKA
+    link        : "http://cska.bg/"
+
+  - quote       : ""
     clientThumb : images/client-logo/енерзона-лого.png
     clientName  : Енерзона
-    link        : #
+    link        : https://enerzona.bg/
 
   - quote       : ""
     clientThumb : images/client-logo/студио-дес-лого.png
     clientName  : Студио Дес
-    link        : #
-
-  - quote       : ""
-    clientThumb : images/client-logo/cska.png
-    clientName  : CSKA
-    link        : "http://cska.bg/"
+    link        : https://www.facebook.com/obuvkidess/
 
   - quote       : ""
     clientThumb : images/client-logo/cutters-logo.png
@@ -75,6 +75,11 @@ item    :
   
 item2:
   - quote       : ""
+    clientThumb : images/client-logo/netsurf-logo.png
+    clientName  : NetSurf
+    link        : https://netsurf.bg
+
+  - quote       : ""
     clientThumb : images/client-logo/академия-споразумения-лого.png
     clientName  : Aкадемия-споразумения
     link        : #
@@ -82,13 +87,7 @@ item2:
   - quote       : ""
     clientThumb : images/client-logo/витон-транспорт-лого.png
     clientName  : Витон Транспорт
-    link        : #
-
-
-  - quote       : ""
-    clientThumb : images/client-logo/netsurf-logo.png
-    clientName  : NetSurf
-    link        : https://netsurf.bg
+    link        : https://vitontrans.co.uk/
 
   - quote       : ""
     clientThumb : images/client-logo/tierraverde-logo.png
