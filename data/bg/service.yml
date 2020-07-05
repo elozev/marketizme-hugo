@@ -1,7 +1,7 @@
 enable: true
 topTitle:
 title: Услуги
-subtitle: Запознайте се с предлаганите от нас услуги!
+subtitle: Запознайте се с предлаганите от нас услуги
 viewMoreButton: Виж Повече
 item:
   - icon: tf-ion-social-facebook

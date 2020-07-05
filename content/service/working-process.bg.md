@@ -1,6 +1,6 @@
 ---
 title: "Работен Процес"
-subTitle: "Запознайте се с нашия процес на работа!"
+subTitle: "Запознайте се с нашия процес на работа"
 date: 2018-07-07T14:53:13+06:00
 draft: false
 image: images/service/web-design.jpg
