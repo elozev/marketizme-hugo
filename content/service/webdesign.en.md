@@ -8,14 +8,17 @@ image : images/service/web-design.jpg
 <div class='row mt-5'>
   <div class='col-12 col-lg-8'>
     <ul class='ul-service'>
-      <li>Designing a portfolio website with ready-made Wordpress / Opencart themes</li>
+      <li>Designing a portfolio website with ready-made theme</li>
       <li>Wordpress website / Opencart online store</li>
       <li>Custom website</li>
       <li>Website architecture</li>
       <li>Creating unique design tailored to your goals and needs</li>
+      <li>Positive user experience (UX)</li>
       <li>Responsive design / Mobile friendly optimisation for easy and convenient access from mobile device</li>
       <li>Option to translate website in different language</li>
-      <li>Analytics Tools Installation - Google Analytics  and Facebook Pixel</li>
+      <li>Analytics Tools Installation - Google Analytics and Facebook Pixel</li>
+      <li>Concentrate on the human element</li>
+      <li>Еnd product that brings added value and enjoyment</li>
       <li>Implementation and testing of the project</li>
     </ul>
   </div>

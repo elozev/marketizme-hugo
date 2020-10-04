@@ -44,7 +44,7 @@ item:
       - name: Реклама в Google.
       - name: Реклама в LinkedIn.
 
-  - icon: tf-ion-social-google
+  - icon: fab fa-google
     title: Маркетинг в търсещите машини
     link: sem
     viewMoreButton: "Виж повече"
@@ -64,15 +64,14 @@ item:
       - name: Бизнес анализ.
       - name: Определяне на KPIs.
 
-  - icon: tf-ion-android-person
-    title: User Experience
-    link: ux
+  - icon: fas fa-camera-retro
+    title: Видео и Фотография
+    link: video
     viewMoreButton: "Виж повече"
     list:
-      - name: User-Friendly уеб страници.
-      - name: Адаптивни уебсайтове.
-      - name: Дизайн и функционалност.
-      - name: Концентрация върху човешкия елемент.
+      - name: 2D, 3D и Motion Graphics анимация.
+      - name: Продуктово видео.
+      - name: Фотография.
 
   - icon: tf-ion-android-mail
     title: Имейл Маркетинг

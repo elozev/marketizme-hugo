@@ -33,7 +33,8 @@
                                 {{ range .Site.Menus.nav }}
                                 <li class="nav-item">
                                     {{ if eq .URL "uploads/portfolio-bg.pdf" }}
-                                    <a class="nav-link" href="{{ .URL | absLangURL }}" target="_blank">{{ i18n .Name }}</a>
+                                    <a class="nav-link" href="{{ .URL | absLangURL }}"
+                                        target="_blank">{{ i18n .Name }}</a>
                                     {{ else }}
                                     <a class="nav-link" href="{{ .URL | absLangURL }}">{{ i18n .Name }}</a>
                                     {{ end }}
@@ -44,13 +45,15 @@
                                             class="tf-ion-android-call"></i>
                                     </a>
                                 </li>
+                                <li class="d-flex justify-content-center align-items-center">
+                                    <div id="drapeaux">
+                                        {{ range .Site.Params.listeLangues }}
+                                        {{ partial "flags.html" (dict "site" $.Site "liste" .) }}
+                                        {{ end }}
+                                    </div>
+
+                                </li>
                             </ul>
-                        </div>
-                        <div id="drapeaux">
-                            <!-- Pour passer la langue actuelle (variable globale) dans la range => explicitement -->
-                            {{ range .Site.Params.listeLangues }}
-                            {{ partial "flags.html" (dict "site" $.Site "liste" .) }}
-                            {{ end }}
                         </div>
 
                     </nav>

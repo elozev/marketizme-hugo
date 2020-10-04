@@ -8,15 +8,18 @@ image : images/service/web-design.jpg
 <div class='row mt-5'>
   <div class='col-12 col-lg-8'>
     <ul class='ul-service'>
-      <li>Изработка на иформационен уебсайт с готова тема Wordpress/Opencart</li>
+      <li>Изработка на иформационен уебсайт с готова тема </li>
       <li>Изратботка на онлайн магазин с готова тема Wordpress/Opencart</li>
-      <li>Custom уебсайт </li>
-      <li>Архитектура на уебсайт </li>
-      <li>Изработка на уникален дизайн, съобразен с вашите цели и нужди </li>
-      <li>Responsive design / Mobile-Friendly оптимизация - за лесен и удобен  достъп от телефон</li>
+      <li>Custom уебсайт</li>
+      <li>Архитектура на уебсайт</li>
+      <li>Изработка на уникален дизайн, съобразен с вашите цели и нужди</li>
+      <li>Положително изживяване на потребителя (UX)</li>
+      <li>Responsive design / Mobile-Friendly оптимизация - за лесен и удобен достъп от телефон</li>
       <li>Опция за превод на сайта на чужд език</li>
-      <li>Инсталация на инструменти за анализ - Google Analytics и Facebook Pixel</li>
-      <li>Тест и реализация на проекта </li>
+      <li>Инсталация на маркетинг инструменти за анализ - Google Analytics,  Facebook Pixel и Google Tag Manager</li>
+      <li>Концентриране върху човешкия елемент</li>
+      <li>Краен продукт, който носи добавена стойност и наслада</li>
+      <li>Тест и реализация </li>
     </ul>
   </div>
     <div class='col-12 col-lg-4'>

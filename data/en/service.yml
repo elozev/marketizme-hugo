@@ -43,7 +43,7 @@ item:
       - name: Google Ads
       - name: LinkedIn Ads
 
-  - icon: tf-ion-social-google
+  - icon: fab fa-google
     title: Search Engine Marketing
     link: sem
     viewMoreButton: "View More"
@@ -63,15 +63,14 @@ item:
       - name: Business analysis
       - name: Evaluation of KPI’s
 
-  - icon: tf-ion-android-person
-    title: User Experience
-    link: ux
+  - icon: fas fa-camera-retro
+    title: Video and Photography
+    link: video
     viewMoreButton: "View More"
     list:
-      - name: Resposnive web and mobile websites
-      - name: Design and functionality
-      - name: Tune in the human element
-      - name: User-Friendly web pages
+      - name: 2D, 3D and motion graphics animation
+      - name: Product video
+      - name: Photography
 
   - icon: tf-ion-android-mail
     title: Email Marketing

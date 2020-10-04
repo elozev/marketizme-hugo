@@ -4,7 +4,7 @@
   <div class='row m-0'>
     <div class="index-bg-img" id='header-bg-animation'>
       <div class="container h-100 px-0">
-        <div class="row justify-content-center align-items-center text-white">
+        <div class="row justify-content-center align-items-center text-white mx-0">
           <div class="text-center col-12 align-self-center mt-5 pt-5 mx-0">
             <div class="slider-text" style="min-height: 100px">
               <div class="d-none d-lg-block">
@@ -14,7 +14,9 @@
                 <h2 class="mt-5">{{ .Site.Params.hero.heading }}</h2>
               </div>
               <h1 class="mt-5">All in one</h1>
-              <h1 class="deleting-text" style="min-height: 100px;"></h1>
+              <h1 style="min-height: 100px;"><span class="deleting-text"></span><span
+                  class="flickering-cursor-wrapper"><span class="flickering-cursor">|</span></span>
+              </h1>
               <br />
               <p class="text-center d-none d-md-block" style="text-align: justify;">
                 {{ .Site.Params.hero.description | markdownify}}</p>

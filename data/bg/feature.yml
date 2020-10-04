@@ -24,7 +24,7 @@ item  :
     description : >
       Достигане до голяма аудитория и нови клиенти посредством реклама във Фейсбук и Инстаграм и реклама в Гугъл.
 
-  - icon  : tf-ion-social-google-outline
+  - icon  : fab fa-google
     title : Маркетинг в търсещите машини
     link : sem
     description : >
@@ -36,11 +36,14 @@ item  :
     description : >
       Изграждане на стратегия, план и анализ за развитите на вашия бранд онлайн.
 
-  - icon  : tf-ion-android-person
-    title : User Experience
-    link : ux
+  - icon  : fas fa-camera-retro
+    title : Видео и фотография
+    link : video
     description : >
-      Изграждане на user-friendly уеб страници.
+      2D, 3D и Motion, Graphics анимация,
+      Продуктово видео,
+      Фотография
+    
 
   - icon  : tf-ion-android-mail
     title : Имейл Маркетинг

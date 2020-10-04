@@ -21,7 +21,7 @@ item    :
   - quote       : ""
     clientThumb : images/client-logo/cutters-logo.png
     clientName  : Cutters
-    link        : #
+    link        : https://www.cutters.bg/
 
   - quote       : ""
     clientThumb : images/client-logo/zero.png
@@ -36,7 +36,12 @@ item    :
   - quote       : ""
     clientThumb : images/client-logo/rmprogrami-logo.png
     clientName  : R&M
-    link        : #
+    link        : https://rmprogrami.com/
+
+  - quote       : ""
+    clientThumb : images/client-logo/detskotsarstvo.png
+    clientName  : Детско Царство
+    link        : https://www.detskotsarstvo.bg/
 
   - quote       : ""
     clientThumb : images/client-logo/club-35-logo.png
@@ -54,11 +59,6 @@ item    :
     link        : http://stroybv1.com/
 
   - quote       : ""
-    clientThumb : images/client-logo/estetico_png.png
-    clientName  : Esteti Co
-    link        : https://www.facebook.com/esteticocosmetic/
-
-  - quote       : ""
     clientThumb : images/client-logo/eloz-logo.png
     clientName  : Смени маслото - Елоз
     link        : http://www.smenimasloto.bg/
@@ -71,7 +71,7 @@ item    :
   - quote       : ""
     clientThumb : images/client-logo/nestinarka-logo.png
     clientName  : Club 35 Нестинарка 
-    link        : https://www.facebook.com/Club35.bg/ 
+    link        : https://www.facebook.com/club35nestinarka
   
 item2:
   - quote       : ""
@@ -82,7 +82,7 @@ item2:
   - quote       : ""
     clientThumb : images/client-logo/академия-споразумения-лого.png
     clientName  : Aкадемия-споразумения
-    link        : #
+    link        : https://www.sporazumenia.com/bg/home.html
 
   - quote       : ""
     clientThumb : images/client-logo/витон-транспорт-лого.png
@@ -92,7 +92,7 @@ item2:
   - quote       : ""
     clientThumb : images/client-logo/tierraverde-logo.png
     clientName  : Tierra Verde
-    link        : #
+    link        : https://tierraverde.bg/
 
   - quote       : ""
     clientThumb : images/client-logo/pandev_law.png
@@ -108,6 +108,11 @@ item2:
     clientThumb : images/client-logo/gs.png
     clientName  : Голямата Стая
     link        : http://www.goliamatastaia.com/
+
+  - quote       : ""
+    clientThumb : images/client-logo/lexart.png
+    clientName  : LexArt
+    link        : https://lexart.bg/
 
   - quote       : ""
     clientThumb : images/client-logo/bizarre_png.png

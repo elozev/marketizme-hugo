@@ -51,7 +51,7 @@ DefaultContentLanguage = "bg"
     # Hero Area Section
     [Languages.bg.params.hero]
         heading = "Ние сме Marketise Me"
-        description = "Marketise Me предлага 360&#176; дигитални маркетинг услуги, <br />които създават идентичност,изграждат марки, стимулират<br />взаимодейстивието и получаването на резултати"
+        description = "Дигитална агенция за интегрирани маркетингови комуникации.<br/>Ние създаваме идентичност на вашия бранд и му помагаме да расте."
         btnText = "ИЗПРАТИ ЗАПИТВАНЕ"
     # About 2 Section
     [Languages.bg.params.aboutSm]
@@ -128,7 +128,7 @@ DefaultContentLanguage = "bg"
     # Hero Area Section
     [Languages.en.params.hero]
         heading = "We are Marketise Me"
-        description = "Marketise Me offers 360&#176; digital marketing services, <br />that create identity, build brands, stimulate<br />interactions and drive results"
+        description = "A digital agency for integrated marketing communications.<br/>We create your brand identity and help it to grow."
         btnText = "GET A QUOTE"
 
     # About 2 Section
@@ -229,9 +229,13 @@ DefaultContentLanguage = "bg"
         url     = "service/sem"
         weight  = 5
     [[menu.service]]
+        name    = "video"
+        url     = "service/video"
+        weight  = 6
+    [[menu.service]]
         name    = "marketing-consult"
         url     = "service/marketing-consult"
-        weight  = 6
+        weight  = 7
 
 
 

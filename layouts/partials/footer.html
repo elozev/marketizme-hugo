@@ -216,6 +216,15 @@
     var INTERVAL;
     var TEXT_DIV = document.querySelector('.deleting-text');
 
+
+    setInterval(function () {
+        if ($('.flickering-cursor').hasClass('d-none')) {
+            $('.flickering-cursor').removeClass('d-none');
+        } else {
+            $('.flickering-cursor').addClass('d-none');
+        }
+    }, 500);
+
     function typeText() {
         var text = TEXT_CONTENT[CURRENT_SENTECE_INDEX].substring(0, CURRENT_SENTECE_CHARACTER + 1);
         TEXT_DIV.innerHTML = text;
@@ -292,5 +301,46 @@
                 }
             }
         ]
+    });
+
+
+    $('.our-testimonials').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        infinite: true,
+        arrows: true,
+        dots: true,
+        autoplay: true,
+        autoplaySpeed: 5000,
+        speed: 1200,
+        // responsive: [{
+        //         breakpoint: 1000,
+        //         settings: {
+        //             slidesToShow: 3,
+        //             slidesToScroll: 1
+        //         }
+        //     },
+        //     {
+        //         breakpoint: 800,
+        //         settings: {
+        //             slidesToShow: 3,
+        //             slidesToScroll: 1
+        //         }
+        //     },
+        //     {
+        //         breakpoint: 600,
+        //         settings: {
+        //             slidesToShow: 2,
+        //             slidesToScroll: 1
+        //         }
+        //     },
+        //     {
+        //         breakpoint: 480,
+        //         settings: {
+        //             slidesToShow: 1,
+        //             slidesToScroll: 1
+        //         }
+        //     }
+        // ]
     });
 </script>

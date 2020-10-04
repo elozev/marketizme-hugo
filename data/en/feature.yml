@@ -24,7 +24,7 @@ item  :
     description : >
       Reach huge auditory of people and potential clients through Google, Facebook and Instagram campaigns.
 
-  - icon  : tf-ion-social-google
+  - icon  : fab fa-google
     title : Search Engine Marketing
     link : sem
     description : >
@@ -36,11 +36,14 @@ item  :
     description : >
       Strategy creation and analysis for online development of your brand.
 
-  - icon  : tf-ion-android-person
-    title : User Experience
-    link : ux
+  - icon  : fas fa-camera-retro
+    title : Видео и Фотография
+    link : video
     description : >
-      Development of user-friendly website.
+      2D, 3D and motion graphics animation,
+      Product video,
+      Photography
+    
 
   - icon  : tf-ion-android-mail
     title : Email campaigns
