@@ -128,7 +128,7 @@ DefaultContentLanguage = "bg"
     # Hero Area Section
     [Languages.en.params.hero]
         heading = "We are Marketise Me"
-        description = "A digital agency for integrated marketing communications.<br/>We create your brand identity and help it to grow."
+        description = "A digital agency for integrated marketing communications.<br/>We create your brand identity and help it grow."
         btnText = "GET A QUOTE"
 
     # About 2 Section
