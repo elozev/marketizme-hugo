@@ -37,7 +37,8 @@ DefaultContentLanguage = "bg"
     home = "Начало"
     logo = "images/logo.png"
     menufixed = true
-    cookieText = "Този сайт използва \"бисквитки\"!"
+    cookieText = "Този сайт използва 'бисквитки' (cookies). Продължавайки да ползвате услугите му, <br/>Вие приемате използваните от нас 'бисквитки'. <a href='/cookie-policy'>Научете повече!</a>"
+    cookieButton = "Приемам"
 
     footerServiceTitle = "Услуги"
     footerQuicklinkTitle = "Последвайте ни"    
@@ -113,7 +114,8 @@ DefaultContentLanguage = "bg"
     home = "Home"
     logo = "images/logo.png"
     menufixed = true
-    cookieText = "We use \"Cookies\""
+    cookieText = "This website uses cookies. By continuing to use its services, you accept the 'cookies' we use. <a href='/cookie-policy'>Learn more</a>!"
+    cookieButton = "Accept"
 
     # footerDescription = "Marketise Me is a team of young and motivated people striving perfectionism."
     footerServiceTitle = "Service"

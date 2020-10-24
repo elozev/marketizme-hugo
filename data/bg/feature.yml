@@ -1,4 +1,5 @@
 enable  : true
+title: "Услуги"
 item  :
   - icon  : tf-ion-social-facebook
     title : Маркетинг в социалните мрежи

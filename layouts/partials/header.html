@@ -8,7 +8,12 @@
         <div id="cookieConsent">
             <div class="d-flex justify-content-center align-items-center">
                 <div>
-                    <p>{{ .Site.Params.cookieText }}<a class="cookieConsentOK">Ок</a></p>
+                    <div>
+                        <p>{{ .Site.Params.cookieText | safeHTML }}</p>
+                    </div>
+                    <div>
+                        <a class="cookieConsentOK">{{ .Site.Params.cookieButton }}</a>
+                    </div>
                 </div>
             </div>
         </div>
