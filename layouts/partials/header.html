@@ -6,14 +6,12 @@
     <section class="header navigation">
         {{ end }}
         <div id="cookieConsent">
-            <div class="d-flex justify-content-center align-items-center">
+            <div class="d-lg-flex justify-content-center align-items-center text-center text-lg-left">
                 <div>
-                    <div>
-                        <p>{{ .Site.Params.cookieText | safeHTML }}</p>
-                    </div>
-                    <div>
-                        <a class="cookieConsentOK">{{ .Site.Params.cookieButton }}</a>
-                    </div>
+                    <p>{{ .Site.Params.cookieText | safeHTML }}</p>
+                </div>
+                <div class="d-flex justify-content-center">
+                    <a class="cookieConsentOK ml-lg-4">{{ .Site.Params.cookieButton }}</a>
                 </div>
             </div>
         </div>

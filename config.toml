@@ -37,7 +37,7 @@ DefaultContentLanguage = "bg"
     home = "Начало"
     logo = "images/logo.png"
     menufixed = true
-    cookieText = "Този сайт използва 'бисквитки' (cookies). Продължавайки да ползвате услугите му, <br/>Вие приемате използваните от нас 'бисквитки'. <a href='/cookie-policy'>Научете повече!</a>"
+    cookieText = "Този сайт използва 'бисквитки' (cookies). Продължавайки да ползвате услугите му, <br class='d-none d-lg-inline'/>Вие приемате използваните от нас 'бисквитки'. <a href='/cookie-policy'>Научете повече!</a>"
     cookieButton = "Приемам"
 
     footerServiceTitle = "Услуги"
