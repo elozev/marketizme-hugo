@@ -82,3 +82,10 @@ item:
       - name: Автоматизирано изпращане.
       - name: Качествено съдържание.
       - name: Изцяло спазване на ОРЗД / GDPR.
+
+  - icon: tf-ion-android-person
+    title: Influencer Marketing
+    link: influencer-marketing
+    viewMoreButton: "Виж повече"
+    list:
+      - name: Увеличаване на доверието в бранда Ви и популяризиране чрез известни онлайн лица.

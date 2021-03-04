@@ -81,3 +81,10 @@ item:
       - name: Automatisation
       - name: Quality content
       - name: Full compliance with GDPR
+
+  - icon: tf-ion-android-person
+    title: Influencer Marketing
+    link: influencer-marketing
+    viewMoreButton: "View More"
+    list:
+      - name: Increasing trust in your brand and promoting through famous online people.

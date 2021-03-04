@@ -1,53 +1,59 @@
-enable  : true
+enable: true
 title: "Услуги"
-item  :
-  - icon  : tf-ion-social-facebook
-    title : Маркетинг в социалните мрежи
-    link : social
-    description : >
+description: "Пълен спектър от дигитални услуги"
+item:
+  - icon: tf-ion-social-facebook
+    title: Маркетинг в социалните мрежи
+    link: social
+    description: >
       Поддръжка на страници в социални мрежи за разпространяване на Вашите продукти или услуги.
-  
-  - icon  : tf-ion-social-html5
-    title : Изработка на уебсайт
-    link : webdesign
-    description : >
-      Изграждане и поддръжка на уебсайт, подходящ за нуждите на Вашия бизнес. Създаване на онлайн магазини и платформи.
 
-  - icon  : tf-ion-social-designernews
-    title : Дизайн
-    link : design
-    description : >
-      Създаване на лого, банери, уеб дизайн за вашия сайт, проекти за онлайн реклами.
+  - icon: tf-ion-social-html5
+    title: Изработка на уебсайт
+    link: webdesign
+    description: >
+      Изграждане и поддръжка на уебсайт, подходящ за нуждите на Вашия бизнес. Създаване на онлайн магазини.
 
-  - icon  : tf-ion-ios-speedometer
-    title : Рекламни кампании
-    link : ad-campaign
-    description : >
-      Достигане до голяма аудитория и нови клиенти посредством реклама във Фейсбук, Инстаграм и Гугъл.
+  - icon: tf-ion-social-designernews
+    title: Дизайн
+    link: design
+    description: >
+      Създаване на брандинг идентичност. Лого, банери, уеб дизайн. Дизайн за предпечат.
 
-  - icon  : fab fa-google
-    title : Маркетинг в търсещите машини
-    link : sem
-    description : >
-      Оптимизация на уебсайт, изграждане на рекламни кампании в търсещи машини.
+  - icon: tf-ion-ios-speedometer
+    title: Пърформaнс маркетинг
+    link: ad-campaign
+    description: >
+      Планиране, създаване и реализиране на рекламни кампании във Фейсбук, Инстаграм и Гугъл.
 
-  - icon  : tf-ion-android-contacts
-    title : Маркетинг консултации
-    link : marketing-consult    
-    description : >
+  - icon: fab fa-google
+    title: SEO
+    link: sem
+    description: >
+      SEO одит, Проучване на ключови думи, Conversion Rate Optimization, Линк Билдинг.
+
+  - icon: tf-ion-android-contacts
+    title: Маркетинг консултации
+    link: marketing-consult
+    description: >
       Изграждане на стратегия, план и анализ за развитите на вашия бранд онлайн.
 
-  - icon  : fas fa-camera-retro
-    title : Видео и фотография
-    link : video
-    description : >
+  - icon: fas fa-camera-retro
+    title: Видео и фотография
+    link: video
+    description: >
       2D, 3D и Motion Graphics анимация,
       Продуктово видео,
       Фотография
-    
 
-  - icon  : tf-ion-android-mail
-    title : Имейл Маркетинг
-    link : mail-campaigns
-    description : >
+  - icon: tf-ion-android-mail
+    title: Имейл Маркетинг
+    link: mail-campaigns
+    description: >
       Таргетиране на клиенти чрез имейл кампании.
+
+  - icon: tf-ion-android-person
+    title: Инфлуенсър Маркетинг
+    link: influencer-marketing
+    description: >
+      Увеличаване на доверието в бранда Ви и популяризиране чрез известни онлайн лица.

@@ -44,6 +44,7 @@ DefaultContentLanguage = "bg"
     footerServiceTitle = "Услуги"
     footerQuicklinkTitle = "Последвайте ни"    
     footerAboutTitle = "IN DIGITAL WE TRUST"
+    footerDescription = "Дигитална агенция за интегрирани маркетингови комуникации."
     footerSubscribeTitle = "Subscribe"
     facebookLink = "https://www.facebook.com/marketizme"
     linkedinLink = "https://www.linkedin.com/company/marketise-me/"
@@ -53,7 +54,7 @@ DefaultContentLanguage = "bg"
     # Hero Area Section
     [Languages.bg.params.hero]
         heading = "Ние сме Marketise Me"
-        description = "Дигитална агенция за интегрирани маркетингови комуникации.<br/>Ние създаваме идентичност на вашия бранд и му помагаме да расте."
+        description = "Дигитална агенция за интегрирани маркетингови комуникации.<br/> Ние създаваме идентичност на вашия бранд и му помагаме да расте."
         btnText = "ИЗПРАТИ ЗАПИТВАНЕ"
     # About 2 Section
     [Languages.bg.params.aboutSm]
@@ -80,6 +81,7 @@ DefaultContentLanguage = "bg"
         socialChannelsTitle = "В социалните мрежи"        
         address = "ул. Димитър Хаджикоцев 12 <br> София, България"
         phone   = "+359 888 252 679"
+        phone2   = "+359 889 258 640"
         # fax     = "+61 3827 3590"
         facebook= "https://www.facebook.com/marketizme/"
         # twitter = "https://twitter.com/"
@@ -102,7 +104,7 @@ DefaultContentLanguage = "bg"
         enable  = true
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
         title   = "Създаваме съдържание, което носи стойност и привлича нови клиенти!"
-        subtitle= "Свържете се с нас сега."
+        subtitle= ""
         btnText = "Позвънете"
 
     ############# 2 - Site en ENGLISH
@@ -123,6 +125,7 @@ DefaultContentLanguage = "bg"
     footerServiceTitle = "Service"
     footerQuicklinkTitle = "Follow us"
     footerAboutTitle = "IN DIGITAL WE TRUST"
+    footerDescription = "A digital agency for integrated marketing communications"
     footerSubscribeTitle = "Subscribe"
     facebookLink = "https://www.facebook.com/marketizme"
     # instagramLink = "https://www.instagram.com/marketizme/"
@@ -160,6 +163,7 @@ DefaultContentLanguage = "bg"
         socialChannelsTitle = "Social Channels"
         address = "Dimitar Hadzhikotsev 12, Sofia, Bulgaria 1421"
         phone   = "+359 888 252 679 "
+        phone2   = "+359 889 258 640"
         # fax     = "+61 3827 3590"
         facebook= "https://www.facebook.com/marketizme/"
         # twitter = "https://twitter.com/"
@@ -181,7 +185,7 @@ DefaultContentLanguage = "bg"
     [Languages.en.params.cta]
         enable  = true
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "Let's Create Something Together"
+        title   = "We help your company grow in digital world"
         subtitle= ""
         btnText = "Call Us"
 
@@ -198,10 +202,10 @@ DefaultContentLanguage = "bg"
         name    = "portfolio"
         url     = "uploads/portfolio-bg.pdf"
         weight  = 3
-    [[menu.nav]]
-        name    = "working-process"
-        url     = "service/working-process"
-        weight  = 4
+    #[[menu.nav]]
+    #    name    = "working-process"
+    #    url     = "service/working-process"
+    #    weight  = 4
     [[menu.nav]]
         name    = "about"
         url     = "about"

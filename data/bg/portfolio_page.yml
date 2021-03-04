@@ -14,10 +14,10 @@ projects:
     image: images/portfolio/portfolio-2.jpg
     link: http://mmtuning-bg.com/
 
-  - title: Мебели Ларго
+  - title: BULGARIAN IN USA
     subtitle: Website
-    image: images/portfolio/portfolio-3.jpg
-    link: http://www.mebelilargo.bg/
+    image: images/portfolio/portfolio-bgusa.jpg
+    link: #
 
   - title: NetSurf
     subtitle: Website
@@ -29,9 +29,9 @@ projects:
     image: images/portfolio/portfolio-5.jpg
     link: http://www.pandevlaw.com
 
-  - title: Гардеробна
+  - title: Viton
     subtitle: Поддръжка на социални мрежи
-    image: images/portfolio-page/garderobna.jpg
+    image: images/portfolio/portfolio-viton.jpg
     link:
 
   - title: Спектър-3 1990
@@ -62,7 +62,7 @@ projects:
   - title: Zero Bar&Grill
     subtitle: Website
     image: images/portfolio/portfolio-6.jpg
-    link: http://zerobarandgrill.com/  
+    link: http://zerobarandgrill.com/
 
   - title: Голямата Стая
     subtitle: Уебсайт
@@ -178,7 +178,7 @@ projects:
     subtitle: Лого дизайн
     image: images/portfolio-page/img.jpg
     link: #
-    
+
   - title: Реклама
     subtitle: Реклама във социалните мрежи
     image: images/portfolio-page/32-ad.jpg

@@ -1,22 +1,20 @@
 {{ define "main" }}
 
 <section class="blog-single section">
-    <div class="jumbotron jumbotron-fluid mt-5 py-5 px-3"
-        style="background-image: url('{{ with .Params.image }}{{ . | absURL }}{{ end }}');">
-        <div class="container grey-box">
+    <div class="mt-5 pt-5">
+        <div class="container mt-5 pt-5 text-center title">
             <h1 class="display-5">{{ .Title }}</h1>
+            <div class="border"></div>
             <p>{{ .Params.subTitle }}</p>
         </div>
     </div>
 
     <div class="row">
-        {{/*  <div class="container">  */}}
         <div class="col-md-6 mx-auto">
-            <div class='px-3'>
+            <div class='px-3 mb-5'>
                 {{ .Content }}
             </div>
         </div>
-        {{/*  </div>  */}}
     </div>
 </section>
 

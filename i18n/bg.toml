@@ -1,11 +1,11 @@
 [about]
-other = "За Нас"
+other = "За нас"
 [service]
 other = "Услуги"
 [portfolio]
 other = "Портфолио"
-[working-process]
-other = "Работен Процес"
+#[working-process]
+#other = "Работен процес"
 [contact]
 other = "Контакти"
 

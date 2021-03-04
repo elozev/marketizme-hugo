@@ -1,53 +1,59 @@
-enable  : true
+enable: true
 title: "Services"
-item  :
-  - icon  : tf-ion-social-facebook
-    title : Social media marketing
-    link : social
-    description : >
+description: "Full range of digital services"
+item:
+  - icon: tf-ion-social-facebook
+    title: Social Media Marketing
+    link: social
+    description: >
       Engagement in social media channels of your brand, product or service.
-  
-  - icon  : tf-ion-social-html5
-    title : Website Development
-    link : webdesign
-    description : >
+
+  - icon: tf-ion-social-html5
+    title: Website Development
+    link: webdesign
+    description: >
       We develop websites depending on your business needs. E-commerce and custom applications.
 
-  - icon  : tf-ion-social-designernews
-    title : Design
-    link : design
-    description : >
-      Logos, banners, webdesign, design projects for advertisments.
+  - icon: tf-ion-social-designernews
+    title: Design
+    link: design
+    description: >
+      Creating a branding identity. Logo, banners, web design. Prepress design.
 
-  - icon  : tf-ion-ios-speedometer
-    title : Ad Campaigns
-    link : ad-campaign
-    description : >
-      Reach huge auditory of people and potential clients through Google, Facebook and Instagram campaigns.
+  - icon: tf-ion-ios-speedometer
+    title: Performance Marketing
+    link: ad-campaign
+    description: >
+      Planning, creating and implementing advertising campaigns on Facebook, Instagram and Google.
 
-  - icon  : fab fa-google
-    title : Search Engine Marketing
-    link : sem
-    description : >
-      Website optimization, advertisement campaigns creation in the search engines. 
+  - icon: fab fa-google
+    title: SEO
+    link: sem
+    description: >
+      SEO Audit, Keyword Research, Conversion Rate Optimization, Link Building.
 
-  - icon  : tf-ion-android-contacts
-    title : Marketing consultation 
-    link : marketing-consult    
-    description : >
+  - icon: tf-ion-android-contacts
+    title: Marketing Consultation
+    link: marketing-consult
+    description: >
       Strategy creation and analysis for online development of your brand.
 
-  - icon  : fas fa-camera-retro
-    title : Видео и Фотография
-    link : video
-    description : >
+  - icon: fas fa-camera-retro
+    title: Video and Photography
+    link: video
+    description: >
       2D, 3D and motion graphics animation,
       Product video,
       Photography
-    
 
-  - icon  : tf-ion-android-mail
-    title : Email campaigns
-    link : mail-campaigns
-    description : >
+  - icon: tf-ion-android-mail
+    title: Email Marketing
+    link: mail-campaigns
+    description: >
       Target clients through email campaigns.
+
+  - icon: tf-ion-android-person
+    title: Influencer Marketing
+    link: influencer-marketing
+    description: >
+      Increasing trust in your brand and promoting through famous online people.

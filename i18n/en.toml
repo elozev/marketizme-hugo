@@ -4,8 +4,8 @@ other = "About"
 other = "Services"
 [portfolio]
 other = "Portfolio"
-[working-process]
-other = 'How we work?'
+#[working-process]
+#other = 'How we work?'
 [contact]
 other = "Contact"
 

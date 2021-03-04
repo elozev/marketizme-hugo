@@ -315,6 +315,14 @@
                         </a>
                         {{ end }}
                     </p>
+
+                    <p>
+                        {{ with .Site.Params.contact.phone2 }}
+                        <a href="tel: {{ . }}">
+                            {{.}}
+                        </a>
+                        {{ end }}
+                    </p>
                 </div>
             </div>
             <div class="col-12 col-md-4 d-none">
