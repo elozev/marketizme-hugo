@@ -5,11 +5,11 @@ subtitle: Запознайте се с предлаганите от нас ус
 viewMoreButton: Виж Повече
 item:
   - icon: tf-ion-social-facebook
-    title: Социални мрежи
+    title: Маркетинг в социалните мрежи
     link: social
     viewMoreButton: "Виж повече"
     list:
-      - name: Управение на профили в социалните мрежи.
+      - name: Управление на профили в социалните мрежи.
       - name: Създаване на съдържание.
       - name: Копирайтинг.
       - name: Месечна оптимизация.
@@ -29,13 +29,13 @@ item:
     link: design
     viewMoreButton: "Виж повече"
     list:
+      - name: Брандинг.
       - name: Лого.
-      - name: Дизайн за събития.
-      - name: Анимационно видео.
-      - name: Продуктово видео.
+      - name: Банери.
+      - name: Уеб дизайн.
 
   - icon: tf-ion-ios-speedometer
-    title: Рекламнии кампании
+    title: Рекламни кампании
     link: ad-campaign
     viewMoreButton: "Виж повече"
     list:
@@ -45,17 +45,17 @@ item:
       - name: Реклама в LinkedIn.
 
   - icon: fab fa-google
-    title: Маркетинг в търсещите машини
+    title: SEO
     link: sem
     viewMoreButton: "Виж повече"
     list:
-      - name: SEO.
-      - name: PPC Ads.
-      - name: Вътрешна оптимизация.
-      - name: Външна оптимизация.
+      - name: SEO одит.
+      - name: Проучване на ключови думи.
+      - name: Conversation rate optimization.
+      - name: Link building.
 
   - icon: tf-ion-android-contacts
-    title: Маркетинг консулатции
+    title: Маркетинг консултации
     link: marketing-consult
     viewMoreButton: "Виж повече"
     list:
@@ -88,4 +88,6 @@ item:
     link: influencer-marketing
     viewMoreButton: "Виж повече"
     list:
-      - name: Увеличаване на доверието в бранда Ви и популяризиране чрез известни онлайн лица.
+      - name: Увеличаване на доверието.
+      - name: Популяризиране
+      - name: Достигане до таргет аудитория

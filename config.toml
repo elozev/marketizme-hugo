@@ -29,6 +29,7 @@ DefaultContentLanguage = "bg"
 [Languages]
     ############ 1 - Site en FRANCAIS
     [Languages.bg]
+    indexURL="/"
     weight = 1
     languageCode = "bg"
     title = "Marketise Me – Full Service Digital Agency"
@@ -109,6 +110,7 @@ DefaultContentLanguage = "bg"
 
     ############# 2 - Site en ENGLISH
     [Languages.en]
+    indexURL="/en/"
     weight = 2
     languageCode = "en-us"
     title = "Marketise Me - Full Service Digital Agency."

@@ -1,93 +1,95 @@
 <head>
 
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <meta name="description" content="Online Marketing and Websites" />
-  <meta name="author" content="@emillozev" />
-  {{ .Hugo.Generator }}
-  <title> {{ .Site.Title }}</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Online Marketing and Websites" />
+    <meta name="author" content="@emillozev" />
+    {{ .Hugo.Generator }}
+    <title> {{ .Site.Title }}</title>
 
-  {{ "<!-- Mobile Specific Meta -->" | safeHTML }}
-  <meta property="og:image" content="https://i.imgur.com/bDd3rN8.png" />
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- <meta name=”robots” content=”index,follow” /> -->
+    {{ "<!-- Mobile Specific Meta -->" | safeHTML }}
+    <meta property="og:image" content="https://i.imgur.com/bDd3rN8.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <meta name=”robots” content=”index,follow” /> -->
 
 
-  {{ "<!-- Favicon -->" | safeHTML }}
-  <link rel="shortcut icon" type="image/x-icon" href="{{ "images/favicon.png" | absURL }}" />
+    {{ "<!-- Favicon -->" | safeHTML }}
+    <link rel="shortcut icon" type="image/x-icon" href="{{ "images/favicon.png" | absURL }}" />
 
-  <meta name="google-site-verification" content="yzHsDiZu359GAkHWKwWOxYtzj7eWaKI2wQAcnsFy1Kg" />
-  {{ "<!-- Revo Slider CSS ================================================== --> <!-- RS5.0 Main Stylesheet -->" | safeHTML }}
-  <link rel="stylesheet" type="text/css" href="{{ "plugins/revo-slider/css/settings.css" | absURL }}">
-  {{/*  <!-- RS5.0 Layers and Navigation Styles -->  */}}
-  <link rel="stylesheet" type="text/css" href="{{ "plugins/revo-slider/css/layers.css" | absURL }}">
-  <link rel="stylesheet" type="text/css" href="{{ "plugins/revo-slider/css/navigation.css" | absURL }}">
-  {{/*  <!-- REVOLUTION STYLE SHEETS -->  */}}
-  <link rel="stylesheet" type="text/css"
-    href="{{ "plugins/revo-slider/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" | absURL }}">
-  <link rel="stylesheet" type="text/css"
-    href="{{ "plugins/revo-slider/fonts/font-awesome/css/font-awesome.min.css" | absURL }}">
-  <link rel="stylesheet" type="text/css" href="{{ "plugins/revo-slider/css/settings.css" | absURL }}">
-  <link rel="stylesheet" type="text/css" href="{{ "plugins/revo-slider/css/layers.css" | absURL }}">
-  <link rel="stylesheet" type="text/css" href="{{ "plugins/revo-slider/css/navigation.css" | absURL }}">
+    <meta name="google-site-verification" content="yzHsDiZu359GAkHWKwWOxYtzj7eWaKI2wQAcnsFy1Kg" />
+    {{ "<!-- Revo Slider CSS ================================================== --> <!-- RS5.0 Main Stylesheet -->" | safeHTML }}
+    <link rel="stylesheet" type="text/css" href="{{ "plugins/revo-slider/css/settings.css" | absURL }}">
+    {{/*  <!-- RS5.0 Layers and Navigation Styles -->  */}}
+    <link rel="stylesheet" type="text/css" href="{{ "plugins/revo-slider/css/layers.css" | absURL }}">
+    <link rel="stylesheet" type="text/css" href="{{ "plugins/revo-slider/css/navigation.css" | absURL }}">
+    {{/*  <!-- REVOLUTION STYLE SHEETS -->  */}}
+    <link rel="stylesheet" type="text/css"
+        href="{{ "plugins/revo-slider/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" | absURL }}">
+    <link rel="stylesheet" type="text/css"
+        href="{{ "plugins/revo-slider/fonts/font-awesome/css/font-awesome.min.css" | absURL }}">
+    <link rel="stylesheet" type="text/css" href="{{ "plugins/revo-slider/css/settings.css" | absURL }}">
+    <link rel="stylesheet" type="text/css" href="{{ "plugins/revo-slider/css/layers.css" | absURL }}">
+    <link rel="stylesheet" type="text/css" href="{{ "plugins/revo-slider/css/navigation.css" | absURL }}">
 
-  {{"<!-- Stylesheets -->" | safeHTML}}
-  {{ "<!-- Themefisher Icon font -->" | safeHTML }}
-  <link rel="stylesheet" href="{{ "plugins/themefisher-font/style.css" | absURL }}">
-  {{ "<!-- bootstrap.min css -->" | safeHTML}}
-  <link rel="stylesheet" href="{{ "plugins/bootstrap/dist/css/bootstrap.min.css" | absURL }}">
-  {{ "<!-- Lightbox.min css -->" | safeHTML }}
-  <link rel="stylesheet" href="{{ "plugins/lightbox2/dist/css/lightbox.min.css" | absURL }}">
-  {{ "<!-- Slick Carousel -->" | safeHTML }}
-  <link rel="stylesheet" href="{{ "plugins/slick-carousel/slick/slick.css" | absURL }}">
-  <link rel="stylesheet" href="{{ "plugins/slick-carousel/slick/slick-theme.css" | absURL }}">
-  <link rel="stylesheet" href="{{ "plugins/slick-carousel/slick/slick-theme.css" | absURL }}">
-  <link rel="stylesheet" href="{{ "plugins/fontawesome/css/all.min.css" | absURL }}">
-  {{ "<!-- Main Stylesheet -->" | safeHTML }}
-  <!-- @todo TODO fix resources -->
-  {{ $styles := resources.Get "css/style.css" | minify}}
-  <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
-  <!-- Google Tag Manager -->
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({
-        'gtm.start': new Date().getTime(),
-        event: 'gtm.js'
-      });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-      j.async = true;
-      j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-5TBMHM3');
-  </script>
-  <!-- End Google Tag Manager —> -->
+    {{"<!-- Stylesheets -->" | safeHTML}}
+    {{ "<!-- Themefisher Icon font -->" | safeHTML }}
+    <link rel="stylesheet" href="{{ "plugins/themefisher-font/style.css" | absURL }}">
+    {{ "<!-- bootstrap.min css -->" | safeHTML}}
+    <link rel="stylesheet" href="{{ "plugins/bootstrap/dist/css/bootstrap.min.css" | absURL }}">
+    {{ "<!-- Lightbox.min css -->" | safeHTML }}
+    <link rel="stylesheet" href="{{ "plugins/lightbox2/dist/css/lightbox.min.css" | absURL }}">
+    {{ "<!-- Slick Carousel -->" | safeHTML }}
+    <link rel="stylesheet" href="{{ "plugins/slick-carousel/slick/slick.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "plugins/slick-carousel/slick/slick-theme.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "plugins/slick-carousel/slick/slick-theme.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "plugins/fontawesome/css/all.min.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "plugins/hamburgers.min.css" | absURL }}">
 
-  <script>
-    function ipLookUp() {
-      const currentPathOnIndex = window.location.pathname === '/bg/';
-      console.log("Current page: ", window.location.pathname)
-      fetch('http://ip-api.com/json')
-        .then(
-          function success(response) {
-            console.log('User\'s Location Data is ', response);
-            response.json().then((body) => {
-              console.log('User\'s Country Code', body.countryCode);
-              if (currentPathOnIndex && body.countryCode !== 'BG') {
-                // window.location.replace("https://marketiseme.com/en/");
-              }
+    {{ "<!-- Main Stylesheet -->" | safeHTML }}
+    <!-- @todo TODO fix resources -->
+    {{ $styles := resources.Get "css/style.css" | minify}}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
             });
-          },
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5TBMHM3');
+    </script>
+    <!-- End Google Tag Manager —> -->
 
-          function fail(data, status) {
-            console.log('Request failed.  Returned status of',
-              status);
-          }
-        );
-    }
-    ipLookUp()
-  </script>
+    <script>
+        function ipLookUp() {
+            const currentPathOnIndex = window.location.pathname === '/bg/';
+            console.log("Current page: ", window.location.pathname)
+            fetch('http://ip-api.com/json')
+                .then(
+                    function success(response) {
+                        console.log('User\'s Location Data is ', response);
+                        response.json().then((body) => {
+                            console.log('User\'s Country Code', body.countryCode);
+                            if (currentPathOnIndex && body.countryCode !== 'BG') {
+                                // window.location.replace("https://marketiseme.com/en/");
+                            }
+                        });
+                    },
+
+                    function fail(data, status) {
+                        console.log('Request failed.  Returned status of',
+                            status);
+                    }
+                );
+        }
+        ipLookUp()
+    </script>
 
 </head>

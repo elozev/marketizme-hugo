@@ -28,10 +28,10 @@ item:
     link: design
     viewMoreButton: "View More"
     list:
+      - name: Branding identity
       - name: Logo
-      - name: Event design
-      - name: Animated Video
-      - name: Product Video
+      - name: Banners
+      - name: Web design
 
   - icon: tf-ion-ios-speedometer
     title: Performance Marketing
@@ -48,10 +48,10 @@ item:
     link: sem
     viewMoreButton: "View More"
     list:
-      - name: SEO
-      - name: Internal optimisation
-      - name: External optimisation
-      - name: PPC Ads
+      - name: SEO Audit
+      - name: Keyword research
+      - name: Conversion rate optimization
+      - name: Link building
 
   - icon: tf-ion-android-contacts
     title: Marketing consultations
@@ -87,4 +87,6 @@ item:
     link: influencer-marketing
     viewMoreButton: "View More"
     list:
-      - name: Increasing trust in your brand and promoting through famous online people.
+      - name: Increase trust.
+      - name: Promotion creation.
+      - name: Target audience reach.
