@@ -6,6 +6,11 @@
                 <div class="col-sm-4 col-md-4 col-lg-4">
                     <h3>{{ .Site.Params.footerAboutTitle }}</h3>
                     {{ with .Site.Params.footerDescription }}<p>{{ . }}</p>{{ end }}
+
+                    <a href="https://www.httpool.com/" target="_blank">
+                        <img src="{{"images/http-pool-logo.png" | absURL }}" class="img-fluid"
+                            style="max-width: 240px" />
+                    </a>
                 </div>
                 <div class="col-sm-4 col-md-4 col-lg-4">
                     <h3>{{ .Site.Params.footerServiceTitle }}</h3>

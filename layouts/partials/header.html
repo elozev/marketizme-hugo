@@ -46,7 +46,7 @@
                                 </li>
                                 {{ range .Site.Menus.nav }}
                                 <li class="nav-item">
-                                    {{ if eq .URL "uploads/portfolio-bg.pdf" }}
+                                    {{ if eq .URL "uploads/portfolio.pdf" }}
                                     <a class="nav-link" href="{{ .URL | absLangURL }}"
                                         target="_blank">{{ i18n .Name }}</a>
                                     {{ else }}

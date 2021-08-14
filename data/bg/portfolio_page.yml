@@ -14,10 +14,10 @@ projects:
     image: images/portfolio/portfolio-2.jpg
     link: http://mmtuning-bg.com/
 
-  - title: BULGARIAN IN USA
+  - title: Aroma
     subtitle: Website
-    image: images/portfolio/portfolio-bgusa.jpg
-    link: #
+    image: images/portfolio/portfolio-aroma.jpg
+    link: https://aroma.bg/
 
   - title: NetSurf
     subtitle: Website
