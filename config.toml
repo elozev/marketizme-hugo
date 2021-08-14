@@ -41,6 +41,7 @@ DefaultContentLanguage = "bg"
     cookieText = "Този сайт използва 'бисквитки' (cookies). Продължавайки да ползвате услугите му, <br class='d-none d-lg-inline'/>Вие приемате използваните от нас 'бисквитки'. <a href='/cookie-policy-bg.pdf'>Научете повече!</a>"
     cookieButton = "Приемам"
     cookieLink = "/cookie-policy-bg.pdf"
+    portfolioUrl = "portfolio-bg.pdf"
 
     footerServiceTitle = "Услуги"
     footerQuicklinkTitle = "Последвайте ни"    
@@ -122,6 +123,7 @@ DefaultContentLanguage = "bg"
     cookieText = "This website uses cookies. By continuing to use its services, you accept the 'cookies' we use. <a href='/cookie-policy-en.pdf'>Learn more</a>!"
     cookieButton = "Accept"
     cookieLink = "/cookie-policy-en.pdf"
+    portfolioUrl = "portfolio-en.pdf"
 
     # footerDescription = "Marketise Me is a team of young and motivated people striving perfectionism."
     footerServiceTitle = "Service"
@@ -202,7 +204,7 @@ DefaultContentLanguage = "bg"
         weight  = 2
     [[menu.nav]]
         name    = "portfolio"
-        url     = "uploads/portfolio.pdf"
+        url     = "portfolio"
         weight  = 3
     #[[menu.nav]]
     #    name    = "working-process"
