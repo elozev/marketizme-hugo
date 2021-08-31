@@ -7,10 +7,16 @@
                     <h3>{{ .Site.Params.footerAboutTitle }}</h3>
                     {{ with .Site.Params.footerDescription }}<p>{{ . }}</p>{{ end }}
 
-                    <a href="https://www.httpool.com/" target="_blank">
-                        <img src="{{"images/http-pool-logo.png" | absURL }}" class="img-fluid mb-3"
-                            style="max-width: 140px" />
-                    </a>
+                    <div class='d-flex justify-content-between'>
+                        <a href="https://www.httpool.com/" target="_blank">
+                            <img src="{{"images/http-pool-logo.png" | absURL }}" class="img-fluid mb-3"
+                                style="max-width: 140px" />
+                        </a>
+                        <a href="https://www.google.com/partners/agency?id=3685703362" target="_blank">
+                            <img src="https://www.gstatic.com/partners/badge/images/2021/PartnerBadgeClickable.svg"
+                                style="max-width: 120px" />
+                        </a>
+                    </div>
                 </div>
                 <div class="col-sm-4 col-md-4 col-lg-4">
                     <h3>{{ .Site.Params.footerServiceTitle }}</h3>
