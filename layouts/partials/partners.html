@@ -1,0 +1,44 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.partners }}
+
+<section class="section" id="partners">
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="title text-center">
+                    {{ with .topTitle }}<h4>{{.}}</h4>{{ end }}
+                    {{ with .title }}<h2>{{.}}</h2><span class="border"></span>{{ end }}
+                    {{ with .subtitle }}<p>{{.}}</p>{{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 d-flex justify-content-center align-items-center my-3">
+                <a href="https://www.httpool.com/" target="_blank">
+                    <img src="{{"images/http-pool-logo-dark.png" | absURL }}" class="img-fluid"
+                        style="max-width: 240px" />
+                </a>
+            </div>
+            <div class="col-md-4 d-flex justify-content-center align-items-center my-3">
+                <a href="https://www.google.com/partners/agency?id=3685703362" target="_blank">
+                    <img src="https://www.gstatic.com/partners/badge/images/2021/PartnerBadgeClickable.svg"
+                        style="max-width: 240px;"  />
+                </a>
+            </div>
+            <div class="col-md-4 d-flex justify-content-center align-items-center my-3">
+                <a href="https://cloudcart.com/bg" target="_blank">
+                    <img src="{{"images/cloudcart.png" | absURL }}" class="img-fluid"
+                        style="max-width: 240px" />
+                </a>
+            </div>
+        </div>
+    </div>
+
+
+</section>
+{{ "<!-- End Section -->" | safeHTML }}
+{{ end }}
