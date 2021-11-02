@@ -14,14 +14,14 @@ item:
     link: https://aroma.bg/
 
   - quote: ""
-    clientThumb: images/client-logo/енерзона-лого.png
-    clientName: Енерзона
-    link: https://enerzona.bg/
+    clientThumb: images/client-logo/palms-logo.png
+    clientName: Palms
+    link: #
 
   - quote: ""
-    clientThumb: images/client-logo/студио-дес-лого.png
-    clientName: Студио Дес
-    link: https://www.facebook.com/obuvkidess/
+    clientThumb: images/client-logo/hit-oferti-logo.png
+    clientName: Hit Oferti
+    link: https://hitoferti.com/
 
   - quote: ""
     clientThumb: images/client-logo/cutters-logo.png
@@ -37,11 +37,6 @@ item:
     clientThumb: images/client-logo/slavia-logo.png
     clientName: Славия София
     link: https://www.facebook.com/SlaviaSofia/
-
-  - quote: ""
-    clientThumb: images/client-logo/rmprogrami-logo.png
-    clientName: R&M
-    link: https://rmprogrami.com/
 
   - quote: ""
     clientThumb: images/client-logo/detskotsarstvo.png
@@ -63,10 +58,6 @@ item:
     clientName: Green Park
     link: http://stroybv1.com/
 
-  - quote: ""
-    clientThumb: images/client-logo/eloz-logo.png
-    clientName: Смени маслото - Елоз
-    link: http://www.smenimasloto.bg/
 
   - quote: ""
     clientThumb: images/client-logo/specter-3.png
@@ -88,6 +79,16 @@ item2:
     clientThumb: images/client-logo/netsurf-logo.png
     clientName: NetSurf
     link: https://netsurf.bg
+
+  - quote: ""
+    clientThumb: images/client-logo/mebeli-largo.png
+    clientName: Mebeli Largo
+    link: https://www.mebelilargo.bg/
+
+  - quote: ""
+    clientThumb: images/client-logo/dibla-logo.png
+    clientName: Dibla
+    link: https://www.dibla.com/
 
   - quote: ""
     clientThumb: images/client-logo/академия-споразумения-лого.png
@@ -120,11 +121,6 @@ item2:
     link: http://www.goliamatastaia.com/
 
   - quote: ""
-    clientThumb: images/client-logo/lexart.png
-    clientName: LexArt
-    link: https://lexart.bg/
-
-  - quote: ""
     clientThumb: images/client-logo/bizarre_png.png
     clientName: Bizarre
     link: https://www.facebook.com/bizarrebaranddinner/
@@ -133,11 +129,6 @@ item2:
     clientThumb: images/client-logo/moda-logo.png
     clientName: Moda Italiana
     link: https://www.modaitaliana.bg/
-
-  - quote: ""
-    clientThumb: images/client-logo/mebeli-largo.png
-    clientName: Mebeli Largo
-    link: http://www.mebelilargo.bg/
 
   - quote: ""
     clientThumb: images/client-logo/graphica-logo.png
