@@ -1,12 +1,15 @@
 # Marketise Me Company Website
 ---
 
-Run project (download hugo 0.70 and create folder `hugo` in the root of the project):
+**Note:** This project requires [hugo 0.68](git@github.com:elozev/marketizme-hugo.git)!
+
+
+Run project:
 ```
-./hugo/hugo serve
+hugo serve
 ```
 
 To build the project:
 ```
-./hugo/hugo
+hugo
 ```
