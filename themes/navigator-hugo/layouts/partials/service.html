@@ -1,0 +1,41 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.service }}
+{{ if .enable }}
+{{ "<!-- Service Section Start -->" | safeHTML }}
+<section class="service-list section bg-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="title text-center">
+                    {{ with .topTitle }}<h4>{{.}}</h4>{{ end }}
+                    {{ with .title }}<h2>{{.}}</h2><span class="border"></span>{{ end }}
+                    {{ with .subtitle }}<p>{{.}}</p>{{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row mx-auto">
+        {{ range .item }}
+        <div class="col-12 col-md-6 col-lg-3">
+            {{ with .link }} <a href=" {{ . }} ">{{ end }}
+                <div class="block mt-1 text-center" style='min-height: 300px;'>
+                    {{ with .icon }}<i class="{{.}}"></i>{{ end }}
+                    {{ with .title }}<h3>{{.}}</h3>{{ end }}
+                    <ul>
+                        {{ range .list }}
+                        <li>{{.name}}</li>
+                        {{ end }}
+                    </ul>
+                </div>
+                <div class='block justify-content-center text-center mb-1'>
+                    {{ with .viewMoreButton}}<button class="btn btn-white">{{.}}</button>{{end}}
+                </div>
+            </a>
+        </div>
+        {{ end }}
+    </div>
+    </div>
+</section>
+{{ "<!-- Service Section Start -->" | safeHTML }}
+{{ end }}
+{{ end }}

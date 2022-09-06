@@ -1,0 +1,20 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.clients }}
+    {{ if .enable }}
+    {{ "<!-- Client Section Start -->" | safeHTML }}
+    <section class="section clients-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div id="clients-slider" class="clients-logo-slider">
+                        {{ range .clientLogo }}
+                        <img src="{{ .image | absURL }}" alt="client-logo">
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    {{ "<!-- Client Section End -->" | safeHTML }}
+    {{ end }}
+{{ end }}
